@@ -1,0 +1,37 @@
+{
+  "resources": [
+    {
+      "name": "trove-contributors",
+      "type": "table",
+      "path": "data/trove-contributors.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "total_items",
+            "type": "integer"
+          },
+          {
+            "name": "parent",
+            "type": "string"
+          },
+          {
+            "name": "nuc",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
