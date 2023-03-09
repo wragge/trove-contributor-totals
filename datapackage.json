@@ -15,20 +15,82 @@
             "type": "string"
           },
           {
-            "name": "name",
+            "name": "nuc",
             "type": "string"
           },
           {
-            "name": "total_items",
-            "type": "integer"
+            "name": "name",
+            "type": "string"
           },
           {
             "name": "parent",
             "type": "string"
           },
           {
+            "name": "total",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "trove-contributors-formats",
+      "type": "table",
+      "path": "data/trove-contributors-formats.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
             "name": "nuc",
             "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "zone",
+            "type": "string"
+          },
+          {
+            "name": "format",
+            "type": "string"
+          },
+          {
+            "name": "total",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "trove-contributors-zones",
+      "type": "table",
+      "path": "data/trove-contributors-zones.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "nuc",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "zone",
+            "type": "string"
+          },
+          {
+            "name": "total",
+            "type": "integer"
           }
         ]
       }

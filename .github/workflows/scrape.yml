@@ -23,6 +23,7 @@ jobs:
       env:
         TROVE_API_KEY: ${{ secrets.TROVE_API_KEY }}
       run: python get_contributors.py
+      run: python get_contributor_totals.py
     - name: Commit and push if it changed
       run: |-
         git config user.name 'Automated'

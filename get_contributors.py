@@ -1,5 +1,5 @@
 import os
-import time
+import json
 from pathlib import Path
 
 import pandas as pd  # makes manipulating the data easier
@@ -23,7 +23,7 @@ def get_contrib_details(record, parent=None):
     details = {
         "id": record["id"],
         "name": record["name"],
-        "total_items": record["totalholdings"],
+        "total": int(record["totalholdings"]),
         "parent": None,
     }
     if "nuc" in record:
@@ -54,6 +54,7 @@ def get_contributors():
         "https://api.trove.nla.gov.au/v2/contributor", params=params
     )
     data = response.json()
+    Path("data", "trove-contributors.json").write_text(json.dumps(data))
     for contrib in data["response"]["contributor"]:
         contributors += get_contrib_details(contrib)
     return contributors
@@ -64,7 +65,7 @@ def main():
     contributors = get_contributors()
     df = pd.DataFrame(contributors)
     print(df.shape)
-    df.to_csv(Path("data", "trove-contributors.csv"), index=False)
+    df[["id", "nuc", "name", "parent", "total"]].to_csv(Path("data", "trove-contributors.csv"), index=False)
 
 if __name__ == "__main__":
     main()
