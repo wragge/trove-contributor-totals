@@ -36,6 +36,7 @@ def get_contrib_details(record, parent=None):
         details["parent"] = parent["id"]
     records = [details]
     if "children" in record:
+        record["name"] = details["name"]
         records += get_children(record)
     return records
 
