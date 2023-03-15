@@ -33,10 +33,8 @@ Note that you can use the `nuc` values to search for items in Trove. For example
 
 This dataset was created by searching for contributor's NUC codes in each Trove zone. This gives a count of records by contributor and zone. The dataset is saved as a CSV file containing the following columns:
 
-* `id` – Trove identifier for organisation/project
 * `nuc` – NUC (National Union Catalogue) identifier for this organisation/project
 * `name` – name of the organisation/project
-* `parent` – identifier of parent organisation
 * `zone` – name of the Trove zone
 * `total` – number of records contributed by this organisation/project
 
@@ -44,17 +42,14 @@ This dataset was created by searching for contributor's NUC codes in each Trove 
 
 This dataset was created by searching for contributor's NUC codes in each Trove zone and requesting the `format` facet. This gives a count of records by contributor, zone, and format. The dataset is saved as a CSV file containing the following columns:
 
-* `id` – Trove identifier for organisation/project
 * `nuc` – NUC (National Union Catalogue) identifier for this organisation/project
 * `name` – name of the organisation/project
-* `parent` – identifier of parent organisation
 * `zone` – name of the Trove zone
 * `format` – format type (see Trove's [list of formats](https://trove.nla.gov.au/about/create-something/using-api/api-technical-guide#formats))
 * `total` – number of records contributed by this organisation/project
 
 
-
 ---
 
-Created by [Tim Sherratt](https://timsherratt.org), April 2022. If you think this is useful, you can become a [GitHub sponsor](https://github.com/sponsors/wragge).
+Created by [Tim Sherratt](https://timsherratt.org). If you think this is useful, you can become a [GitHub sponsor](https://github.com/sponsors/wragge).
 
