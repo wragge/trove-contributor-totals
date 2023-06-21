@@ -1,6 +1,76 @@
 {
   "resources": [
     {
+      "name": "trove-contributors-categories",
+      "type": "table",
+      "path": "data/trove-contributors-categories.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "nuc",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "category_name",
+            "type": "string"
+          },
+          {
+            "name": "category_code",
+            "type": "string"
+          },
+          {
+            "name": "total",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "trove-contributors-categories-formats",
+      "type": "table",
+      "path": "data/trove-contributors-categories-formats.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "nuc",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "category_name",
+            "type": "string"
+          },
+          {
+            "name": "category_code",
+            "type": "string"
+          },
+          {
+            "name": "format",
+            "type": "string"
+          },
+          {
+            "name": "total",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
       "name": "trove-contributors",
       "type": "table",
       "path": "data/trove-contributors.csv",
