@@ -1,56 +1,56 @@
 id,nuc,name,parent,total
 VPWLH,VPWLH,4th/19th Prince of Wales'  Light Horse Regiment Unit. History Room.,,1570
 NBAL,NBAL,Abbotsleigh. Betty Archdale Library.,,1
-ADFA,ADFA,"Academy Library, UNSW Canberra.",,290326
-ACT,ACT,ACT Legislative Assembly Library.,,11288
-SACC,SACC,Adelaide City Libraries. Adelaide City Libraries - City Library.,,83339
-SAH,SAH,Adelaide Hills Library Service. Stirling Library.,,58698
-STWL,STWL,Adelaide Plains Library Service. Two Wells Public Library.,,13994
+ADFA,ADFA,"Academy Library, UNSW Canberra.",,290261
+ACT,ACT,ACT Legislative Assembly Library.,,20395
+SACC,SACC,Adelaide City Libraries. Adelaide City Libraries - City Library.,,83429
+SAH,SAH,Adelaide Hills Library Service. Stirling Library.,,58884
+STWL,STWL,Adelaide Plains Library Service. Two Wells Public Library.,,14014
 SATL,SATL,Adelaide Theological Library.,,1326
 QAAT,QAAT,Administrative Appeals Tribunal. Principal Registry Library.,,4227
-WAHS,WAHS,Albany Historical Society Inc..,,1589
+WAHS,WAHS,Albany Historical Society Inc..,,1588
 9907,,Albany Public Library.,,1
 WAPY,WAPY,Albany Public Library.,9907,1
 WWEL,WWEL,Albany Public Library. Wellstead Library.,9907,0
 VAPRC,VAPRC,Albert Park-South Melbourne Rowing Club.,,16
 NABH,NABH,Albury Wodonga Health.,,1245
-NALB,NALB,AlburyCity libraries. Albury LibraryMuseum.,,48354
+NALB,NALB,AlburyCity libraries. Albury LibraryMuseum.,,48342
 NALB:DC,NALB:DC,AlburyCity libraries. Albury LibraryMuseum. Albury LibraryMuseum Digital Collections.,NALB,33329
 340602,,AlburyCity libraries. Albury LibraryMuseum. Albury LibraryMuseum Digital Collections. Albury Library Museum Digital Collections.,NALB:DC,0
-VADF,VADF,Alcohol and Drug Foundation. ADF Library.,,3449
-SALC,SALC,Alexandrina Libraries. Goolwa Library.,,36403
+VADF,VADF,Alcohol and Drug Foundation. ADF Library.,,3450
+SALC,SALC,Alexandrina Libraries. Goolwa Library.,,36493
 VAHNL,VAHNL,Alfred Hospital Nurses League - Nursing Archives.,,44
-XASPL,XASPL,Alice Springs Town Council. Alice Springs Public Library.,,112294
+XASPL,XASPL,Alice Springs Town Council. Alice Springs Public Library.,,112361
 VAACS,VAACS,All Access.,,1
 QASAS,QASAS,All Saints Anglican School.,,0
 5428,,All Saints Anglican School. Junior Library.,QASAS,0
 5430,,All Saints Anglican School. Senior Library.,QASAS,0
-14992,,Alphacrucis College Limited.,,74397
-SALPH,SALPH,Alphacrucis College Limited. Adelaide Campus.,14992,5935
-QHBC,QHBC,Alphacrucis College Limited. Brisbane Campus Library.,14992,2725
-TALPH,TALPH,Alphacrucis College Limited. Hobart Campus.,14992,7925
-VHBC,VHBC,Alphacrucis College Limited. Melbourne Campus Library.,14992,30908
+14992,,Alphacrucis College Limited.,,74398
+SALPH,SALPH,Alphacrucis College Limited. Adelaide Campus.,14992,5936
+QHBC,QHBC,Alphacrucis College Limited. Brisbane Campus Library.,14992,2723
+TALPH,TALPH,Alphacrucis College Limited. Hobart Campus.,14992,7924
+VHBC,VHBC,Alphacrucis College Limited. Melbourne Campus Library.,14992,30909
 WHBC,WHBC,Alphacrucis College Limited. Perth Campus Library.,14992,5454
-NSCR,NSCR,Alphacrucis College Limited. Sydney Campus Library.,14992,21450
+NSCR,NSCR,Alphacrucis College Limited. Sydney Campus Library.,14992,21452
 SALS,SALS,ALS Library Services Pty Ltd.,,62
-XAL,XAL,Alyangula Area School. Alyangula Joint Use Library.,,13462
+XAL,XAL,Alyangula Area School. Alyangula Joint Use Library.,,13463
 SARHC,SARHC,American River Historic Collection.,,177
-SANDA,SANDA,Andamooka School Community. Andamooka Library.,,6605
+SANDA,SANDA,Andamooka School Community. Andamooka Library.,,6606
 VTAMA,VTAMA,Ararat Gallery TAMA.,,549
 AAACT,AAACT,ArchivesACT.,,111018
 NARM,NARM,Armidale Regional Council Libraries. Armidale War Memorial Library.,,1
-NSWA,NSWA,Art Gallery of New South Wales. Edmund and Joanna Capon Research Library and Archive.,,80431
-SAA,SAA,Art Gallery of South Australia. Art Gallery of South Australia Research Library.,,41328
+NSWA,NSWA,Art Gallery of New South Wales. Edmund and Joanna Capon Research Library and Archive.,,80523
+SAA,SAA,Art Gallery of South Australia. Art Gallery of South Australia Research Library.,,41327
 VACP,VACP,Arts Centre Melbourne. Performing Arts Collection.,,5316
 NAS,NAS,Ascham School: Margaret Bailey Library.,,5
 NCHBS,NCHBS,ASEAN - China Business Services.,,29
 VSPC,VSPC,Association of Franciscan Order of Friars Minor. St Paschal Library.,,46163
 AAGD,AAGD,Attorney General's Department.,,17598
 VAGB,VAGB,Aussie Global Books.,,2
-SAUS,SAUS,AusStage.,,173749
+SAUS,SAUS,AusStage.,,173832
 SAUS:ANDS,SAUS:ANDS,AusStage. Research Data via ANDS.,SAUS,1
-VAUH,VAUH,Austin Health. Austin Health Library.,,24103
-VAUH:IR,VAUH:IR,Austin Health. Austin Health Library. Digital Respository.,VAUH,18438
+VAUH,VAUH,Austin Health. Austin Health Library.,,24117
+VAUH:IR,VAUH:IR,Austin Health. Austin Health Library. Digital Respository.,VAUH,18458
 VAVSAJ,VAVSAJ,Australasian Journal of Victorian Studies .,,102
 VPC,VPC,Australia Post. Australia Post: POSTlibrary & Knowledge Centre.,,1
 12216,,Australian Academy of Science.,,20037
@@ -61,7 +61,7 @@ AAS:FA,AAS:FA,Australian Academy of Science. Fenner Archives.,12216,20036
 VANAN:IR,VANAN:IR,Australian and New Zealand College of Anaesthetists. ANZCA Institutional Repository .,12376,599
 VANAN,VANAN,Australian and New Zealand College of Anaesthetists. ANZCA Library.,12376,4678
 VGKM,VGKM,Australian and New Zealand College of Anaesthetists. Geoffrey Kaye Museum of Anaesthetic History.,12376,357
-WAAM,WAAM,Australian Army Museum of Western Australia.,,8949
+WAAM,WAAM,Australian Army Museum of Western Australia.,,8959
 12222,,Australian Broadcasting Corporation.,,442710
 ABC:ARC,ABC:ARC,Australian Broadcasting Corporation. ABC Archive.,12222,0
 9679,,Australian Broadcasting Corporation. ABC Brisbane Sound Library.,12222,0
@@ -71,23 +71,23 @@ ABC:RN,ABC:RN,Australian Broadcasting Corporation. ABC Radio National.,12222,441
 NABC,NABC,Australian Broadcasting Corporation. ABC Reference Library.,12222,0
 ABC:FC,ABC:FC,Australian Broadcasting Corporation. ABC Television - Four Corners.,12222,632
 XABC,XABC,Australian Broadcasting Corporation. Archive & Library Services - ABC Darwin.,12222,0
-340397,,Australian Catholic University.,,2339
-AACU:AC,AACU:AC,Australian Catholic University. ACU Art collection.,340397,1213
-AACU:DC,AACU:DC,Australian Catholic University. ACU Research Bank.,340397,1036
+340397,,Australian Catholic University.,,2372
+AACU:AC,AACU:AC,Australian Catholic University. ACU Art collection.,340397,1235
+AACU:DC,AACU:DC,Australian Catholic University. ACU Research Bank.,340397,1047
 NACU:E,NACU:E,Australian Catholic University. Australian Catholic University Library.,340397,1
 AACU:ANDS,AACU:ANDS,Australian Catholic University. Research Data via ANDS.,340397,89
 12870,,Australian Centre for the Moving Image.,,43042
 VFM,VFM,Australian Centre for the Moving Image. Australian Centre for the Moving Image Collections.,12870,42992
 VFM:ANDS,VFM:ANDS,Australian Centre for the Moving Image. Research Data via ANDS.,12870,50
-12236,,Australian College of Applied Psychology.,,16686
-NACAP,NACAP,Australian College of Applied Psychology. ACAP Library (Sydney).,12236,7368
+12236,,Australian College of Applied Psychology.,,16649
+NACAP,NACAP,Australian College of Applied Psychology. ACAP Library (Sydney).,12236,7369
 QACAP,QACAP,Australian College of Applied Psychology. Brisbane Library.,12236,3083
-VACAP,VACAP,Australian College of Applied Psychology. Melbourne Library.,12236,6235
-QECN,QECN,Australian College of Natural Medicine Pty Ltd. Endeavour College of Natural Health Library.,,5572
+VACAP,VACAP,Australian College of Applied Psychology. Melbourne Library.,12236,6197
+QECN,QECN,Australian College of Natural Medicine Pty Ltd. Endeavour College of Natural Health Library.,,5576
 NCN,NCN,Australian College of Nursing. Katie Zepps Nursing Library.,,3419
-NACP,NACP,Australian College of Physical Education. Australian College of Physical Education Library.,,7717
+NACP,NACP,Australian College of Physical Education. Australian College of Physical Education Library.,,7682
 AACOM,AACOM,Australian Competition and Consumer Commission. ACCC Library.,,2760
-VER,VER,Australian Council for Educational Research. Cunningham Library (ACER).,,65099
+VER,VER,Australian Council for Educational Research. Cunningham Library (ACER).,,65100
 NDA,NDA,Australian Dental Association - New South Wales Branch. Hardwick Memorial Library.,,2590
 VEMA,VEMA,Australian Emergency Management Library.,,13405
 12280,,Australian Federal Police.,,5036
@@ -104,8 +104,8 @@ WAGTS,WAGTS,Australian Government Solicitor. Perth Library.,16594,0
 NAGTS,NAGTS,Australian Government Solicitor. Sydney Library.,16594,0
 AP,AP,"Australian Government | Department of Agriculture, Fisheries and Forestry. DAFF Library.",,11865
 VAHRI,VAHRI,Australian Human Resources Institute.,,0
-12297,,Australian Institute of Aboriginal and Torres Strait Islander Studies.,,362490
-AIAS,AIAS,Australian Institute of Aboriginal and Torres Strait Islander Studies. AIATSIS Collections.,12297,362490
+12297,,Australian Institute of Aboriginal and Torres Strait Islander Studies.,,362519
+AIAS,AIAS,Australian Institute of Aboriginal and Torres Strait Islander Studies. AIATSIS Collections.,12297,362519
 AIAS:P,AIAS:P,Australian Institute of Aboriginal and Torres Strait Islander Studies. AIATSIS Collections. Photographic Collections.,AIAS,230920
 AIAS:AV,AIAS:AV,Australian Institute of Aboriginal and Torres Strait Islander Studies. Audiovisual Collections.,12297,0
 AIC,AIC,Australian Institute of Criminology. JV Barry Library.,,29864
@@ -123,27 +123,27 @@ NJHS,NJHS,Australian Jewish Historical Society Inc. Australian Jewish Historical
 NJHS:J,NJHS:J,Australian Jewish Historical Society Inc. Australian Jewish Historical Society: AJHS Journal.,12319,1552
 ANL:AJCP,ANL:AJCP,Australian Joint Copying Project.,,113241
 SL,SL,Australian Lutheran College. Lohe Memorial Library.,,83992
-12327,,Australian Museum.,,29900
+12327,,Australian Museum.,,29925
 NAMU:A,NAMU:A,Australian Museum. Australian Museum Archives.,12327,39
-NAMU,NAMU,Australian Museum. Australian Museum Research Library.,12327,29811
+NAMU,NAMU,Australian Museum. Australian Museum Research Library.,12327,29836
 NAMU:ANDS,NAMU:ANDS,Australian Museum. Research Data via ANDS.,12327,50
 NAMC,NAMC,Australian Music Centre. Library & Information Services.,,25656
 NAMO,NAMO,Australian Music Online.,,2170
 AAUD,AAUD,Australian National Audit Office. Information Research Centre.,,1601
 VANDS,VANDS,Australian National Data Service.,,162667
 ANIC,ANIC,Australian National Islamic Library.,,11291
-9924,,Australian National Maritime Museum.,,125949
+9924,,Australian National Maritime Museum.,,125954
 NMMU:C,NMMU:C,Australian National Maritime Museum. Collection.,9924,106158
 NMMU:ANDS,NMMU:ANDS,Australian National Maritime Museum. Research Data via ANDS.,9924,50
-NMMU,NMMU,Australian National Maritime Museum. Vaughan Evans Library.,9924,19741
-12332,,Australian National University.,,1414392
-ANU:NB,ANU:NB,Australian National University. ANU Archives Program.,12332,3726
+NMMU,NMMU,Australian National Maritime Museum. Vaughan Evans Library.,9924,19746
+12332,,Australian National University.,,1440958
+ANU:NB,ANU:NB,Australian National University. ANU Archives Program.,12332,3728
 AIA,AIA,Australian National University. Art & Music Library.,12332,0
 ANU:ADBO,ANU:ADBO,Australian National University. Australian Dictionary of Biography Online.,12332,13544
-ANU,ANU,Australian National University. Australian National University Library.,12332,1374069
+ANU,ANU,Australian National University. Australian National University Library.,12332,1374755
 ANU:MS,ANU:MS,Australian National University. Australian National University Library. Astronomy Branch Library.,ANU,0
 ANU:SS,ANU:SS,Australian National University. Australian National University Library. Astronomy Branch Library. Siding Springs.,ANU:MS,0
-ANU:IR,ANU:IR,Australian National University. Australian National University Library. Australian National University: Institutional Repository.,ANU,272438
+ANU:IR,ANU:IR,Australian National University. Australian National University Library. Australian National University: Institutional Repository.,ANU,273124
 ANU:CB,ANU:CB,Australian National University. Australian National University Library. Chemistry Branch Library.,ANU,0
 ANU:ES,ANU:ES,Australian National University. Australian National University Library. Earth Sciences Branch Library.,ANU,0
 ANU:C,ANU:C,Australian National University. Australian National University Library. J.B. Chifley Library.,ANU,0
@@ -155,14 +155,14 @@ ANU:MAP,ANU:MAP,Australian National University. Australian National University L
 ANU:UA,ANU:UA,Australian National University. Australian National University Library. University Archives & Noel Butlin Archives Centre.,ANU,0
 ANU:H,ANU:H,Australian National University. Australian National University Library. W.K. Hancock Library.,ANU,0
 ANU:ON,ANU:ON,Australian National University. Australian National University Online.,12332,9
-ANU:ANFD,ANU:ANFD,Australian National University. Australian Newspaper Fiction Database.,12332,0
+ANU:ANFD,ANU:ANFD,Australian National University. Australian Newspaper Fiction Database.,12332,25878
 ANU:HITL,ANU:HITL,Australian National University. Heritage in the Limelight.,12332,5691
 ANU:OA,ANU:OA,Australian National University. Obituaries Australia.,12332,8334
 ANU:PMB,ANU:PMB,Australian National University. Pacific Manuscripts Bureau.,12332,0
 ANU:PA,ANU:PA,Australian National University. People Australia.,12332,8629
 ANU:ANDS,ANU:ANDS,Australian National University. Research Data via ANDS.,12332,390
-12333,,Australian Nuclear Science and Technology Organisation.,,199113
-NLHR,NLHR,Australian Nuclear Science and Technology Organisation. ANSTO Library.,12333,198589
+12333,,Australian Nuclear Science and Technology Organisation.,,199446
+NLHR,NLHR,Australian Nuclear Science and Technology Organisation. ANSTO Library.,12333,198922
 NLHR:ANDS,NLHR:ANDS,Australian Nuclear Science and Technology Organisation. Research Data via ANDS.,12333,524
 12334,,Australian Nursing and Midwifery Federation.,,1846
 785,,Australian Nursing and Midwifery Federation. ACT Branch Library.,12334,0
@@ -182,14 +182,14 @@ VRCS,VRCS,Australian Red Cross. Research and Information Service.,,0
 AAIS,AAIS,Australian Sports Commission. National Sport Information Centre.,,24087
 AATO,AATO,Australian Taxation Office. Library & Research Hub.,,5465
 NATR,NATR,Australian Trade and Investment Commission. Austrade Research & Information Centre.,,1
-9927,,Australian War Memorial.,,354606
-AAWM,AAWM,Australian War Memorial. Research Centre.,9927,354262
+9927,,Australian War Memorial.,,354608
+AAWM,AAWM,Australian War Memorial. Research Centre.,9927,354264
 AAWM:ANDS,AAWM:ANDS,Australian War Memorial. Research Data via ANDS.,9927,344
-SAWR,SAWR,Australian Wine Research Institute. The John Fornachon Memorial Library.,,3455
+SAWR,SAWR,Australian Wine Research Institute. The John Fornachon Memorial Library.,,3460
 NAR,NAR,Austroads.,,1672
-12385,,Avondale University.,,138020
-NAVC,NAVC,Avondale University. Avondale Lake Macquarie Library.,12385,116961
-NSAH,NSAH,Avondale University. Avondale Sydney Library.,12385,21059
+12385,,Avondale University.,,138028
+NAVC,NAVC,Avondale University. Avondale Lake Macquarie Library.,12385,116968
+NSAH,NSAH,Avondale University. Avondale Sydney Library.,12385,21060
 VBLM,VBLM,B-24 Liberator Memorial Restoration Australia Inc.,,155
 VBMH,VBMH,"Bacchus Marsh & District Historical Society. Bacchus Marsh & District Historical Society Library, Archives.",,1
 VBAIRN,VBAIRN,Bairnsdale RSL Sub Branch.,,5
@@ -197,7 +197,7 @@ VBAIRN,VBAIRN,Bairnsdale RSL Sub Branch.,,5
 VBBH,VBBH,Ballarat Health Services. Ballarat Health Services Library.,12416,5065
 VBBH:HA,VBBH:HA,Ballarat Health Services. Ballarat Health Services Library. Ballarat Health Services Historical Archive.,VBBH,0
 VBTNL,VBTNL,Ballarat Health Services. Trained Nurses League.,12416,1462
-VBAH,VBAH,Ballarat Heritage Services.,,4391
+VBAH,VBAH,Ballarat Heritage Services.,,4394
 VUB,VUB,Ballarat Regional Trades and Labour Council Inc..,,751
 QBAN,QBAN,Banana Shire Library & Information Service.,,0
 8738,,Banana Shire Library & Information Service. Biloela Library.,QBAN,0
@@ -205,21 +205,21 @@ QBAN,QBAN,Banana Shire Library & Information Service.,,0
 8737,,Banana Shire Library & Information Service. Moura Library.,QBAN,0
 3763,,Banana Shire Library & Information Service. Taroom Library.,QBAN,0
 8735,,Banana Shire Library & Information Service. Theodore Library.,QBAN,0
-VU:W,VU:W,Baptist Theological College of Victoria. Whitley College Library.,,29568
+VU:W,VU:W,Baptist Theological College of Victoria. Whitley College Library.,,28091
 QBRCL,QBRCL,Barcaldine Regional Council. Barcaldine Shire Council Library.,,0
-XTCP,XTCP,Barkly Regional Council. Tennant Creek Public Library.,,76555
+XTCP,XTCP,Barkly Regional Council. Tennant Creek Public Library.,,76418
 VGH,VGH,Barwon Health. Barwon Health Library Service.,,43623
-WBBAL,WBBAL,Baseball WA.,,564
-XBATCH,XBATCH,Batchelor Institute of Indigenous Tertiary Education.,,121275
-XBATCH:B,XBATCH:B,Batchelor Institute of Indigenous Tertiary Education. Batchelor Joint Use Library.,XBATCH,24125
+WBBAL,WBBAL,Baseball WA.,,568
+XBATCH,XBATCH,Batchelor Institute of Indigenous Tertiary Education.,,121140
+XBATCH:B,XBATCH:B,Batchelor Institute of Indigenous Tertiary Education. Batchelor Joint Use Library.,XBATCH,24136
 XBATCH:AS,XBATCH:AS,Batchelor Institute of Indigenous Tertiary Education. Central Australian Campus Library.,XBATCH,9190
-NBCL,NBCL,Bathurst Regional Council. Bathurst Library.,,53290
-VBAY,VBAY,Bayside Library Service. Bayside Library Service.,,120360
+NBCL,NBCL,Bathurst Regional Council. Bathurst Library.,,53336
+VBAY,VBAY,Bayside Library Service. Bayside Library Service.,,120496
 8878,,Bayside Library Service. Bayside Library Service. Beaumaris Library.,VBAY,0
 106317,,Bayside Library Service. Bayside Library Service. Brighton Library.,VBAY,0
 8880,,Bayside Library Service. Bayside Library Service. Hampton Library.,VBAY,0
 8882,,Bayside Library Service. Bayside Library Service. Sandringham Library.,VBAY,0
-NRML,NRML,Bayside Library.,,32988
+NRML,NRML,Bayside Library.,,33305
 5731,,Bayside Library. Arncliffe Branch Library.,NRML,0
 5732,,Bayside Library. Bexley Branch Library.,NRML,0
 5733,,Bayside Library. Bexley North Branch Library.,NRML,0
@@ -230,22 +230,22 @@ NRML,NRML,Bayside Library.,,32988
 VBHC,VBHC,Beaconhills College.,,0
 TBMHC,TBMHC,Beaconsfield Mine and Heritage Centre.,,5734
 NBPM,NBPM,Bega Pioneers' Museum.,,47
-NBEV,NBEV,Bega Valley Shire Council Library Services. Bega Library.,,42199
+NBEV,NBEV,Bega Valley Shire Council Library Services. Bega Library.,,42179
 VBA,VBA,Bendigo Art Gallery. Bendigo Art Gallery Library.,,4407
 VBEN,VBEN,Bendigo Healthcare Group. Regional Library.,,3195
 VBT,VBT,Bendigo TAFE. Bendigo TAFE.,,12505
 VBTH,VBTH,Bendigo Trades Hall Council & Literary Institute Inc.,,116
-SBLIC,SBLIC,Berri Barmera Libraries.,,33592
+SBLIC,SBLIC,Berri Barmera Libraries.,,33632
 3866,,Berri Barmera Libraries. Barmera Library.,SBLIC,0
-NBRN,NBRN,Berrigan Shire Library Service. Berrigan Library.,,22526
+NBRN,NBRN,Berrigan Shire Library Service. Berrigan Library.,,22595
 5769,,Berrigan Shire Library Service. Berrigan Library. Barooga Library.,NBRN,0
 5770,,Berrigan Shire Library Service. Berrigan Library. Finley Library.,NBRN,0
 5768,,Berrigan Shire Library Service. Berrigan Library. Tocumwal Library.,NBRN,0
 NBDHS,NBDHS,Berrima District Historical & Family History Society.,,5412
 VBER,VBER,Berry Street.,,0
-VBMI,VBMI,Berwick Mechanics' Institute and Free Library Inc. Berwick Mechanics' Institute and Free Library.,,4797
-VBC,VBC,Bialik College. Bialik College Library.,,47490
-NORL,NORL,Big Sky Libraries.,,21655
+VBMI,VBMI,Berwick Mechanics' Institute and Free Library Inc. Berwick Mechanics' Institute and Free Library.,,4795
+VBC,VBC,Bialik College. Bialik College Library.,,47497
+NORL,NORL,Big Sky Libraries.,,21668
 6451,,Big Sky Libraries. Brewarrina Library.,NORL,0
 6455,,Big Sky Libraries. Lightning Ridge Library.,NORL,0
 330877,,Big Sky Libraries. Moree Library.,NORL,0
@@ -254,8 +254,8 @@ NORL,NORL,Big Sky Libraries.,,21655
 AB,AB,Blackfriars Priory. Canberra Catholic Library.,,2
 VBCF,VBCF,Blacksmith's Cottage & Forge.,,112
 VBMHC,VBMHC,Blacksmith's Cottage & Forge. The Forge Bookbarn.,VBCF,0
-12521,,Blacktown City Council Libraries.,,105381
-NBLML,NBLML,Blacktown City Council Libraries. Blacktown City Libraries.,12521,91860
+12521,,Blacktown City Council Libraries.,,105419
+NBLML,NBLML,Blacktown City Council Libraries. Blacktown City Libraries.,12521,91898
 5689,,Blacktown City Council Libraries. Blacktown City Libraries. Lalor Park Library.,NBLML,0
 4792,,Blacktown City Council Libraries. Blacktown City Libraries. Mt Druitt Library.,NBLML,0
 5688,,Blacktown City Council Libraries. Blacktown City Libraries. Riverstone Library.,NBLML,0
@@ -265,30 +265,30 @@ NBMC,NBMC,Blue Mountains City Council. Blue Mountains Library.,,4621
 NBMIHMS,NBMIHMS,Blue Mountains International Hotel Management School.,,0
 VALP,VALP,Bolinda Publishing. Bolinda Publishing Library.,,359
 VRDN,VRDN,Bolton Clarke Library Services.,,202
-12539,,Bond University.,,98192
-QBON,QBON,Bond University. John and Alison Kearney Library .,12539,98120
-QBON:IR,QBON:IR,Bond University. John and Alison Kearney Library . Bond University Library: Institutional Repository.,QBON,10222
+12539,,Bond University.,,98196
+QBON,QBON,Bond University. John and Alison Kearney Library .,12539,98124
+QBON:IR,QBON:IR,Bond University. John and Alison Kearney Library . Bond University Library: Institutional Repository.,QBON,10228
 QBON:L,QBON:L,Bond University. John and Alison Kearney Library . John and Alison Kearney Law Library.,QBON,2
 QBON:ANDS,QBON:ANDS,Bond University. Research Data via ANDS.,12539,72
-SBOT,SBOT,Botanic Gardens of Adelaide and State Herbarium. Botanic Gardens and State Herbarium Library.,,5987
+SBOT,SBOT,Botanic Gardens of Adelaide and State Herbarium. Botanic Gardens and State Herbarium Library.,,5988
 NBPU,NBPU,Bourke Public Library.,,1369
 VBHE,VBHE,Box Hill Institute. Box Hill Institute Library.,,30191
 VBHSSC,VBHSSC,Box Hill Senior Secondary College Library.,,3711
 QBPHS,QBPHS,Bray Park State High School.,,0
 VBGS,VBGS,Brighton Grammar School.,,0
 VBRI,VBRI,Brighton Historical Society.,,208
-VBRIM,VBRIM,Brimbank Libraries.,,82244
+VBRIM,VBRIM,Brimbank Libraries.,,82143
 3887,,Brimbank Libraries. Deer Park Library.,VBRIM,0
 7747,,Brimbank Libraries. Keilor Village Library.,VBRIM,0
 7746,,Brimbank Libraries. St Albans Library.,VBRIM,0
 325477,,Brimbank Libraries. Sydenham Library .,VBRIM,0
 QBBC,QBBC,Brisbane Boys' College. BBC Library.,,0
-QBCL,QBCL,Brisbane City Council Library Service.,,232019
+QBCL,QBCL,Brisbane City Council Library Service.,,232232
 9399,,Brisbane City Council Library Service. Annerley Library.,QBCL,0
 9397,,Brisbane City Council Library Service. Ashgrove Library.,QBCL,0
 9400,,Brisbane City Council Library Service. Banyo Library.,QBCL,0
 9401,,Brisbane City Council Library Service. Bracken Ridge Library.,QBCL,0
-QBCL:BI,QBCL:BI,Brisbane City Council Library Service. Brisbane Images.,QBCL,13579
+QBCL:BI,QBCL:BI,Brisbane City Council Library Service. Brisbane Images.,QBCL,13580
 9404,,Brisbane City Council Library Service. Brisbane Square Library.,QBCL,0
 9402,,Brisbane City Council Library Service. Bulimba Library.,QBCL,0
 9403,,Brisbane City Council Library Service. Carina Library.,QBCL,0
@@ -320,12 +320,12 @@ QBCL:BI,QBCL:BI,Brisbane City Council Library Service. Brisbane Images.,QBCL,135
 9398,,Brisbane City Council Library Service. Zillmere Library.,QBCL,0
 QBGG,QBGG,Brisbane Girls Grammar School. The Beanland Memorial Library.,,0
 QBGS,QBGS,Brisbane Grammar School. Brisbane Grammar School Library.,,0
-VBUL,VBUL,Buloke Library Service.,,10858
+VBUL,VBUL,Buloke Library Service.,,10857
 QBUN,QBUN,Bundaberg Regional Council. Bundaberg Regional Libraries. Bundaberg Library.,,0
-12627,,Bureau of Meteorology.,,30501
+12627,,Bureau of Meteorology.,,30502
 1436,,Bureau of Meteorology. ACT Met Office Library.,12627,0
 9748,,Bureau of Meteorology. NSW Regional Office Library.,12627,0
-VCMB,VCMB,Bureau of Meteorology. National Meteorological Library.,12627,30467
+VCMB,VCMB,Bureau of Meteorology. National Meteorological Library.,12627,30468
 9752,,Bureau of Meteorology. Northern Territory Regional Office Library.,12627,0
 9749,,Bureau of Meteorology. Queensland Regional Office Library.,12627,0
 VCMB:ANDS,VCMB:ANDS,Bureau of Meteorology. Research Data via ANDS.,12627,34
@@ -333,10 +333,10 @@ VCMB:ANDS,VCMB:ANDS,Bureau of Meteorology. Research Data via ANDS.,12627,34
 9750,,Bureau of Meteorology. Tasmania and Antarctica Regional Office Library.,12627,0
 9751,,Bureau of Meteorology. Western Australia Regional Office Library.,12627,0
 SB,SB,Burleigh College. Burleigh Collection at Tabor Adelaide Library.,,1
-NBL,NBL,Burwood Council. Burwood Library and Community Hub.,,83069
-WBHS,WBHS,Busselton Historical Society.,,445
-QRH:C,QRH:C,Caboolture Hospital Library.,,736
-QCCL,QCCL,Cairns Regional Council: Cairns Libraries.,,78302
+NBL,NBL,Burwood Council. Burwood Library and Community Hub.,,83206
+WBHS,WBHS,Busselton Historical Society.,,448
+QRH:C,QRH:C,Caboolture Hospital Library.,,740
+QCCL,QCCL,Cairns Regional Council: Cairns Libraries.,,77835
 9301,,Cairns Regional Council: Cairns Libraries. Babinda Library.,QCCL,0
 11833,,Cairns Regional Council: Cairns Libraries. City Library.,QCCL,0
 9306,,Cairns Regional Council: Cairns Libraries. Earlville Library.,QCCL,0
@@ -349,19 +349,19 @@ QCCC,QCCC,Calamvale Community College.,,0
 QCSHS,QCSHS,Caloundra State High School.,,0
 NCG,NCG,Calyx Group. Calyx Group Library.,,1
 VCGG,VCGG,Camberwell Girls Grammar School.,,29
-NCAM,NCAM,Camden Council. Camden Council Library Service.,,80213
+NCAM,NCAM,Camden Council. Camden Council Library Service.,,80363
 8106,,Camden Council. Camden Council Library Service. Narellan Library.,NCAM,0
-VECA,VECA,Campaspe Regional Library. Echuca Library.,,76131
+VECA,VECA,Campaspe Regional Library. Echuca Library.,,76204
 NCCPL,NCCPL,Campbelltown City Council (NSW). Campbelltown City Library.,,38252
 55041,,Campbelltown City Council (NSW). Campbelltown City Library. Eagle Vale Library.,NCCPL,0
 1769,,Campbelltown City Council (NSW). Campbelltown City Library. Glenquarie Library.,NCCPL,0
 1780,,Campbelltown City Council (NSW). Campbelltown City Library. Greg Percival Library.,NCCPL,0
 NCCPL:P,NCCPL:P,Campbelltown City Council (NSW). Campbelltown City Library. Photographs.,NCCPL,10569
-SCPL,SCPL,Campbelltown City Council (SA). Campbelltown Public Library.,,78111
-ACDHS,ACDHS,Canberra and District Historical Society.,,10495
+SCPL,SCPL,Campbelltown City Council (SA). Campbelltown Public Library.,,78268
+ACDHS,ACDHS,Canberra and District Historical Society.,,10504
 ACGGS,ACGGS,Canberra Grammar School. Canberra Grammar School Library.,,1
-343721,,Canberra Health Services.,,2218
-AWVH,AWVH,"Canberra Health Services. CHS Library & Multimedia, Canberra Hospital.",343721,2218
+343721,,Canberra Health Services.,,3583
+AWVH,AWVH,"Canberra Health Services. CHS Library & Multimedia, Canberra Hospital.",343721,3583
 ACAH,ACAH,"Canberra Health Services. CHS Library & Multimedia, North Canberra Hospital.",343721,0
 ACIT,ACIT,Canberra Institute of Technology. Reid Library.,,42815
 WCC,WCC,Canning College. Canning College Library.,,1
@@ -383,12 +383,12 @@ VCIE,VCIE,Carrick Institute of Education.,,0
 NCART,NCART,Cartonographer.,,627
 QJST,QJST,Cassowary Coast Libraries. Innisfail Library.,,0
 NCIS,NCIS,Catholic Institute of Sydney. Veech Library.,,85092
-VCCC,VCCC,Catholic Theological College. Mannix Library.,,75297
+VCCC,VCCC,Catholic Theological College. Mannix Library.,,75311
 12639,,CAVAL.,,594427
 VCARM,VCARM,CAVAL. CARM Centre.,12639,594425
 VCAV,VCAV,CAVAL. CAVAL Ltd.,12639,2
 NCENE,NCENE,Cengage Education.,,0
-NGCL,NGCL,Central Coast Library Service.,,88064
+NGCL,NGCL,Central Coast Library Service.,,88264
 7315,,Central Coast Library Service. Bateau Bay Library.,NGCL,0
 494,,Central Coast Library Service. Bookmobile.,NGCL,0
 69038,,Central Coast Library Service. Erina Library.,NGCL,0
@@ -404,11 +404,11 @@ NGCL,NGCL,Central Coast Library Service.,,88064
 NGDH,NGDH,Central Coast Local Health District. Central Coast Local Health District Library Service.,331457,3185
 NGDH:HA,NGDH:HA,Central Coast Local Health District. Historical Archive.,331457,967
 NGDH:IR,NGDH:IR,Central Coast Local Health District. Research Hub.,331457,1212
-12795,,Central Highlands Libraries.,,108050
+12795,,Central Highlands Libraries.,,108164
 3587,,Central Highlands Libraries. Ararat Library.,12795,0
 3588,,Central Highlands Libraries. Avoca Resource Centre.,12795,0
 336940,,Central Highlands Libraries. Ballan Library.,12795,0
-VBALL,VBALL,Central Highlands Libraries. Ballarat Library.,12795,108050
+VBALL,VBALL,Central Highlands Libraries. Ballarat Library.,12795,108164
 3590,,Central Highlands Libraries. Beaufort Community Resource Centre.,12795,0
 336957,,Central Highlands Libraries. City of Ballarat Libraries Outreach.,12795,0
 3591,,Central Highlands Libraries. Clunes Library.,12795,0
@@ -419,11 +419,12 @@ VBALL,VBALL,Central Highlands Libraries. Ballarat Library.,12795,108050
 3594,,Central Highlands Libraries. Maryborough Library.,12795,0
 3595,,Central Highlands Libraries. Sebastopol Library.,12795,0
 3598,,Central Highlands Libraries. Southern Grampians Mobile Library.,12795,0
+343781,,Central Highlands Libraries. St Arnaud Library.,12795,0
 VSRL,VSRL,Central Highlands Libraries. Stawell Library.,12795,0
 336939,,Central Highlands Libraries. Trentham Library.,12795,0
 3597,,Central Highlands Libraries. Wendouree  Library.,12795,0
 XCLC,XCLC,Central Land Council. David Jupurrurla Long Resource Centre.,,41
-NNRL,NNRL,Central Northern Libraries. Central Northern Regional Library .,,160450
+NNRL,NNRL,Central Northern Libraries. Central Northern Regional Library .,,160277
 3781,,Central Northern Libraries. Central Northern Regional Library . Barraba Branch Library.,NNRL,0
 6467,,Central Northern Libraries. Central Northern Regional Library . Boggabri Branch Library.,NNRL,0
 6744,,Central Northern Libraries. Central Northern Regional Library . Kootingal Branch Library.,NNRL,0
@@ -453,9 +454,9 @@ QCQU:ANDS,QCQU:ANDS,Central Queensland University. Research Data via ANDS.,12802
 QCQU,QCQU,Central Queensland University. Rockhampton Campus Library.,12802,13098
 QCQU:IR,QCQU:IR,Central Queensland University. Rockhampton Campus Library. Central Queensland University: Institutional Repository.,QCQU,13083
 9888,,Central Queensland University. Sydney Campus Library.,12802,0
-WGT,WGT,Central Regional TAFE. Library.,,5828
-17554,,Central West Libraries.,,100797
-NCWC,NCWC,Central West Libraries. Orange Library.,17554,84952
+WGT,WGT,Central Regional TAFE. Library.,,5831
+17554,,Central West Libraries.,,100789
+NCWC,NCWC,Central West Libraries. Orange Library.,17554,84944
 9211,,Central West Libraries. Orange Library. Blayney Library.,NCWC,0
 9209,,Central West Libraries. Orange Library. Canowindra Public Library.,NCWC,0
 9212,,Central West Libraries. Orange Library. Cowra Library.,NCWC,0
@@ -463,41 +464,41 @@ NFORB,NFORB,Central West Libraries. Orange Library. Forbes Library.,NCWC,0
 4952,,Central West Libraries. Orange Library. Manildra Library.,NCWC,0
 4958,,Central West Libraries. Orange Library. Molong Library.,NCWC,0
 NCWC:RCW,NCWC:RCW,Central West Libraries. Recollect Central West.,17554,15845
-XALIR:CM,XALIR:CM,Centralian Middle School. Centralian Middle School Library.,,11478
+XALIR:CM,XALIR:CM,Centralian Middle School. Centralian Middle School Library.,,11496
 TTDI,TTDI,Centre for Heritage at Oatlands Southern Midlands Council. Tasmanian Decorated Interiors.,,694
-NCES,NCES,Cessnock City Council. Cessnock City Library.,,39161
+NCES,NCES,Cessnock City Council. Cessnock City Library.,,39188
 4959,,Cessnock City Council. Cessnock City Library. Kurri Kurri Library.,NCES,0
 12826,,Chapman Valley Shire Council Libraries.,,0
 WNAB,WNAB,Chapman Valley Shire Council Libraries. Nabawa Public Library.,12826,0
 WYUN,WYUN,Chapman Valley Shire Council Libraries. Yuna Library.,12826,0
-14378,,Charles Darwin University.,,6055
+14378,,Charles Darwin University.,,6175
 XNTU,XNTU,Charles Darwin University. Casuarina Campus Library.,14378,1
 XNTU:IR,XNTU:IR,Charles Darwin University. Charles Darwin University Institutional Repository.,14378,0
-XNTU:DC,XNTU:DC,Charles Darwin University. Charles Darwin University: Digital Collection.,14378,3848
+XNTU:DC,XNTU:DC,Charles Darwin University. Charles Darwin University: Digital Collection.,14378,3968
 XNTU:NM,XNTU:NM,Charles Darwin University. Nursing Museum.,14378,2191
 5942,,Charles Darwin University. Palmerston Campus Library.,14378,0
 XNTU:ANDS,XNTU:ANDS,Charles Darwin University. Research Data via ANDS.,14378,15
-12879,,Charles Sturt Library Service.,,102026
-SCCS,SCCS,Charles Sturt Library Service. Civic Library.,12879,102026
+12879,,Charles Sturt Library Service.,,102272
+SCCS,SCCS,Charles Sturt Library Service. Civic Library.,12879,102272
 3857,,Charles Sturt Library Service. Findon Library.,12879,0
 3858,,Charles Sturt Library Service. Henley Beach Library.,12879,0
 SWLS,SWLS,Charles Sturt Library Service. Hindmarsh Library .,12879,0
 3859,,Charles Sturt Library Service. West Lakes Library.,12879,0
-16834,,Charles Sturt University.,,482247
+16834,,Charles Sturt University.,,482624
 NCSU:A,NCSU:A,Charles Sturt University. Albury-Wodonga Campus Library.,16834,1
-NCSU:B,NCSU:B,Charles Sturt University. Bathurst Campus Library.,16834,173696
-NCSU:E,NCSU:E,Charles Sturt University. CSU Library - Electronic Resources (shared).,16834,125172
-NCSU:IR,NCSU:IR,Charles Sturt University. CSU Research Output.,16834,47106
+NCSU:B,NCSU:B,Charles Sturt University. Bathurst Campus Library.,16834,173703
+NCSU:E,NCSU:E,Charles Sturt University. CSU Library - Electronic Resources (shared).,16834,125358
+NCSU:IR,NCSU:IR,Charles Sturt University. CSU Research Output.,16834,47280
 NCSRA,NCSRA,Charles Sturt University. Charles Sturt University Regional Archives.,16834,0
-NCSU:D,NCSU:D,Charles Sturt University. Dubbo Campus Library.,16834,4080
+NCSU:D,NCSU:D,Charles Sturt University. Dubbo Campus Library.,16834,4083
 NCSU:O,NCSU:O,Charles Sturt University. Orange Campus Library.,16834,10444
 NCSU:P,NCSU:P,Charles Sturt University. Port Macquarie Campus Library.,16834,3925
 NCSU:ANDS,NCSU:ANDS,Charles Sturt University. Research Data via ANDS.,16834,10
-NCSU:W,NCSU:W,Charles Sturt University. Wagga Wagga Campus Library.,16834,117813
+NCSU:W,NCSU:W,Charles Sturt University. Wagga Wagga Campus Library.,16834,117820
 VCHEL,VCHEL,Chelsea and District Historical Society Inc..,,10
 VHHS,VHHS,Chelsea and District Historical Society Inc.. Chelsea & District Historical Society Book Collection.,VCHEL,0
-NCTCA,NCTCA,Chinese Theological College Australia.,,13414
-VMT,VMT,Chisholm Institute.,,53850
+NCTCA,NCTCA,Chinese Theological College Australia.,,13423
+VMT,VMT,Chisholm Institute.,,53852
 VCCAP,VCCAP,Christ Church Anglican Parish of Warrnambool.,,33
 QCHH,QCHH,Christian Heritage College. Christian Heritage College Library.,,0
 VCIHF,VCIHF,Churchill Island Heritage Farm.,,1556
@@ -514,7 +515,7 @@ WBAY,WBAY,City of Bayswater. Bayswater Public Library.,12462,0
 WMAY,WMAY,City of Bayswater. Maylands Library.,12462,0
 WMOR,WMOR,City of Bayswater. Morley Public Library.,12462,0
 WBEL,WBEL,City of Belmont. Ruth Faulkner Public Library.,,0
-VBOR,VBOR,City of Boroondara Library Service.,,335771
+VBOR,VBOR,City of Boroondara Library Service.,,335988
 4017,,City of Boroondara Library Service. Ashburton Library.,VBOR,0
 4019,,City of Boroondara Library Service. Balwyn Library.,VBOR,0
 4020,,City of Boroondara Library Service. Camberwell Library.,VBOR,0
@@ -523,11 +524,11 @@ VBOR,VBOR,City of Boroondara Library Service.,,335771
 12617,,City of Bunbury Libraries.,,0
 WBUN,WBUN,City of Bunbury Libraries. Bunbury Public Library.,12617,0
 WWRS,WWRS,City of Bunbury Libraries. Withers Public Library.,12617,0
-SBRN,SBRN,City of Burnside. Burnside Library.,,84702
+SBRN,SBRN,City of Burnside. Burnside Library.,,84896
 14910,,City of Busselton Libraries.,,0
 WBUS,WBUS,City of Busselton Libraries. Busselton Public Library.,14910,0
 WDNS,WDNS,City of Busselton Libraries. Dunsborough Public Library.,14910,0
-NCCB,NCCB,City of Canada Bay. City of Canada Bay Library Service.,,114424
+NCCB,NCCB,City of Canada Bay. City of Canada Bay Library Service.,,114610
 12714,,City of Canning Libraries.,,0
 WBEN,WBEN,City of Canning Libraries. Bentley Library.,12714,0
 WQUP,WQUP,City of Canning Libraries. Cannington Public Library.,12714,0
@@ -538,14 +539,14 @@ WCA,WCA,City of Cockburn. Cockburn Administration.,12880,0
 WCPL,WCPL,City of Cockburn. Coolbellup Public Library.,12880,0
 WSPE,WSPE,City of Cockburn. Spearwood Public Library.,12880,0
 WSPL,WSPL,City of Cockburn. Success Public Library.,12880,0
-XDAR,XDAR,City of Darwin. City of Darwin Libraries.,,219431
-XDAR:CA,XDAR:CA,City of Darwin. City of Darwin Libraries. Casuarina Library.,XDAR,42400
-XDAR:C,XDAR:C,City of Darwin. City of Darwin Libraries. City Library.,XDAR,19746
-XDAR:K,XDAR:K,City of Darwin. City of Darwin Libraries. Karama Library.,XDAR,12611
-XDAR:N,XDAR:N,City of Darwin. City of Darwin Libraries. Nightcliff Library.,XDAR,11457
+XDAR,XDAR,City of Darwin. City of Darwin Libraries.,,219433
+XDAR:CA,XDAR:CA,City of Darwin. City of Darwin Libraries. Casuarina Library.,XDAR,42463
+XDAR:C,XDAR:C,City of Darwin. City of Darwin Libraries. City Library.,XDAR,19801
+XDAR:K,XDAR:K,City of Darwin. City of Darwin Libraries. Karama Library.,XDAR,12631
+XDAR:N,XDAR:N,City of Darwin. City of Darwin Libraries. Nightcliff Library.,XDAR,11478
 WFAC,WFAC,City of Fremantle. Art Collection.,,1567
 WFRE,WFRE,City of Fremantle: Fremantle Library.,,6082
-QGCCL,QGCCL,City of Gold Coast Libraries.,,161467
+QGCCL,QGCCL,City of Gold Coast Libraries.,,160486
 8754,,City of Gold Coast Libraries. Broadbeach Library.,QGCCL,0
 8748,,City of Gold Coast Libraries. Burleigh Heads Library.,QGCCL,0
 8750,,City of Gold Coast Libraries. Burleigh Waters Library.,QGCCL,0
@@ -562,11 +563,11 @@ QGCCL,QGCCL,City of Gold Coast Libraries.,,161467
 8744,,City of Gold Coast Libraries. Runaway Bay Library.,QGCCL,0
 8740,,City of Gold Coast Libraries. Southport Library.,QGCCL,0
 335037,,City of Gold Coast Libraries. Upper Coomera Library.,QGCCL,0
-VDGV,VDGV,City of Greater Dandenong Libraries. Dandenong Library.,,81229
+VDGV,VDGV,City of Greater Dandenong Libraries. Dandenong Library.,,81108
 WGER,WGER,City of Greater Geraldton Regional Library.,,19
 WGER:LH,WGER:LH,City of Greater Geraldton Regional Library. Local History Collection.,WGER,0
 WMUL,WMUL,City of Greater Geraldton Regional Library. Mullewa Public Library.,WGER,0
-SHBL,SHBL,City of Holdfast Bay. Brighton Public Library .,,56182
+SHBL,SHBL,City of Holdfast Bay. Brighton Public Library .,,56262
 12885,,City of Joondalup Libraries.,,2529
 WDUN,WDUN,City of Joondalup Libraries. Duncraig Public Library.,12885,0
 WJLS,WJLS,City of Joondalup Libraries. Joondalup Public Library.,12885,2529
@@ -577,7 +578,7 @@ WFOR,WFOR,City of Kalamunda Libraries. Forrestfield Public Library.,14915,0
 WHIW,WHIW,City of Kalamunda Libraries. High Wycombe Public Library.,14915,0
 WKLM,WKLM,City of Kalamunda Libraries. Kalamunda Public Library.,14915,0
 WLES,WLES,City of Kalamunda Libraries. Lesmurdie Community Library.,14915,0
-WKAL,WKAL,City of Kalgoorlie-Boulder. William Grundt Memorial Library.,,58284
+WKAL,WKAL,City of Kalgoorlie-Boulder. William Grundt Memorial Library.,,58292
 14744,,City of Karratha.,,22962
 WDAM,WDAM,City of Karratha. Dampier Public Library.,14744,0
 WKCL,WKCL,City of Karratha. Karratha Public Library.,14744,22953
@@ -589,7 +590,7 @@ WKWI,WKWI,City of Kwinana. Kwinana Public Library.,,0
 WFAL,WFAL,City of Mandurah Libraries. Falcon eLibrary & Community Centre.,13952,0
 WLAKE,WLAKE,City of Mandurah Libraries. Lakelands Library and Community Centre.,13952,0
 WMAN,WMAN,City of Mandurah Libraries. Mandurah Library.,13952,1
-VCML,VCML,City of Melbourne Libraries.,,124182
+VCML,VCML,City of Melbourne Libraries.,,123874
 262897,,City of Melbourne Libraries. City Library.,VCML,0
 VCML:HC,VCML:HC,City of Melbourne Libraries. City of Melbourne Libraries online Heritage Collection.,VCML,12380
 325857,,City of Melbourne Libraries. East Melbourne Library.,VCML,0
@@ -606,27 +607,27 @@ WMCS,WMCS,City of Melville. Civic Square Library.,12891,0
 WWIL,WWIL,City of Melville. Willagee Library.,12891,0
 VBOX,VBOX,City of Moorabbin Historical Society. Box Cottage Museum.,,1368
 VMHS,VMHS,City of Mordialloc Historical Society Inc. Mordialloc and District  Historical Society Library.,,7
-SMG,SMG,City of Mount Gambier. Mount Gambier Library.,,41141
+SMG,SMG,City of Mount Gambier. Mount Gambier Library.,,41284
 12894,,City of Nedlands Library Service.,,1
 WMTC,WMTC,City of Nedlands Library Service. Mount Claremont Library.,12894,0
 WNED,WNED,City of Nedlands Library Service. Nedlands Library.,12894,1
-SNPS,SNPS,City of Norwood Payneham and St Peters Library Service.,,59074
+SNPS,SNPS,City of Norwood Payneham and St Peters Library Service.,,59129
 5132,,City of Norwood Payneham and St Peters Library Service. Norwood Library.,SNPS,0
 342080,,City of Norwood Payneham and St Peters Library Service. Payneham Library.,SNPS,0
 325518,,City of Norwood Payneham and St Peters Library Service. St Peters Library.,SNPS,0
-SNRL,SNRL,City of Onkaparinga Libraries. Noarlunga Library.,,136567
-SPAL,SPAL,City of PAE Libraries.,,126427
+SNRL,SNRL,City of Onkaparinga Libraries. Noarlunga Library.,,136870
+SPAL,SPAL,City of PAE Libraries.,,126931
 6227,,City of PAE Libraries. Enfield Public Library.,SPAL,0
 5104,,City of PAE Libraries. Greenacres Library.,SPAL,0
 6225,,City of PAE Libraries. Semaphore Library.,SPAL,0
 5109,,City of PAE Libraries. The Parks Library.,SPAL,0
-XPALM,XPALM,City of Palmerston. Palmerston Library.,,105718
+XPALM,XPALM,City of Palmerston. Palmerston Library.,,105882
 12897,,City of Perth.,,3435
 WPER,WPER,City of Perth. City of Perth Library.,12897,3337
 WCPCC,WCPCC,City of Perth. Cultural Collections.,12897,98
-SEPL,SEPL,City of Playford Library Service. Playford Civic Centre Library.,,73338
-SLINC,SLINC,City of Port Lincoln. Port Lincoln Library.,,26903
-SPPL,SPPL,City of Prospect. Prospect Library.,,32469
+SEPL,SEPL,City of Playford Library Service. Playford Civic Centre Library.,,73512
+SLINC,SLINC,City of Port Lincoln. Port Lincoln Library.,,26955
+SPPL,SPPL,City of Prospect. Prospect Library.,,32526
 WSPH:LH,WSPH:LH,City of South Perth Local History Collection.,,6
 9964,,City of South Perth.,,1480
 WMNG,WMNG,City of South Perth. Manning Public Library.,9964,0
@@ -645,8 +646,8 @@ WBBK,WBBK,City of Swan. Bullsbrook Public Library.,15165,0
 WELL,WELL,City of Swan. Ellenbrook Community Library.,15165,0
 WGUI,WGUI,City of Swan. Guildford Public Library.,15165,0
 WCSMP,WCSMP,City of Swan. Midland Public Library.,15165,968
-NSCA,NSCA,City of Sydney Archives.,,641891
-NSPL,NSPL,City of Sydney Library.,,17102
+NSCA,NSCA,City of Sydney Archives.,,641892
+NSPL,NSPL,City of Sydney Library.,,17466
 240538,,City of Sydney Library. Customs House Library.,NSPL,0
 341760,,City of Sydney Library. Darling Square Library.,NSPL,0
 3601,,City of Sydney Library. Glebe Library.,NSPL,0
@@ -657,23 +658,23 @@ NSPL,NSPL,City of Sydney Library.,,17102
 478,,City of Sydney Library. Ultimo Library.,NSPL,0
 4935,,City of Sydney Library. Waterloo Library.,NSPL,1
 NSAL,NSAL,City of Sydney. Sydney's Aldermen.,,1083
-STT,STT,City of Tea Tree Gully. City of Tea Tree Gully Library.,,89492
-SVHPL,SVHPL,City of Victor Harbor. Victor Harbor Public Library.,,31098
+STT,STT,City of Tea Tree Gully. City of Tea Tree Gully Library.,,89621
+SVHPL,SVHPL,City of Victor Harbor. Victor Harbor Public Library.,,31185
 WVIN,WVIN,City of Vincent. City of Vincent Library.,,5119
-SWALK,SWALK,City of Walkerville. Walkerville Library.,,18755
+SWALK,SWALK,City of Walkerville. Walkerville Library.,,18766
 15480,,City of Wanneroo Libraries.,,0
 WCKS,WCKS,City of Wanneroo Libraries. Clarkson Library.,15480,0
 WGIR,WGIR,City of Wanneroo Libraries. Girrawheen Library.,15480,0
 WWAN,WWAN,City of Wanneroo Libraries. Wanneroo Library.,15480,0
 WYAN,WYAN,City of Wanneroo Libraries. Yanchep/Two Rocks Library.,15480,0
-SWTL,SWTL,City of West Torrens Public Library Service .,,65527
+SWTL,SWTL,City of West Torrens Public Library Service .,,65665
 7555,,City of West Torrens Public Library Service . Hilton Library.,SWTL,0
 11013,,City of West Torrens Public Library Service . Mobile Library.,SWTL,0
 7557,,City of West Torrens Public Library Service . Thebarton Library.,SWTL,0
 11014,,City of West Torrens Public Library Service . West Torrens Toy Library.,SWTL,0
-SCLA,SCLA,Clare and Gilbert Valleys Council Library Service. Clare Library.,,33604
+SCLA,SCLA,Clare and Gilbert Valleys Council Library Service. Clare Library.,,33672
 WCM,WCM,Claremont Museum.,,949
-NCLL,NCLL,Clarence Regional Library. Clarence Regional Library Headquarters.,,87158
+NCLL,NCLL,Clarence Regional Library. Clarence Regional Library Headquarters.,,87368
 QCLAY,QCLAY,Clayfield College.,,0
 12917,,Clayton Utz.,,0
 QUTZ,QUTZ,Clayton Utz. Clayton Utz Brisbane Library.,12917,0
@@ -684,22 +685,22 @@ NCUTZ,NCUTZ,Clayton Utz. Clayton Utz Sydney Library.,12917,0
 QCBSH,QCBSH,Clontarf Beach State High.,,0
 VCHC,VCHC,Coburg Historical Society.,,1
 WCOCH,WCOCH,Cocos Home Island Public Library.,,0
-NCHR,NCHR,Coffs Collections.,,22873
-NCHC,NCHC,Coffs Harbour Libraries. Harry Bailey Memorial Library.,,70415
+NCHR,NCHR,Coffs Collections.,,22878
+NCHC,NCHC,Coffs Harbour Libraries. Harry Bailey Memorial Library.,,70468
 4378,,Coffs Harbour Libraries. Harry Bailey Memorial Library. Toormina Library and Information Centre.,NCHC,0
 4379,,Coffs Harbour Libraries. Harry Bailey Memorial Library. Woolgoolga Library and Information Centre.,NCHC,0
 NGLW,NGLW,College of Law. D.K. Donald Library.,,0
-VCCLC,VCCLC,Connected Libraries. Cranbourne Library.,,100696
+VCCLC,VCCLC,Connected Libraries. Cranbourne Library.,,100466
 QCOOM,QCOOM,Coomera Anglican College.,,0
-12988,,Coorong District Council.,,49898
-SCOO,SCOO,Coorong District Council. Coomandook Community Library.,12988,49898
+12988,,Coorong District Council.,,49977
+SCOO,SCOO,Coorong District Council. Coomandook Community Library.,12988,49977
 SMGCL,SMGCL,Coorong District Council. Meningie School Community Library.,12988,0
 15192,,Coorong District Council. Tailem Bend School Community Library.,12988,0
 8161,,Coorong District Council. Tintinara Coonalpyn Community Library.,12988,0
 WCOR,WCOR,Coorow Public Library & Information Service. Coorow Library.,,0
-SKAD,SKAD,Copper Coast Council. Copper Coast Library - Kadina.,,37106
+SKAD,SKAD,Copper Coast Council. Copper Coast Library - Kadina.,,37138
 NCOPY,NCOPY,Copyright Agency Limited.,,1
-VCGL,VCGL,Corangamite Moyne Library Service. Corangamite Moyne Library Service.,,43134
+VCGL,VCGL,Corangamite Moyne Library Service. Corangamite Moyne Library Service.,,43124
 13095,,Corrective Services NSW.,,8176
 NCOR:MUS,NCOR:MUS,Corrective Services NSW. CSNSW Museum.,13095,0
 NCOR,NCOR,Corrective Services NSW. Library@CSNSW.,13095,8176
@@ -710,38 +711,36 @@ XSC,XSC,Courts Library (NT).,,6566
 VCHM,VCHM,Creswick Museum.,,25
 QCSH,QCSH,CRS Australia. CRS Library.,,0
 VS:PUB,VS:PUB,CSIRO Publishing. scienceimage.,,3765
-12644,,CSIRO.,,624754
-333517,,CSIRO. AuScope,12644,0
-WS:ANDS,WS:ANDS,CSIRO. AuScope Research Data via ANDS.,333517,0
-AS:PE,AS:PE,CSIRO. Black Mountain Library.,12644,200490
+12644,,CSIRO.,,624843
+AS:PE,AS:PE,CSIRO. Black Mountain Library.,12644,200494
 VS:IWL,VS:IWL,CSIRO. Ian Wark Library.,12644,20059
-VS:CL,VS:CL,CSIRO. Library Services.,12644,314728
-VS:PU,VS:PU,CSIRO. Publishing.,12644,89477
+VS:CL,VS:CL,CSIRO. Library Services.,12644,314787
+VS:PU,VS:PU,CSIRO. Publishing.,12644,89503
 12668,,CSL Limited.,,0
 VCSL:B,VCSL:B,CSL Limited. Bioplasma Library.,12668,0
 VCSL,VCSL,CSL Limited. Knowledge Centre.,12668,0
 WNAR,WNAR,Cuballing Shire Council. Narrogin Public Library .,,0
 WCUE,WCUE,Cue Shire Council. Cue Public Library.,,0
-12192,,Cumberland Council.,,168312
+12192,,Cumberland Council.,,168514
 NAUB,NAUB,Cumberland Council. Auburn Library.,12192,55316
 5396,,Cumberland Council. Auburn Library. Lidcombe Library.,NAUB,0
 4777,,Cumberland Council. Auburn Library. Regents Park Library.,NAUB,0
 4901,,Cumberland Council. Granville Library.,12192,0
 4902,,Cumberland Council. Guildford Library.,12192,0
-NHOL,NHOL,Cumberland Council. Holroyd City Council Library Service.,12192,112996
+NHOL,NHOL,Cumberland Council. Holroyd City Council Library Service.,12192,113198
 1889,,Cumberland Council. Holroyd City Council Library Service. Greystanes Library.,NHOL,0
 1888,,Cumberland Council. Holroyd City Council Library Service. Wentworthville Library.,NHOL,0
-13046,,Curtin University.,,374129
-WCU,WCU,Curtin University. Curtin University Library.,13046,371624
-WCU:IR,WCU:IR,Curtin University. Curtin University Library. Curtin University: Institutional Repository.,WCU,72876
+13046,,Curtin University.,,374156
+WCU,WCU,Curtin University. Curtin University Library.,13046,371651
+WCU:IR,WCU:IR,Curtin University. Curtin University Library. Curtin University: Institutional Repository.,WCU,72900
 WCU:ANDS,WCU:ANDS,Curtin University. Curtin University Library. Research Data via ANDS.,WCU,2801
 WCU:JC,WCU:JC,Curtin University. John Curtin Prime Ministerial Library.,13046,2505
-VJTL,VJTL,Dalton McCaughey Library.,,102436
+VJTL,VJTL,Dalton McCaughey Library.,,102442
 WDAL,WDAL,Dalwallinu Shire Council. Dalwallinu Library.,,0
-VPRE,VPRE,Darebin Libraries. Preston Library.,,108464
-QTDD,QTDD,Darling Downs Health Service District. Darling Downs Health Library.,,209
-325137,,Deakin University.,,517588
-VDU,VDU,Deakin University. Deakin University Library.,325137,517300
+VPRE,VPRE,Darebin Libraries. Preston Library.,,108535
+QTDD,QTDD,Darling Downs Health Service District. Darling Downs Health Library.,,216
+325137,,Deakin University.,,517587
+VDU,VDU,Deakin University. Deakin University Library.,325137,517299
 VDU:IR,VDU:IR,Deakin University. Deakin University Library. Deakin University: Institutional Repository.,VDU,69601
 VDU:OJS,VDU:OJS,Deakin University. Deakin University Library. Deakin University: Open Journals System.,VDU,824
 VDU:ANDS,VDU:ANDS,Deakin University. Research Data via ANDS.,325137,288
@@ -749,10 +748,10 @@ VDU:ANDS,VDU:ANDS,Deakin University. Research Data via ANDS.,325137,288
 SDSTO,SDSTO,Defence Science and Technology Group. DST Group - Research Data and Information - Edinburgh.,13078,0
 NDST,NDST,Defence Science and Technology Group. DST Group-Sydney Research Data and Information.,13078,0
 VDSTO,VDSTO,Defence Science and Technology Group. DSTG Research Data and Information.,13078,4124
-VALZ,VALZ,Dementia Australia Vic. Dementia Australia Vic Division Library.,,1519
+VALZ,VALZ,Dementia Australia Vic. Dementia Australia Vic Division Library.,,1521
 SMD,SMD,Department for Energy and Mining (SA). Geoscience Library.,,0
-13129,,Department of Agriculture and Fisheries Qld.,,36397
-QPID:RR,QPID:RR,Department of Agriculture and Fisheries Qld. DAF Qld eResearch Archive.,13129,7283
+13129,,Department of Agriculture and Fisheries Qld.,,36404
+QPID:RR,QPID:RR,Department of Agriculture and Fisheries Qld. DAF Qld eResearch Archive.,13129,7290
 QFOOD,QFOOD,Department of Agriculture and Fisheries Qld. DAF Research Information Service Coopers Plains.,13129,1
 QPID,QPID,Department of Agriculture and Fisheries Qld. Dept of Agriculture and Fisheries Qld Research Information Service.,13129,29095
 QPID:ANDS,QPID:ANDS,Department of Agriculture and Fisheries Qld. Research Data via ANDS.,13129,18
@@ -771,52 +770,52 @@ NSMENG,NSMENG,Department of Defence. Defence Library Service - Liverpool.,13096,
 VDLS:WI,VDLS:WI,Department of Defence. Defence Library Service - Williams.,13096,0
 AEEWR,AEEWR,Department of Employment and Workplace Relations.,,1
 ADAC,ADAC,Department of Finance. Finance Library.,,4670
-AEAD,AEAD,Department of Foreign Affairs and Trade. H.V. Evatt Library.,,32297
+AEAD,AEAD,Department of Foreign Affairs and Trade. H.V. Evatt Library.,,32303
 14646,,Department of Health (Queensland Health).,,3
 QDH,QDH,Department of Health (Queensland Health). Clinical Knowledge Resources.,14646,0
 QHSS,QHSS,Department of Health (Queensland Health). Forensic and Scientific Services. Information Research Services.,14646,3
-17614,,Department of Health (WA).,,22090
-WHD,WHD,Department of Health (WA). Department of Health Library Services.,17614,22090
+17614,,Department of Health (WA).,,22089
+WHD,WHD,Department of Health (WA). Department of Health Library Services.,17614,22089
 WSMAH,WSMAH,Department of Health (WA). South Metropolitan Area Health Service.,17614,0
 ACSH,ACSH,Department of Health. Health Library.,,5419
-13112,,Department of Home Affairs.,,9287
-AIEA,AIEA,Department of Home Affairs. Department of Home Affairs Library.,13112,9287
+13112,,Department of Home Affairs.,,9290
+AIEA,AIEA,Department of Home Affairs. Department of Home Affairs Library.,13112,9290
 ACB,ACB,Department of Home Affairs. Library (Australian Customs Collection).,13112,0
 AINC,AINC,"Department of Industry, Science, and Resources.",,20194
 ADTC,ADTC,"Department of Infrastructure, Transport, Regional Development, Community and the Arts.",,4920
 APLR,APLR,"Department of Infrastructure, Transport, Regional Development, Community and the Arts. Public and Educational Lending Right Program.",ADTC,1
 QAG,QAG,Department of Justice and Attorney-General. Crown Law Library.,,220
 VLAW:O,VLAW:O,Department of Justice Victoria. Consumer Affairs Library.,,0
-TPE,TPE,Department of Natural Resources and Environment Tasmania. Department of Natural Resources and Environment Tasmania.,,13052
+TPE,TPE,Department of Natural Resources and Environment Tasmania. Department of Natural Resources and Environment Tasmania.,,13053
 TFS,TFS,"Department of Police, Fire & Emergency Management Library.",,1943
 WAD,WAD,Department of Primary Industries and Regional Development. Library.,,13483
 TGO,TGO,Department of State Growth (TAS). Department of State Growth: Information Reference and Research Service.,,1153
-XCOC:GN,XCOC:GN,Department of the Attorney-General and Justice. Graham Nicholson Law Collection.,,2404
+XCOC:GN,XCOC:GN,Department of the Attorney-General and Justice. Graham Nicholson Law Collection.,,2406
 WOSA,WOSA,Department of the Premier and Cabinet (WA). Library and Research Services.,,0
-13142,,Department of the Prime Minister and Cabinet.,,33472
-APMD,APMD,Department of the Prime Minister and Cabinet. DPMC Library.,13142,33377
+13142,,Department of the Prime Minister and Cabinet.,,33475
+APMD,APMD,Department of the Prime Minister and Cabinet. DPMC Library.,13142,33380
 APMD:TR,APMD:TR,Department of the Prime Minister and Cabinet. DPMC Library. PM Transcripts.,APMD,25054
 AONAS,AONAS,Department of the Prime Minister and Cabinet. Office of National Assessments.,13142,0
 ATD,ATD,Department of the Prime Minister and Cabinet. Treasury Library .,13142,95
 AVAD,AVAD,Department of Veterans' Affairs. Department of Veterans' Affairs Library.,,55
-ASSD,ASSD,Dept. of Social Services. Library Services.,,24003
+ASSD,ASSD,Dept. of Social Services. Library Services.,,24002
 NDOS,NDOS,Dictionary of Sydney.,,649
 VDVHS,VDVHS,Dingley Village Historical Society.,,1
-SPBRO,SPBRO,District Council of Barunga West. Port Broughton School Community Barunga West.,,11665
+SPBRO,SPBRO,District Council of Barunga West. Port Broughton School Community Barunga West.,,11693
 5936,,District Council of Barunga West. Port Broughton School Community Barunga West. Bute Library Annex.,SPBRO,0
-SCSC,SCSC,District Council of Ceduna. Ceduna School Community Library.,,16136
-SCS,SCS,District Council of Cleve. Cleve School Community Library.,,14624
-SCPS,SCPS,District Council of Coober Pedy. Coober Pedy School Community Library.,,30416
-SCOW,SCOW,District Council of Franklin Harbour. Cowell School Community Library.,,14165
+SCSC,SCSC,District Council of Ceduna. Ceduna School Community Library.,,16146
+SCS,SCS,District Council of Cleve. Cleve School Community Library.,,14631
+SCPS,SCPS,District Council of Coober Pedy. Coober Pedy School Community Library.,,30417
+SCOW,SCOW,District Council of Franklin Harbour. Cowell School Community Library.,,14176
 SPDM,SPDM,District Council of Grant. Mary Lattin Memorial Library.,,8605
-SKSC,SKSC,District Council of Karoonda East Murray. Karoonda Community Library.,,11752
-SKL,SKL,District Council of Kimba. Kimba Library.,,10063
-SCSCL,SCSCL,District Council of Lower Eyre Peninsula. Cummins Area School.,,17182
-13165,,District Council of Loxton Waikerie.,,23509
-SLPL,SLPL,District Council of Loxton Waikerie. Loxton Public Library.,13165,23509
+SKSC,SKSC,District Council of Karoonda East Murray. Karoonda Community Library.,,11792
+SKL,SKL,District Council of Kimba. Kimba Library.,,10077
+SCSCL,SCSCL,District Council of Lower Eyre Peninsula. Cummins Area School.,,17199
+13165,,District Council of Loxton Waikerie.,,23552
+SLPL,SLPL,District Council of Loxton Waikerie. Loxton Public Library.,13165,23552
 SRCM,SRCM,District Council of Loxton Waikerie. Rex Coats Memorial Library.,13165,0
 326937,,District Council of Loxton Waikerie. Waikerie Public Library.,13165,0
-SMBAR,SMBAR,District Council of Mount Barker. Mount Barker Community Library.,,39559
+SMBAR,SMBAR,District Council of Mount Barker. Mount Barker Community Library.,,39632
 13178,,Donnybrook-Balingup Library Services.,,0
 WBAL,WBAL,Donnybrook-Balingup Library Services. Balingup Library.,13178,0
 WDNY,WDNY,Donnybrook-Balingup Library Services. Donnybrook Community Library.,13178,0
@@ -826,7 +825,7 @@ WDUM,WDUM,Dumbleyung Shire Council Libraries. Dumbleyung Public Library.,13195,0
 WKUK,WKUK,Dumbleyung Shire Council Libraries. Kukerin Library.,13195,0
 WNOS,WNOS,Dundas Shire Council. Norseman Public Library.,,0
 VEGFHG,VEGFHG,East Gippsland Family History Group.,,2
-VEGS,VEGS,East Gippsland Shire Library.,,47072
+VEGS,VEGS,East Gippsland Shire Library.,,47073
 6479,,East Gippsland Shire Library. Bairnsdale Library.,VEGS,0
 6482,,East Gippsland Shire Library. Lakes Entrance Library.,VEGS,0
 6478,,East Gippsland Shire Library. Mobile Library.,VEGS,0
@@ -838,28 +837,30 @@ WEGHS,WEGHS,Eastern Goldfields Historical Society.,,17
 VEAH,VEAH,Eastern Health.,,0
 17634,,Eastern Health. Eastern Health - Angliss Hospital,VEAH,0
 VAGH,VAGH,Eastern Health. Eastern Health - Angliss Hospital Angliss Hospital Library.,17634,0
-9991,,Edith Cowan University.,,1396603
-WCX,WCX,Edith Cowan University. Edith Cowan University Library.,9991,1396603
-WCX:IR,WCX:IR,Edith Cowan University. Edith Cowan University Library. Edith Cowan University: Institutional Repository.,WCX,30185
+14514,,Eastern Health. Eastern Health - Peter James Centre,VEAH,0
+VESG,VESG,Eastern Health. Eastern Health - Peter James Centre Health Sciences Library.,14514,0
+9991,,Edith Cowan University.,,1397607
+WCX,WCX,Edith Cowan University. Edith Cowan University Library.,9991,1397607
+WCX:IR,WCX:IR,Edith Cowan University. Edith Cowan University Library. Edith Cowan University: Institutional Repository.,WCX,30251
 5369,,Edith Cowan University. Edith Cowan University Library. Joondalup Campus Library.,WCX,0
 514,,Edith Cowan University. Edith Cowan University Library. Mt Lawley Campus Library.,WCX,0
 2035,,Edith Cowan University. Edith Cowan University Library. South West Campus Library.,WCX,0
 WCX:A,WCX:A,Edith Cowan University. University Archives.,9991,0
 VESA,VESA,Education Services Australia Ltd.,,1
-NCMR,NCMR,Edward River Library.,,17264
-SLOC,SLOC,Elliston Libraries. Lock School Community Library.,,11731
-VELTH,VELTH,Eltham District Historical Society.,,12474
+NCMR,NCMR,Edward River Library.,,17269
+SLOC,SLOC,Elliston Libraries. Lock School Community Library.,,11744
+VELTH,VELTH,Eltham District Historical Society.,,12481
 NES,NES,Emanuel School. Emanuel School Library.,,0
 QEMC,QEMC,Emmanuel College.,,0
 QEMSC,QEMSC,"Emmaus College, Rockhampton.",,0
 6845,,"Emmaus College, Rockhampton. Emmaus College Library.",QEMSC,0
 QCE,QCE,Energy QLD. Information Resources.,,2916
 VEPI,VEPI,Episteme Health.,,17
-NESL,NESL,Eurobodalla Shire Council Libraries.,,49399
+NESL,NESL,Eurobodalla Shire Council Libraries.,,49438
 NESL:B,NESL:B,Eurobodalla Shire Council Libraries. Batemans Bay Library.,NESL,0
-NESL:M,NESL:M,Eurobodalla Shire Council Libraries. Moruya Library.,NESL,49399
+NESL:M,NESL:M,Eurobodalla Shire Council Libraries. Moruya Library.,NESL,49438
 NESL:N,NESL:N,Eurobodalla Shire Council Libraries. Narooma Library.,NESL,0
-VCBC,VCBC,Eva Burrows College.,,29149
+VCBC,VCBC,Eva Burrows College.,,29153
 NWI,NWI,Excelsia College. Excelsia College Library.,,0
 WEXM,WEXM,Exmouth Shire Council. Exmouth Public Library.,,0
 SEC,SEC,Eynesbury College.,,0
@@ -867,29 +868,29 @@ SEPR,SEPR,Eyre Pensinsula Railway Preservation Society.,,2132
 328997,,Fair Work Commission.,,0
 VCAC,VCAC,Fair Work Commission. Library.,328997,0
 VRKA,VRKA,Fair Work Commission. Sir Richard Kirby Archive.,328997,0
-NFML,NFML,Fairfield City Council. The Whitlam Library.,,55903
+NFML,NFML,Fairfield City Council. The Whitlam Library.,,55920
 QFC,QFC,Fairholme College.,,0
 QFCT,QFCT,Fairholme College. Greta Statham Learning Centre.,QFC,0
 WFHH,WFHH,Fairview Historic Home.,,20
 VFML,VFML,Fawkner Motoring Library.,,3378
-NFDC,NFDC,Federal Court of Australia.,,53376
-NFDC:S,NFDC:S,Federal Court of Australia. Library & Information Services  (South Australia).,NFDC,8631
-NFDC:A,NFDC:A,Federal Court of Australia. Library & Information Services (Australian Capital Territory).,NFDC,1236
-NFCA,NFCA,Federal Court of Australia. Library & Information Services (New South Wales - Family Law) .,NFDC,20
-NFDC:N,NFDC:N,Federal Court of Australia. Library & Information Services (Principal Registry & New South Wales).,NFDC,8087
-NFDC:Q,NFDC:Q,Federal Court of Australia. Library & Information Services (Queensland).,NFDC,6558
-NFDC:T,NFDC:T,Federal Court of Australia. Library & Information Services (Tasmania).,NFDC,1650
-NFDC:V,NFDC:V,Federal Court of Australia. Library & Information Services (Victoria).,NFDC,14125
-NFDC:W,NFDC:W,Federal Court of Australia. Library & Information Services (Western Australia).,NFDC,12959
+NFDC,NFDC,Federal Court of Australia.,,49840
+NFDC:S,NFDC:S,Federal Court of Australia. Library & Information Services  (South Australia).,NFDC,8819
+NFDC:A,NFDC:A,Federal Court of Australia. Library & Information Services (Australian Capital Territory).,NFDC,1325
+NFCA,NFCA,Federal Court of Australia. Library & Information Services (New South Wales - Family Law) .,NFDC,28
+NFDC:N,NFDC:N,Federal Court of Australia. Library & Information Services (Principal Registry & New South Wales).,NFDC,8156
+NFDC:Q,NFDC:Q,Federal Court of Australia. Library & Information Services (Queensland).,NFDC,6909
+NFDC:T,NFDC:T,Federal Court of Australia. Library & Information Services (Tasmania).,NFDC,1689
+NFDC:V,NFDC:V,Federal Court of Australia. Library & Information Services (Victoria).,NFDC,14439
+NFDC:W,NFDC:W,Federal Court of Australia. Library & Information Services (Western Australia).,NFDC,8306
 NFCA:P,NFCA:P,"Federal Court of Australia. Library & Information Services, Parramatta.",NFDC,0
 VFEU,VFEU,Federation of Education Unions of Australia. Federation of Education Unions Information Centre.,,2851
-VFED,VFED,Federation University Australia Library.,,99302
+VFED,VFED,Federation University Australia Library.,,99315
 VFED:IR,VFED:IR,Federation University Australia Library. Federation Research Online.,VFED,113
 9447,,Federation University Australia Library. Federation University - Berwick Campus Library.,VFED,0
 VFED:A,VFED:A,Federation University Australia Library. Federation University Art Collection.,VFED,2367
-VFED:G,VFED:G,Federation University Australia Library. Federation University Australia - Gippsland campus library.,VFED,86635
+VFED:G,VFED:G,Federation University Australia Library. Federation University Australia - Gippsland campus library.,VFED,86643
 VFED:F,VFED:F,Federation University Australia Library. Federation University Figshare Repository.,VFED,0
-VFED:HC,VFED:HC,Federation University Australia Library. Federation University Historical Collection.,VFED,10104
+VFED:HC,VFED:HC,Federation University Australia Library. Federation University Historical Collection.,VFED,10109
 7416,,Federation University Australia Library. Mt Helen campus library.,VFED,0
 VFED:ANDS,VFED:ANDS,Federation University Australia Library. Research Data via ANDS.,VFED,81
 1375,,Federation University Australia Library. SMB campus library.,VFED,0
@@ -897,40 +898,39 @@ VFED:ANDS,VFED:ANDS,Federation University Australia Library. Research Data via A
 VFNC,VFNC,Field Naturalists Club of Victoria Inc. Field Naturalists Club of Victoria Library.,,1
 NNFB,NNFB,Fire & Rescue NSW. FRNSW Library.,,6
 VFSM,VFSM,Fire Services Museum of Victoria.,,39
-YUF,YUF,Flickr.,,520946
+YUF,YUF,Flickr.,,521377
 SFLIN,SFLIN,Flinders Medical Centre.,,0
 328718,,"Flinders Medical Centre. Medical Imaging Library, Flinders Medical Centre  (SFMC).",SFLIN,0
 QFSP,QFSP,Flinders Shire Council. Flinders Shire Council Historical Photograph Collection.,,1262
-13342,,Flinders University.,,259568
+13342,,Flinders University.,,562639
 SFU:PDM,SFU:PDM,Flinders University. Flinders University - Person data.,13342,116
-SFU,SFU,Flinders University. Flinders University Central Library.,13342,259323
+SFU,SFU,Flinders University. Flinders University Central Library.,13342,562394
 SFU:IR,SFU:IR,Flinders University. Flinders University Central Library. Flinders University: Institutional Repository .,SFU,30547
 SFU:SC,SFU:SC,Flinders University. Flinders University Library Special Collections.,13342,0
 7862,,Flinders University. Gus Fraenkel Medical Library.,13342,0
 SFU:ANDS,SFU:ANDS,Flinders University. Research Data via ANDS.,13342,129
-7876,,Flinders University. Sturt Library .,13342,0
 NFHS,NFHS,Forbes Historical Society and Museum.,,1349
-VFRK,VFRK,Frankston Library Service. Frankston City Libraries .,,130934
+VFRK,VFRK,Frankston Library Service. Frankston City Libraries .,,131053
 QMAR,QMAR,Fraser Coast Regional Libraries.,,8
 9284,,Fraser Coast Regional Libraries. Burrum Heads Library.,QMAR,0
 4704,,Fraser Coast Regional Libraries. Hervey Bay Library.,QMAR,0
 7665,,Fraser Coast Regional Libraries. Howard Library.,QMAR,0
 7613,,Fraser Coast Regional Libraries. Tom Gee Memorial Library and Community Centre.,QMAR,0
 WFIAS,WFIAS,Frederwick Irwin Anglican School.,,0
-VKER,VKER,Gannawarra Library Service. Sir John Gorton Library - Kerang.,,24442
+VKER,VKER,Gannawarra Library Service. Sir John Gorton Library - Kerang.,,24513
 VGCC,VGCC,Geelong Cycling Club.,,109
 VGFC,VGFC,Geelong Football Club.,,12
 VGEG,VGEG,Geelong Grammar School. Fisher Library.,,0
-VGEE,VGEE,Geelong Regional Library Corporation. Library Administration.,,173946
+VGEE,VGEE,Geelong Regional Library Corporation. Library Administration.,,174216
 VGRSL,VGRSL,Geelong RSL Sub Branch.,,241
-VGFCJ,VGFCJ,Genazzano F.C.J. College Library.,,40575
+VGFCJ,VGFCJ,Genazzano F.C.J. College Library.,,40503
 16894,,Genazzano F.C.J. College Library. Grange Hill Library.,VGFCJ,0
 5908,,Genazzano F.C.J. College Library. Senior School Library.,VGFCJ,0
 QGENC,QGENC,Genesis Christian College.,,0
-10037,,Georges River Council.,,133525
-NHUR,NHUR,Georges River Council. Hurstville Library and Service Centre.,10037,87526
+10037,,Georges River Council.,,133816
+NHUR,NHUR,Georges River Council. Hurstville Library and Service Centre.,10037,87818
 8792,,Georges River Council. Hurstville Library and Service Centre. Penshurst Branch Library.,NHUR,0
-NKOG,NKOG,Georges River Council. Kogarah Library and Service Centre.,10037,45999
+NKOG,NKOG,Georges River Council. Kogarah Library and Service Centre.,10037,45998
 7063,,Georges River Council. Kogarah Library and Service Centre. Oatley Library.,NKOG,0
 7061,,Georges River Council. Kogarah Library and Service Centre. South Hurstville.,NKOG,0
 17755,,Geoscience Australia.,,57738
@@ -941,16 +941,16 @@ NGTLL,NGTLL,Gilbert & Tobin Law Library.,,0
 VGHA,VGHA,Gippsland Health Alliance.,,0
 QGML,QGML,Gladstone Regional Council Libraries. Gladstone City Libraries.,,0
 VGEHS,VGEHS,Glen Eira Historical Society.,,1609
-VCAU,VCAU,Glen Eira Libraries. Carnegie Library and Community Centre .,,110151
+VCAU,VCAU,Glen Eira Libraries. Carnegie Library and Community Centre .,,110372
 VGWSC,VGWSC,Glen Waverley Secondary College.,,0
-VGLEN,VGLEN,Glenelg Shire Council. Glenelg Libraries.,,29424
+VGLEN,VGLEN,Glenelg Shire Council. Glenelg Libraries.,,29426
 7389,,Glenelg Shire Council. Glenelg Libraries. Casterton Library.,VGLEN,0
 7393,,Glenelg Shire Council. Glenelg Libraries. Glenelg Libraries Outreach.,VGLEN,0
 7391,,Glenelg Shire Council. Glenelg Libraries. Heywood Library.,VGLEN,0
 7390,,Glenelg Shire Council. Glenelg Libraries. Portland Library.,VGLEN,0
 QSCR:R,QSCR:R,Gold Coast District Health Service. Robina Hospital Library.,,1
-QSCR,QSCR,Gold Coast Health Library Service.,,2971
-VNCG,VNCG,Goldfields Library Corporation.,,109114
+QSCR,QSCR,Gold Coast Health Library Service.,,2977
+VNCG,VNCG,Goldfields Library Corporation.,,109376
 327117,,Goldfields Library Corporation. Bendigo Library.,VNCG,0
 8722,,Goldfields Library Corporation. Castlemaine Library.,VNCG,0
 327097,,Goldfields Library Corporation. Eaglehawk Library.,VNCG,0
@@ -964,23 +964,23 @@ VNCG,VNCG,Goldfields Library Corporation.,,109114
 QGRC,QGRC,Goondiwindi Town Council. Goondiwindi Regional Council Library Service.,,0
 2643,,Goondiwindi Town Council. Goondiwindi Regional Council Library Service. Inglewood Library.,QGRC,0
 6242,,Goondiwindi Town Council. Goondiwindi Regional Council Library Service. Texas Library.,QGRC,0
-VGT,VGT,Gordon Institute of TAFE. Gordon Library.,,11092
-NSOT,NSOT,Goulburn Mulwaree Library.,,31715
-VGBV,VGBV,Goulburn Ovens Institute of TAFE. Goulburn Ovens Institute of TAFE Library.,,8071
+VGT,VGT,Gordon Institute of TAFE. Gordon Library.,,11015
+NSOT,NSOT,Goulburn Mulwaree Library.,,31734
+VGBV,VGBV,Goulburn Ovens Institute of TAFE. Goulburn Ovens Institute of TAFE Library.,,8075
 VGVB,VGVB,Goulburn Valley Health. Library.,,2505
-VGVH,VGVH,Goulburn Valley Libraries. Shepparton City Library.,,95712
+VGVH,VGVH,Goulburn Valley Libraries. Shepparton City Library.,,95596
 13475,,Great Barrier Reef Marine Park Authority.,,15489
 QGBR:IC,QGBR:IC,Great Barrier Reef Marine Park Authority. Image Collection.,13475,9226
 QGBR,QGBR,Great Barrier Reef Marine Park Authority. Information Services.,13475,2525
 QGBR:IR,QGBR:IR,Great Barrier Reef Marine Park Authority. Institutional Repository.,13475,3738
 WGMG,WGMG,Greenough Museum and Gardens.,,295
-13495,,Griffith University.,,174646
-QGU,QGU,Griffith University. Griffith University Library.,13495,117262
-QGU:IR,QGU:IR,Griffith University. Griffith University Library. Griffith Research Online.,QGU,117261
+13495,,Griffith University.,,174955
+QGU,QGU,Griffith University. Griffith University Library.,13495,117571
+QGU:IR,QGU:IR,Griffith University. Griffith University Library. Griffith Research Online.,QGU,117570
 QGU:ANDS,QGU:ANDS,Griffith University. Research Data via ANDS.,13495,141
 QPRO,QPRO,Griffith University. The Prosecution Project .,13495,57243
 QGU:OJS,QGU:OJS,Griffith University. ePress.,13495,0
-QCOO,QCOO,Gympie Regional Libraries.,,63410
+QCOO,QCOO,Gympie Regional Libraries.,,63507
 7486,,Gympie Regional Libraries. Goomeri Library.,QCOO,0
 288278,,Gympie Regional Libraries. Gympie Library.,QCOO,0
 6456,,Gympie Regional Libraries. Imbil Library.,QCOO,0
@@ -993,34 +993,34 @@ XHAIL,XHAIL,Haileybury College. Haileybury Rendall School Library.,23277,0
 WHALE,WHALE,Hale School.,,0
 6107,,Hale School. Hale School Senior Library.,WHALE,0
 YHATHI,YHATHI,Hathi Trust.,,74471
-NHKS,NHKS,Hawkesbury City Council Library Service. Hawkesbury Central Library.,,67332
+NHKS,NHKS,Hawkesbury City Council Library Service. Hawkesbury Central Library.,,67526
 NHECO,NHECO,Health Communication Network. HCN Library.,,0
 NHDL,NHDL,Health Education and Training Institute. Brian Tutt Library.,,0
 NHDY,NHDY,Henry Davis York (Solicitors). Henry Davis York Library.,,0
 VHEP,VHEP,Hepburn Shire Council.,,14
-VNEA,VNEA,High Country Library Network.,,80948
+VNEA,VNEA,High Country Library Network.,,80895
 6000,,High Country Library Network. Benalla Library.,VNEA,0
 4325,,High Country Library Network. Bright Library.,VNEA,0
 VWAN,VWAN,"High Country Library Network. Information Access, Wangaratta Campus.",VNEA,0
 4326,,High Country Library Network. Mansfield Library.,VNEA,0
 4319,,High Country Library Network. Mt Beauty Library.,VNEA,0
 3642,,High Country Library Network. Myrtleford Library.,VNEA,0
-AHC,AHC,High Court of Australia. High Court of Australia Library.,,15441
+AHC,AHC,High Court of Australia. High Court of Australia Library.,,15465
 QHILL,QHILL,Hillbrook Anglican School.,,0
-VHIND,VHIND,Hindmarsh Shire Libraries.,,12719
+VHIND,VHIND,Hindmarsh Shire Libraries.,,12728
 VHOB:CC,VHOB:CC,Hobsons Bay City Council.,,3
 VWBG,VWBG,Hobsons Bay City Council. Williamstown Botanic Gardens.,VHOB:CC,0
-VHOB,VHOB,Hobsons Bay Libraries.,,69001
+VHOB,VHOB,Hobsons Bay Libraries.,,73980
 5388,,Hobsons Bay Libraries. Altona Library.,VHOB,0
 5160,,Hobsons Bay Libraries. Altona Meadows Library and Learning Centre.,VHOB,0
 5161,,Hobsons Bay Libraries. Newport Library.,VHOB,0
 5162,,Hobsons Bay Libraries. Williamstown Library.,VHOB,0
-13584,,Holmesglen Institute of TAFE.,,28143
+13584,,Holmesglen Institute of TAFE.,,28148
 VHOM:AR,VHOM:AR,Holmesglen Institute of TAFE. Holmesglen Institutional Repository.,13584,136
-VHOM,VHOM,Holmesglen Institute of TAFE. Holmesglen Library.,13584,28007
+VHOM,VHOM,Holmesglen Institute of TAFE. Holmesglen Library.,13584,28012
 QHSCM,QHSCM,Holy Spirit College Mackay.,,0
-NHOM,NHOM,Hornsby Shire Library & Information Service. Hornsby Shire Library & Information Service.,,105573
-NHOM:DC,NHOM:DC,Hornsby Shire Library & Information Service. Hornsby Shire Library & Information Service. Hornsby Shire Library & Information Service Digital Collections.,NHOM,6081
+NHOM,NHOM,Hornsby Shire Library & Information Service. Hornsby Shire Library & Information Service.,,105574
+NHOM:DC,NHOM:DC,Hornsby Shire Library & Information Service. Hornsby Shire Library & Information Service. Hornsby Shire Library & Information Service Digital Collections.,NHOM,6082
 VHUM,VHUM,Hume Libraries.,,1
 3645,,Hume Libraries. Craigieburn Library.,VHUM,0
 4140,,Hume Libraries. Gladstone Park Community Library.,VHUM,0
@@ -1032,27 +1032,27 @@ VHNHA,VHNHA,HumeNET Health Alliance.,,0
 NHNEH:MATER,NHNEH:MATER,Hunter New England Local Health District. HNE Health Libraries The Mater Hospital.,14353,13684
 NHNEH:TAM,NHNEH:TAM,"Hunter New England Local Health District. HNE Health Library, Tamworth.",14353,0
 NHNEH:JH,NHNEH:JH,Hunter New England Local Health District. John Hunter Hospital Library.,14353,0
-NHWL,NHWL,Hunter Workers Library.,,942
+NHWL,NHWL,Hunter Workers Library.,,954
 THSL,THSL,Hutchins School. Nettlefold Library.,,49
-VWODG,VWODG,Hyphen Wodonga Library Gallery.,,26032
-14975,,Illawarra Shoalhaven Local Health District.,,4271
+VWODG,VWODG,Hyphen Wodonga Library Gallery.,,26055
+14975,,Illawarra Shoalhaven Local Health District.,,4260
 NPKH,NPKH,Illawarra Shoalhaven Local Health District. Port Kembla Hospital Library.,14975,0
 NIAH,NIAH,Illawarra Shoalhaven Local Health District. Shellharbour Hospital Library.,14975,0
 NSHOAL,NSHOAL,Illawarra Shoalhaven Local Health District. Shoalhaven Hospital Library.,14975,0
-NWH,NWH,Illawarra Shoalhaven Local Health District. Wollongong Hospital Medical/Health Sciences Library.,14975,4271
-334558,,Indigo Shire Council.,,20690
-VBBM,VBBM,Indigo Shire Council. Beechworth Burke Museum.,334558,734
-VISL,VISL,Indigo Shire Council. Indigo Shire Libraries.,334558,19956
+NWH,NWH,Illawarra Shoalhaven Local Health District. Wollongong Hospital Medical/Health Sciences Library.,14975,4260
+334558,,Indigo Shire Council.,,20488
+VBBM,VBBM,Indigo Shire Council. Beechworth Burke Museum.,334558,753
+VISL,VISL,Indigo Shire Council. Indigo Shire Libraries.,334558,19735
 6353,,Indigo Shire Council. Indigo Shire Libraries. Beechworth Library.,VISL,0
 6363,,Indigo Shire Council. Indigo Shire Libraries. Chiltern Library.,VISL,0
 6396,,Indigo Shire Council. Indigo Shire Libraries. Rutherglen Library.,VISL,0
 QISHS,QISHS,Indooroopilly State High School.,,0
 10797,,Indooroopilly State High School. Library Resource Centre.,QISHS,0
-12166,,Inner West Council.,,227652
+12166,,Inner West Council.,,227710
 NAML,NAML,Inner West Council. Ashfield Municipal Library.,12166,44779
 6272,,Inner West Council. Ashfield Municipal Library. Haberfield Branch Library.,NAML,0
 3600,,Inner West Council. Balmain Library.,12166,0
-NMML,NMML,Inner West Council. Inner West Council Library & History: Marrickville Branch .,12166,54083
+NMML,NMML,Inner West Council. Inner West Council Library & History: Marrickville Branch .,12166,54141
 7077,,Inner West Council. Inner West Council Library & History: Marrickville Branch . Emanuel Tsardoulias Community Library.,NMML,0
 7074,,Inner West Council. Inner West Council Library & History: Marrickville Branch . St Peters / Sydenham Branch Library.,NMML,0
 NLML,NLML,Inner West Council. Inner West Council Library and History Leichhardt Branch.,12166,128790
@@ -1060,40 +1060,40 @@ NLML,NLML,Inner West Council. Inner West Council Library and History Leichhardt 
 13666,,"International College of Management, Sydney.",,0
 NICMS,NICMS,"International College of Management, Sydney. ICMS Library.",13666,0
 NICM,NICM,"International College of Management, Sydney. Pollard Resource Centre.",13666,0
-NINV,NINV,Inverell Shire Council. Inverell Shire Public Library.,,10623
+NINV,NINV,Inverell Shire Council. Inverell Shire Public Library.,,10725
 7792,,Inverell Shire Council. Inverell Shire Public Library. Ashford Branch Library.,NINV,0
 VILH,VILH,Inverloch Historical Society.,,963
 AIPO,AIPO,IP Australia. IP Australia Library.,,8257
-QIPS,QIPS,Ipswich Libraries.,,128135
+QIPS,QIPS,Ipswich Libraries.,,128278
 301857,,Ipswich Libraries. Ipswich Library.,QIPS,0
 4654,,Ipswich Libraries. Mobile Library.,QIPS,0
-QIPS:PI,QIPS:PI,Ipswich Libraries. Picture Ipswich.,QIPS,10672
+QIPS:PI,QIPS:PI,Ipswich Libraries. Picture Ipswich.,QIPS,10676
 7298,,Ipswich Libraries. Redbank Plains Library.,QIPS,0
 4655,,Ipswich Libraries. Redbank Plaza Library.,QIPS,0
 WIRW,WIRW,Irwin District Historical Society Inc. Irwin District Museum & Research Centre.,,67
-QDYS,QDYS,Isaac Regional Council. Dysart Library.,,30715
-XJABI,XJABI,Jabiru Town Council. Jabiru Public Library.,,81980
+QDYS,QDYS,Isaac Regional Council. Dysart Library.,,30736
+XJABI,XJABI,Jabiru Town Council. Jabiru Public Library.,,81845
 NJB,NJB,James Bennett.,,8
-16914,,James Cook University.,,286029
-QJCU,QJCU,James Cook University. Eddie Koiki Mabo Library.,16914,283081
-QJCU:IR,QJCU:IR,James Cook University. Eddie Koiki Mabo Library. Townsville Campus Library: Institutional Repository.,QJCU,55973
+16914,,James Cook University.,,286102
+QJCU,QJCU,James Cook University. Eddie Koiki Mabo Library.,16914,283154
+QJCU:IR,QJCU:IR,James Cook University. Eddie Koiki Mabo Library. Townsville Campus Library: Institutional Repository.,QJCU,56047
 342520,,James Cook University. JCU Cairns Library.,16914,0
 QJCU:ANDS,QJCU:ANDS,James Cook University. Research Data via ANDS.,16914,2948
-NJSN,NJSN,Jessie Street National Women's Library.,,13216
-332437,,JMC Academy.,,2976
-QJMC,QJMC,JMC Academy. Brisbane Campus Library.,332437,849
-VJMC,VJMC,JMC Academy. Melbourne Campus Library.,332437,998
-NJMC,NJMC,JMC Academy. Sydney Campus Library.,332437,1129
+NJSN,NJSN,Jessie Street National Women's Library.,,13224
+332437,,JMC Academy.,,2973
+QJMC,QJMC,JMC Academy. Brisbane Campus Library.,332437,848
+VJMC,VJMC,JMC Academy. Melbourne Campus Library.,332437,997
+NJMC,NJMC,JMC Academy. Sydney Campus Library.,332437,1128
 QJPC,QJPC,John Paul College. John Paul College Senior Library.,,0
-12003,,Justice and Community Safety Directorate.,,3543
+12003,,Justice and Community Safety Directorate.,,3547
 AAMC,AAMC,Justice and Community Safety Directorate. Alexander Machonochie Centre Library.,12003,0
-ACT:LAW,ACT:LAW,Justice and Community Safety Directorate. Justice & Community Safety Directorate Library.,12003,3543
+ACT:LAW,ACT:LAW,Justice and Community Safety Directorate. Justice & Community Safety Directorate Library.,12003,3547
 NKBSL,NKBSL,Kambala. Bain Senior Library.,,0
 VKIT,VKIT,Kangan Institute. Broadmeadows Campus Library  and Learning  Centre.,,0
-SKIL,SKIL,Kangaroo Island Council. Kangaroo Island Library.,,10355
+SKIL,SKIL,Kangaroo Island Council. Kangaroo Island Library.,,10357
 NFSIA,NFSIA,Kaplan Professional. Library.,,0
 VKIC,VKIC,Kardinia International College. Learning Resource Centre.,,0
-XKATH,XKATH,Katherine Town Council. Katherine Public Library.,,81585
+XKATH,XKATH,Katherine Town Council. Katherine Public Library.,,81456
 WKEL,WKEL,Kellerberrin Shire Council. Kellerberrin Community Resource Centre and Library.,,0
 NKEM,NKEM,Kempsey Shire Council. Kempsey Shire Library.,,0
 7489,,Kempsey Shire Council. Kempsey Shire Library. South West Rocks Branch.,NKEM,0
@@ -1103,15 +1103,19 @@ QKSHS,QKSHS,Kenmore State High School.,,0
 WNYA,WNYA,Kent Shire Council Libraries. Nyabing Library.,13756,0
 WPIN,WPIN,Kent Shire Council Libraries. Pingrup Library.,13756,0
 VCKOM,VCKOM,Kett Optometry Museum.,,3829
-VKHI,VKHI,Kew Historical Society.,,5837
+VKHI,VKHI,Kew Historical Society.,,5848
 VKHIL,VKHIL,Kew Historical Society. Kew Historical Society Library.,VKHI,0
 VKGG,VKGG,Kilvington Grammar School. Kilvington Grammar School - McKie Library.,,0
 QKING,QKING,King's Christian College.,,0
 VKAC,VKAC,Kingston Arts Centre.,,64
-SKCS,SKCS,Kingston Community School. Kingston School Community Library.,,15470
-12887,,Kingston Information and Library Service.,,95388
+SKCS,SKCS,Kingston Community School. Kingston School Community Library.,,15520
+12887,,Kingston Information and Library Service.,,94824
+7429,,Kingston Information and Library Service. Chelsea Library.,12887,0
 7426,,Kingston Information and Library Service. Cheltenham Library.,12887,0
-VKING,VKING,Kingston Information and Library Service. Kingston Information & Library Service.,12887,95388
+7430,,Kingston Information and Library Service. Clarinda Library.,12887,0
+7432,,Kingston Information and Library Service. Dingley Library.,12887,0
+7431,,Kingston Information and Library Service. Highett Library.,12887,0
+VKING,VKING,Kingston Information and Library Service. Kingston Information & Library Service.,12887,94824
 VKL,VKL,Kingston Information and Library Service. Kingston Libraries.,12887,0
 326897,,Kingston Information and Library Service. Moorabbin Library.,12887,0
 326898,,Kingston Information and Library Service. Parkdale Library.,12887,0
@@ -1121,7 +1125,7 @@ VKL,VKL,Kingston Information and Library Service. Kingston Libraries.,12887,0
 WHYN,WHYN,Kondinin Shire Council Libraries. Hyden Public Library.,13787,0
 WKON,WKON,Kondinin Shire Council Libraries. Kondinin Library.,13787,0
 WKDA,WKDA,Koorda Shire Council. Koorda Public Library.,,0
-NKML,NKML,Ku-ring-gai Council Libraries. Ku-ring-gai Library.,,90752
+NKML,NKML,Ku-ring-gai Council Libraries. Ku-ring-gai Library.,,90811
 7502,,Ku-ring-gai Council Libraries. Ku-ring-gai Library. Lindfield Library.,NKML,0
 7501,,Ku-ring-gai Council Libraries. Ku-ring-gai Library. St Ives Library.,NKML,0
 7499,,Ku-ring-gai Council Libraries. Ku-ring-gai Library. Turramurra Library.,NKML,0
@@ -1132,7 +1136,7 @@ VLU:ANDS,VLU:ANDS,La Trobe University. Research Data via ANDS.,19796,474
 VSCT,VSCT,La Trobe University. Sunraysia Institute of TAFE AND La Trobe University - Mildura Campus Library.,19796,9556
 WLJBC,WLJBC,Lake Joondalup Baptist College.,,0
 135204,,Lake Joondalup Baptist College. LJBC Library.,WLJBC,0
-NLMPL,NLMPL,Lake Mac Libraries.,,80351
+NLMPL,NLMPL,Lake Mac Libraries.,,80385
 5377,,Lake Mac Libraries. Belmont  Library.,NLMPL,0
 9486,,Lake Mac Libraries. Cardiff  Library.,NLMPL,0
 5378,,Lake Mac Libraries. Charlestown  Library.,NLMPL,0
@@ -1144,17 +1148,17 @@ NLMPL,NLMPL,Lake Mac Libraries.,,80351
 5376,,Lake Mac Libraries. Toronto  Library.,NLMPL,0
 5375,,Lake Mac Libraries. Wangi Wangi Library.,NLMPL,0
 5372,,Lake Mac Libraries. Windale  Library.,NLMPL,0
-VLJL,VLJL,Lamm Jewish Library of Australia.,,17780
-NLCOV,NLCOV,Lane Cove Municipal Council. Lane Cove Library .,,10907
+VLJL,VLJL,Lamm Jewish Library of Australia.,,17815
+NLCOV,NLCOV,Lane Cove Municipal Council. Lane Cove Library .,,10915
 4455,,Lane Cove Municipal Council. Lane Cove Library . Greenwich Library.,NLCOV,0
 VLMERC,VLMERC,Languages and Multicultural Education Resource Centre .,,1
-VLTV,VLTV,Latrobe City Library. Morwell Public Library.,,78288
+VLTV,VLTV,Latrobe City Library. Morwell Public Library.,,78495
 TLMI,TLMI,Launceston Mechanics Institute.,,14111
 NLC,NLC,Legal Aid NSW Library.,,368
-QLAO,QLAO,Legal Aid Queensland Library Services.,,2101
-SLCS,SLCS,Leigh Creek School. Leigh Creek Community Library.,,11257
-APLS,APLS,Libraries ACT.,,732960
-APLS:AHL,APLS:AHL,Libraries ACT. ACT Heritage Library .,APLS,45398
+QLAO,QLAO,Legal Aid Queensland Library Services.,,2103
+SLCS,SLCS,Leigh Creek School. Leigh Creek Community Library.,,11273
+APLS,APLS,Libraries ACT.,,733155
+APLS:AHL,APLS:AHL,Libraries ACT. ACT Heritage Library .,APLS,45401
 9782,,Libraries ACT. Belconnen Library.,APLS,0
 237457,,Libraries ACT. Civic Library.,APLS,0
 237479,,Libraries ACT. Dickson Library.,APLS,0
@@ -1162,37 +1166,37 @@ APLS:AHL,APLS:AHL,Libraries ACT. ACT Heritage Library .,APLS,45398
 237480,,Libraries ACT. Gungahlin Library.,APLS,0
 331897,,Libraries ACT. Kingston Library.,APLS,0
 237637,,Libraries ACT. Kippax Library.,APLS,0
-APLS:NED,APLS:NED,Libraries ACT. National edeposit (ACT).,APLS,76435
+APLS:NED,APLS:NED,Libraries ACT. National edeposit (ACT).,APLS,76630
 5813,,Libraries ACT. Tuggeranong Library.,APLS,0
 331898,,Libraries ACT. Woden Library.,APLS,0
-TSL,TSL,Libraries Tasmania.,,428748
+TSL,TSL,Libraries Tasmania.,,428943
 9044,,Libraries Tasmania. Allport Library and Museum of Fine Arts.,TSL,0
-TSL:NED,TSL:NED,Libraries Tasmania. National edeposit (TAS).,TSL,77443
+TSL:NED,TSL:NED,Libraries Tasmania. National edeposit (TAS).,TSL,77639
 20076,,Libraries Tasmania. State Library of Tasmania.,TSL,0
 20057,,Libraries Tasmania. Tasmanian Archive and Heritage Office.,TSL,0
 20036,,Libraries Tasmania. W L Crowther.,TSL,0
-XNLS,XNLS,Library & Archives NT.,,557374
+XNLS,XNLS,Library & Archives NT.,,557652
 XNLS:DL,XNLS:DL,Library & Archives NT. Digital LANT.,XNLS,3
 XNLS:GC,XNLS:GC,Library & Archives NT. General Collection.,XNLS,71738
 XNLS:ED,XNLS:ED,Library & Archives NT. NT edeposit.,XNLS,2
 XNLS:DIG,XNLS:DIG,Library & Archives NT. NTL Digital Branch.,XNLS,0
-XNLS:NED,XNLS:NED,Library & Archives NT. National edeposit (NT).,XNLS,76386
+XNLS:NED,XNLS:NED,Library & Archives NT. National edeposit (NT).,XNLS,76581
 XNLS:AC,XNLS:AC,Library & Archives NT. Northern Territory Archives Centre.,XNLS,1130
-XNLS:NC,XNLS:NC,Library & Archives NT. Northern Territory Library.,XNLS,29157
+XNLS:NC,XNLS:NC,Library & Archives NT. Northern Territory Library.,XNLS,29158
 XNLS:E,XNLS:E,Library & Archives NT. Northern Territory Public Libraries Network.,XNLS,0
 XNLS:NS,XNLS:NS,Library & Archives NT. Offsite Storage - NTC.,XNLS,10012
-XNLS:GS,XNLS:GS,Library & Archives NT. Offsite Storage.,XNLS,73151
+XNLS:GS,XNLS:GS,Library & Archives NT. Offsite Storage.,XNLS,73233
 XNLS:PL,XNLS:PL,Library & Archives NT. Parliamentary Library Service.,XNLS,334
 NLAV,NLAV,Library AV & Large Print Pty Limited .,,2
-SLRP,SLRP,Light Regional Public Library Service. Kapunda Public Library.,,20054
+SLRP,SLRP,Light Regional Public Library Service. Kapunda Public Library.,,20056
 NLIN,NLIN,Linnean Society of New South Wales.,,1
 VDHL,VDHL,Linton and District Historical Society Inc.,,83
-NLRL,NLRL,Lithgow Library Learning Centre.,,83
+NLRL,NLRL,Lithgow Library Learning Centre.,,253
 7049,,Lithgow Library Learning Centre. Portland Branch Library.,NLRL,0
 7051,,Lithgow Library Learning Centre. Rydal Branch Library.,NLRL,0
 7046,,Lithgow Library Learning Centre. Wallerawang Branch Library.,NLRL,0
-13880,,Liverpool City Library.,,114254
-NLIVL,NLIVL,Liverpool City Library.,13880,95510
+13880,,Liverpool City Library.,,114269
+NLIVL,NLIVL,Liverpool City Library.,13880,95525
 339057,,Liverpool City Library. Carnes Hill Branch Library.,NLIVL,0
 281,,Liverpool City Library. Casula Branch Library.,NLIVL,0
 286,,Liverpool City Library. Green Valley Branch Library.,NLIVL,0
@@ -1202,7 +1206,7 @@ NLIVL,NLIVL,Liverpool City Library.,13880,95510
 NWESCOL,NWESCOL,Liverpool City Library. West South West Community Language Collection.,13880,18744
 QLS,QLS,Lockyer Valley Libraries. Laidley Library.,,0
 VLMRH,VLMRH,Loddon Mallee Rural Health Alliance.,,0
-QLCL,QLCL,Logan City Council Libraries.,,39547
+QLCL,QLCL,Logan City Council Libraries.,,39605
 325297,,Logan City Council Libraries. Beenleigh Library.,QLCL,0
 7674,,Logan City Council Libraries. Greenbank Library.,QLCL,0
 7675,,Logan City Council Libraries. Jimboomba Library.,QLCL,0
@@ -1221,32 +1225,32 @@ VLOR:A,VLOR:A,"Loreto College, Ballarat. Loreto Province Archives.",13896,305
 NLNOR,NLNOR,Loreto Normanhurst.,,0
 4554,,Loreto Normanhurst. Learning Resource Centre.,NLNOR,0
 QLHC,QLHC,"Lourdes Hill College, Hawthorne.",,0
-VLOW,VLOW,Lowther Hall Anglican Grammar School. Learning Resource Centre.,,63931
+VLOW,VLOW,Lowther Hall Anglican Grammar School. Learning Resource Centre.,,63950
 XALIR:LA,XALIR:LA,Ltyentye Apurte Community. Ltyentye Apurte Community & School Library.,,4490
 QPLC,QPLC,Lutheran Church of Australia (Queensland District). St Peters Lutheran College.,,0
 NMAAS,NMAAS,Macarthur Anglican School.,,0
-QMC,QMC,Mackay Regional Libraries. Mackay Regional Council Libraries.,,84961
+QMC,QMC,Mackay Regional Libraries. Mackay Regional Council Libraries.,,85167
 NMLY,NMLY,MacLeay College. Library.,,0
-13933,,Macquarie Regional Library.,,42362
+13933,,Macquarie Regional Library.,,42378
 NCOS,NCOS,Macquarie Regional Library. Coolah Shire Library.,13933,0
 1330,,Macquarie Regional Library. Coonabarabran Branch Library.,13933,0
 8860,,Macquarie Regional Library. Dunedoo Branch Library.,13933,0
-NMAC,NMAC,Macquarie Regional Library.,13933,42362
+NMAC,NMAC,Macquarie Regional Library.,13933,42378
 8857,,Macquarie Regional Library. Mendooran Branch Library.,13933,0
 1337,,"Macquarie Regional Library. Moli, the Mobile Library.",13933,0
 1340,,Macquarie Regional Library. Narromine Branch Library.,13933,0
 1335,,Macquarie Regional Library. Regional Office.,13933,0
 1344,,Macquarie Regional Library. Trangie Branch Library.,13933,0
 1342,,Macquarie Regional Library. Wellington Branch Library.,13933,0
-13935,,Macquarie University.,,750214
-NMQU,NMQU,Macquarie University. Macquarie University Library.,13935,748721
-NMQU:IR,NMQU:IR,Macquarie University. Macquarie University Library. Macquarie University Library: Institutional Repository.,NMQU,101389
+13935,,Macquarie University.,,750289
+NMQU,NMQU,Macquarie University. Macquarie University Library.,13935,748796
+NMQU:IR,NMQU:IR,Macquarie University. Macquarie University Library. Macquarie University Library: Institutional Repository.,NMQU,101470
 NMQU:MA,NMQU:MA,Macquarie University. Macquarie University Media Archives.,13935,118
 NMQU:ANDS,NMQU:ANDS,Macquarie University. Research Data via ANDS.,13935,1375
 WMR,WMR,Main Roads Western Australia. Main Roads Western Australia Library.,,105
-13941,,Maitland City Council.,,88185
-NMCL:C,NMCL:C,Maitland City Council. Maitland City Collections.,13941,7299
-NMCL,NMCL,Maitland City Council. Maitland City Library.,13941,80886
+13941,,Maitland City Council.,,88197
+NMCL:C,NMCL:C,Maitland City Council. Maitland City Collections.,13941,7305
+NMCL,NMCL,Maitland City Council. Maitland City Library.,13941,80892
 2236,,Maitland City Council. Maitland City Library. East Maitland Library.,NMCL,0
 9572,,Maitland City Council. Maitland City Library. Rutherford Library.,NMCL,0
 2238,,Maitland City Council. Maitland City Library. Thornton Library.,NMCL,0
@@ -1254,60 +1258,61 @@ VMBB,VMBB,Maldon Brass Band.,,133
 VMAS,VMAS,Maldon Masonic Centre Association Inc..,,290
 VMLD,VMLD,Maldon Museum & Archives Association Inc.,,1
 VMVM,VMVM,Maldon Vintage Machinery Museum.,,167
-SLAS,SLAS,Mallee Libraries. Pinnaroo School Community Library.,,17843
+SLAS,SLAS,Mallee Libraries. Pinnaroo School Community Library.,,17863
 WMHP,WMHP,Manjimup Heritage Park.,,68
 AMCC,AMCC,Manning Clark House. Manning Clark House Library.,,1948
 QMSH,QMSH,Mansfield State High School.,,0
 YMAR,YMAR,Marcive Inc.,,1
 VMOF,VMOF,Marcus Oldham College. Sir James Darling Resource Centre.,,0
-QMREE,QMREE,Mareeba Shire Council. Mareeba Shire Library.,,34866
-VFPL,VFPL,Maribyrnong Library Service.,,77168
+QMREE,QMREE,Mareeba Shire Council. Mareeba Shire Library.,,34716
+VFPL,VFPL,Maribyrnong Library Service.,,77477
 7397,,Maribyrnong Library Service. Footscray Library.,VFPL,0
 3652,,Maribyrnong Library Service. Footscray West.,VFPL,0
 9459,,Maribyrnong Library Service. Maribyrnong Library.,VFPL,0
 9460,,Maribyrnong Library Service. Yarraville Library.,VFPL,0
-SML,SML,Marion Libraries. Cultural Centre Library.,,85004
+SML,SML,Marion Libraries. Cultural Centre Library.,,85076
 QMCA,QMCA,"Marist College, Ashgrove. Marist College Library.",,0
 NMSC,NMSC,"Marist Sisters College, Woolwich.",,0
 TMMT,TMMT,Maritime Museum of Tasmania.,,16891
 QMMC,QMMC,Mary MacKillop College.,,0
-VMC,VMC,Mazenod College. Mazenod College Library.,,33136
+VMC,VMC,Mazenod College. Mazenod College Library.,,33141
+NMDM,NMDM,MDM Entertainment.,,21
 VMCC,VMCC,Melbourne Cricket Club. Melbourne Cricket Club Library.,,1306
 VMELG,VMELG,Melbourne Grammar School.,,0
 4213,,Melbourne Grammar School. Morris Library.,VMELG,0
-VNMT,VNMT,Melbourne Polytechnic.,,62140
+VNMT,VNMT,Melbourne Polytechnic.,,62150
 6183,,Melbourne Polytechnic. Collingwood Campus Library.,VNMT,0
 6184,,Melbourne Polytechnic. Epping Campus Library.,VNMT,0
 6182,,Melbourne Polytechnic. Fairfield Campus Library.,VNMT,0
 6181,,Melbourne Polytechnic. Heidelberg Campus Library.,VNMT,0
 6179,,Melbourne Polytechnic. Prahran Campus Library.,VNMT,0
 7822,,Melbourne Polytechnic. Preston Campus Library.,VNMT,0
-77020,,Melton City Council.,,54361
+77020,,Melton City Council.,,54101
 276477,,Melton City Council. Caroline Springs Library & Learning Hub.,77020,0
 VMLT:CHC,VMLT:CHC,Melton City Council. Community Heritage Collection.,77020,557
-VMLT,VMLT,Melton City Council. Melton Library & Learning Hub.,77020,53804
-VMGGS,VMGGS,Mentone Girls' Grammar School. Kerferd Library .,,69849
+VMLT,VMLT,Melton City Council. Melton Library & Learning Hub.,77020,53544
+VMGGS,VMGGS,Mentone Girls' Grammar School. Kerferd Library .,,69857
 WMEN,WMEN,Menzies Library and Information Service. Menzies Library.,,0
 QMCM,QMCM,"Mercy College, Mackay.",,0
 WMHS,WMHS,Merredin Railway Museum.,,1326
-VMOR,VMOR,Merri-bek Libraries. Merri-bek City Libraries.,,111225
+VMOR,VMOR,Merri-bek Libraries. Merri-bek City Libraries.,,111453
 WMLC,WMLC,Methodist Ladies' College - Claremont. Walter Shepherd Resource Centre.,,0
 VMLC,VMLC,Methodist Ladies' College - Melbourne. MLC Libraries.,,15252
-337258,,Metro South Health.,,136
-QPAH,QPAH,Metro South Health. PAH Library and Knowledge Centre.,337258,136
+337258,,Metro South Health.,,140
+QPAH,QPAH,Metro South Health. PAH Library and Knowledge Centre.,337258,140
 QQE,QQE,Metro South Health. Queen Elizabeth II Jubilee Hospital Library.,337258,0
 QBD,QBD,Metro South Health. Redland Hospital Library.,337258,0
-SCAM,SCAM,Mid Murray Council. Cambrai School Community Library.,,37732
-331977,,Mid North Coast Local Health District.,,2304
+SCAM,SCAM,Mid Murray Council. Cambrai School Community Library.,,37750
+331977,,Mid North Coast Local Health District.,,2309
 NMCH,NMCH,Mid North Coast Local Health District. Coffs Harbour Health Campus Library.,331977,0
-NPMH,NPMH,Mid North Coast Local Health District. PMBH Health Services Library.,331977,2304
-NMRC,NMRC,Mid-Western Regional Council Library.,,29513
+NPMH,NPMH,Mid North Coast Local Health District. PMBH Health Services Library.,331977,2309
+NMRC,NMRC,Mid-Western Regional Council Library.,,29605
 7521,,Mid-Western Regional Council Library. Gulgong Branch Library.,NMRC,0
 343341,,Mid-Western Regional Council Library. Kandos Branch Library.,NMRC,0
 343342,,Mid-Western Regional Council Library. Rylstone Branch Library.,NMRC,0
-13477,,MidCoast Council.,,36980
+13477,,MidCoast Council.,,36979
 6445,,MidCoast Council. Bulahdelah Branch Library.,13477,0
-NGLS,NGLS,MidCoast Council. Forster Library (Central Library).,13477,36980
+NGLS,NGLS,MidCoast Council. Forster Library (Central Library).,13477,36979
 3825,,MidCoast Council. Gloucester Library.,13477,0
 327537,,MidCoast Council. Hallidays Point Library.,13477,0
 327557,,MidCoast Council. Harrington Library.,13477,0
@@ -1320,12 +1325,12 @@ VMID,VMID,Middletons.,,0
 8606,,Middletons. Melbourne Library.,VMID,0
 8605,,Middletons. Sydney Library.,VMID,0
 WMDHS,WMDHS,Midland and Districts Historical Society.,,127
-VMIL,VMIL,Mildura Rural City Council Library Service. Mildura Library.,,71169
+VMIL,VMIL,Mildura Rural City Council Library Service. Mildura Library.,,71101
 XMCSL,XMCSL,Milingimbi Community Government Council. Milingimbi Community & School Library.,,1754
 VMCPF,VMCPF,Millewa Community Pioneer Forest & Historical Society.,,61
 VCPI,VCPI,Mindful - Centre for Training and Research in Developmental Health. Mindful Library.,,1935
-SMLS,SMLS,Mitcham Library Service. Mitcham Memorial Library.,,95906
-VSLS,VSLS,Mitchell Shire Library & Information Service. Kilmore Library.,,35439
+SMLS,SMLS,Mitcham Library Service. Mitcham Memorial Library.,,95977
+VSLS,VSLS,Mitchell Shire Library & Information Service. Kilmore Library.,,35430
 VMCFY,VMCFY,Monash College. Monash College Library and Learning Centre.,,0
 VMH,VMH,Monash Health.,,4511
 83878,,Monash Health. Casey Hospital Library.,VMH,0
@@ -1333,10 +1338,10 @@ VMH,VMH,Monash Health.,,4511
 9828,,Monash Health. Kingston Centre Library.,VMH,0
 9831,,Monash Health. Monash Medical Centre Clayton Library.,VMH,0
 9830,,Monash Health. Monash Medical Centre Moorabbin Library.,VMH,0
-VMON,VMON,Monash Public Library Service. Monash Public Library Service.,,140656
+VMON,VMON,Monash Public Library Service. Monash Public Library Service.,,140781
 VMUA,VMUA,Monash University Archives.,,17722
-10092,,Monash University.,,1493493
-VMOU,VMOU,Monash University. Monash University Library.,10092,1492715
+10092,,Monash University.,,1493590
+VMOU,VMOU,Monash University. Monash University Library.,10092,1492812
 9299,,Monash University. Monash University Library. CL Butchers Pharmacy Library.,VMOU,0
 7406,,Monash University. Monash University Library. Caulfield Library.,VMOU,0
 9446,,Monash University. Monash University Library. Gippsland Library.,VMOU,0
@@ -1344,7 +1349,7 @@ VMOU,VMOU,Monash University. Monash University Library.,10092,1492715
 7405,,Monash University. Monash University Library. Law Library.,VMOU,0
 VMOU:CO,VMOU:CO,Monash University. Monash University Library. Monash Collections Online.,VMOU,11219
 VMOU:RD,VMOU:RD,Monash University. Monash University Library. Monash University Research Data.,VMOU,32979
-VMOU:R,VMOU:R,Monash University. Monash University Library. Monash University Research Repository.,VMOU,17839
+VMOU:R,VMOU:R,Monash University. Monash University Library. Monash University Research Repository.,VMOU,17876
 7402,,Monash University. Monash University Library. Peninsula Library.,VMOU,0
 9452,,Monash University. Monash University Library. Sir Louis Matheson Library.,VMOU,0
 VMOU:ANDS,VMOU:ANDS,Monash University. Research Data via ANDS.,10092,449
@@ -1352,10 +1357,10 @@ VMOU:SM,VMOU:SM,Monash University. School of Music - Conservatorium.,10092,329
 14110,,Monash University. South Africa Campus,10092,0
 11955,,Monash University. South Africa Campus Johannesburg Campus Library .,14110,0
 NMSAM,NMSAM,Monte Sant' Angelo Mercy College. Monte Sant' Angelo College Library.,,0
-QMON,QMON,Monument Australia.,,33108
-VMVL,VMVL,Moonee Valley Libraries. Moonee Valley Libraries.,,80070
+QMON,QMON,Monument Australia.,,33119
+VMVL,VMVL,Moonee Valley Libraries. Moonee Valley Libraries.,,80670
 WMOOP,WMOOP,Moora Shire Council. Moora Public Library.,,0
-NMTC,NMTC,Moore Theological College. Moore Theological College Library.,,223602
+NMTC,NMTC,Moore Theological College. Moore Theological College Library.,,229487
 NMTC:SM,NMTC:SM,Moore Theological College. Moore Theological College Library. Samuel Marsden Archives.,NMTC,6035
 QMBCW,QMBCW,Moreton Bay College.,,0
 QMBC,QMBC,Moreton Bay Region Libraries .,,7
@@ -1372,9 +1377,9 @@ QMBC,QMBC,Moreton Bay Region Libraries .,,7
 4490,,Moreton Bay Region Libraries . Woodford Library.,QMBC,0
 NMWM,NMWM,Moriah War Memorial College. Brender Moss Library.,,0
 NBTH,NBTH,Morling College. Gilbert Wright Library.,,67
-VPEN,VPEN,Mornington Peninsula Library. Mornington Peninsula Library Service.,,100824
-NMOS,NMOS,Mosman Municipal Council. Mosman Library.,,16821
-NMOS:LS,NMOS:LS,Mosman Municipal Council. Mosman Library. Mosman Local Studies.,NMOS,14097
+VPEN,VPEN,Mornington Peninsula Library. Mornington Peninsula Library Service.,,100986
+NMOS,NMOS,Mosman Municipal Council. Mosman Library.,,16822
+NMOS:LS,NMOS:LS,Mosman Municipal Council. Mosman Library. Mosman Local Studies.,NMOS,14098
 VMAVE,VMAVE,Mount Alexander Vintage Engine Club.,,59
 QMI,QMI,Mount Isa City Council. Mount Isa City Library.,,1
 WMOU,WMOU,Mount Magnet Shire Council. Mount Magnet Public Library.,,0
@@ -1387,29 +1392,29 @@ NMKHC,NMKHC,Mt Kembla Mining Heritage Inc..,,566
 QMSMC,QMSMC,Mt St Michael's College.,,0
 WMUK,WMUK,Mukinbudin Shire Council. Harold Williams Memorial Library.,,0
 SMAC,SMAC,Multicultural Aged Care Inc. Multicultural Aged Care Library.,,824
-SROX,SROX,Municipal Council of Roxby Downs. Roxby Downs Public Library.,,10119
-14169,,Murdoch University.,,393877
-WMDU,WMDU,Murdoch University. Murdoch University Library.,14169,393867
+SROX,SROX,Municipal Council of Roxby Downs. Roxby Downs Public Library.,,10124
+14169,,Murdoch University.,,394022
+WMDU,WMDU,Murdoch University. Murdoch University Library.,14169,394012
 337857,,Murdoch University. Murdoch University Library. Mandurah Campus Library.,WMDU,0
-WMDU:IR,WMDU:IR,Murdoch University. Murdoch University Library. Murdoch University: Institutional Repository.,WMDU,58386
+WMDU:IR,WMDU:IR,Murdoch University. Murdoch University Library. Murdoch University: Institutional Repository.,WMDU,58526
 WMU:ANDS,WMU:ANDS,Murdoch University. Murdoch University Library. Research Data via ANDS.,WMDU,48
 WMDU:SC,WMDU:SC,Murdoch University. Murdoch University Library. Special Collections.,WMDU,0
 6692,,Murdoch University. Murdoch University Library. Veterinary Library.,WMDU,0
 WMDU:ANDS,WMDU:ANDS,Murdoch University. Research Data via ANDS.,14169,10
-SMBPL,SMBPL,Murray Bridge Public Library. Murray Bridge Public Library.,,41347
-VAYM,VAYM,Murrindindi Library Service.,,67884
+SMBPL,SMBPL,Murray Bridge Public Library. Murray Bridge Public Library.,,41397
+VAYM,VAYM,Murrindindi Library Service.,,68019
 7361,,Murrindindi Library Service. Alexandra Library.,VAYM,0
 3663,,Murrindindi Library Service. Kinglake Library.,VAYM,0
 9646,,Murrindindi Library Service. Mobile Library.,VAYM,0
 3670,,Murrindindi Library Service. Yea Library.,VAYM,0
 VMURR,VMURR,Murrumbeena Cricket Club.,,90
-NWWH,NWWH,"Murrumbidgee Local Health District. Health Services Library, Murrumbidgee Local Health District.",,2417
+NWWH,NWWH,"Murrumbidgee Local Health District. Health Services Library, Murrumbidgee Local Health District.",,2415
 14186,,Museum of Chinese Australian History.,,2611
 VMUS:CHIA,VMUS:CHIA,Museum of Chinese Australian History. Chinese Australian Historical Images in Australia.,14186,2611
 VMUS,VMUS,Museum of Chinese Australian History. Museum of Chinese Australian History Library.,14186,0
 XNTA,XNTA,Museums and Art Galleries of the Northern Territory. Peter Spillett Library.,,14758
-13571,,Museums of History NSW.,,17698
-NHH,NHH,Museums of History NSW. Caroline Simpson Library.,13571,17678
+13571,,Museums of History NSW.,,17699
+NHH,NHH,Museums of History NSW. Caroline Simpson Library.,13571,17679
 NHH:ANDS,NHH:ANDS,Museums of History NSW. Research Data via ANDS.,13571,20
 10100,,Museums Victoria.,,139142
 VNMU:I,VNMU:I,Museums Victoria. Museums Victoria Collections.,10100,101098
@@ -1418,16 +1423,16 @@ VNMU,VNMU,Museums Victoria. Museums Victoria Library.,10100,37987
 VNMU:ANDS,VNMU:ANDS,Museums Victoria. Research Data via ANDS.,10100,57
 NUHU,NUHU,Muswellbrook Shire Libraries.,,31723
 3841,,Muswellbrook Shire Libraries. Denman Library.,NUHU,0
-VWGP,VWGP,Myli - My Community Library. Regional Support Centre.,,89060
+VWGP,VWGP,Myli - My Community Library. Regional Support Centre.,,89363
 QNSHS,QNSHS,Nambour State High School.,,0
 NNAM,NNAM,Nambucca Shire Council.,,1101
 333259,,Nambucca Shire Council. Macksville Library.,NNAM,0
 333258,,Nambucca Shire Council. Nambucca Heads Library.,NNAM,0
 NNTI,NNTI,Nan Tien Institute Library.,,56
 WNHS,WNHS,Nannup Historical Society.,,2978
-SLSCL,SLSCL,Naracoorte Lucindale Council. Lucindale Community Library.,,26266
+SLSCL,SLSCL,Naracoorte Lucindale Council. Lucindale Community Library.,,26286
 WNBN,WNBN,Narembeen Shire Council. Narembeen Library.,,0
-VNAM,VNAM,National Alpine Museum of Australia Inc..,,12266
+VNAM,VNAM,National Alpine Museum of Australia Inc..,,14800
 10107,,National Archives of Australia.,,575865
 76751,,National Archives of Australia. Adelaide Office Library.,10107,0
 76749,,National Archives of Australia. Brisbane Office Library.,10107,0
@@ -1439,20 +1444,20 @@ AAAR,AAAR,National Archives of Australia. National Archives Library.,10107,266
 AAAR:PS,AAAR:PS,National Archives of Australia. PhotoSearch.,10107,575599
 76756,,National Archives of Australia. Sydney Office Library.,10107,0
 WAAR,WAAR,National Archives of Australia. Western Australia Office Library.,10107,0
-NNAS,NNAS,National Art School. National Art School Library.,,23856
+NNAS,NNAS,National Art School. National Art School Library.,,23901
 VNAB,VNAB,National Australia Bank Ltd. National Australia Bank - Business Research & Information.,,0
 STNC,STNC,National Centre for Vocational Education Research. NCVER Library.,,3403
 AFSA,AFSA,National Film and Sound Archive.,,6
 AFSA:R,AFSA:R,National Film and Sound Archive. National Film and Sound Archive Library.,AFSA,6
 AFSA:L,AFSA:L,National Film and Sound Archive. National Film and Video Lending Service.,AFSA,0
-14241,,National Gallery of Australia.,,159515
+14241,,National Gallery of Australia.,,159559
 ANG:C,ANG:C,National Gallery of Australia. National Gallery of Australia Collection.,14241,26525
-ANG,ANG,National Gallery of Australia. National Gallery of Australia Research Library.,14241,132990
-14242,,National Gallery of Victoria.,,174977
+ANG,ANG,National Gallery of Australia. National Gallery of Australia Research Library.,14241,133034
+14242,,National Gallery of Victoria.,,174989
 VNG:C,VNG:C,National Gallery of Victoria. National Gallery of Victoria Collection.,14242,78072
-VNG,VNG,National Gallery of Victoria. The Shaw Research Library.,14242,96905
+VNG,VNG,National Gallery of Victoria. The Shaw Research Library.,14242,96917
 ANL:AD,ANL:AD,National Library of Australia - Resource Discovery Services. AustraliaDancing.,,327
-ANL,ANL,National Library of Australia.,,4903079
+ANL,ANL,National Library of Australia.,,4903314
 ANL:AJA,ANL:AJA,National Library of Australia. Australian Journal of  Adoption.,ANL,177
 ANL:SAL,ANL:SAL,National Library of Australia. Journal of the Association for the Study of Australian Literature .,ANL,525
 334658,,National Library of Australia. Libraries Australia Administration,ANL,410
@@ -1464,11 +1469,11 @@ ZVUC,ZVUC,National Library of Australia. National Union Catalogues Last known lo
 ANL:MA,ANL:MA,National Library of Australia. National Union Catalogues Music Australia.,327397,255
 ANL:PEAU,ANL:PEAU,National Library of Australia. National Union Catalogues People Australia.,327397,2
 ZBSA,ZBSA,National Library of Australia. National Union Catalogues Union Catalogue of Southeast Asian Materials.,327397,15361
-ANL:NED,ANL:NED,National Library of Australia. National edeposit (NLA).,ANL,95170
+ANL:NED,ANL:NED,National Library of Australia. National edeposit (NLA).,ANL,95406
 NAN,NAN,National Measurement Institute. Library and Information Resources.,,1795
-14248,,National Museum of Australia.,,135943
+14248,,National Museum of Australia.,,135942
 AMOA:C,AMOA:C,National Museum of Australia. National Museum of Australia Collection.,14248,89967
-AMOA,AMOA,National Museum of Australia. National Museum of Australia Research Library.,14248,45903
+AMOA,AMOA,National Museum of Australia. National Museum of Australia Research Library.,14248,45902
 AMOA:ANDS,AMOA:ANDS,National Museum of Australia. Research Data via ANDS.,14248,73
 VNPC,VNPC,National Philatelic Centre. National Philatelic Collection Library.,,1136
 APG,APG,National Portrait Gallery of Australia  Research Library.,,8057
@@ -1477,12 +1482,12 @@ NMPH,NMPH,National Trust of Australia (New South Wales). Miss Porter's House.,14
 NNTA,NNTA,National Trust of Australia (New South Wales). National Trust of Australia (NSW) Archive/Library.,14260,5358
 6872,,National Trust of Australia (New South Wales). S.H. Ervin Gallery Library.,14260,0
 TNTA,TNTA,National Trust of Australia (Tasmania). Tasmanian Library.,,1644
-VNWM,VNWM,National Wool Museum.,,7964
+VNWM,VNWM,National Wool Museum.,,8006
 337457,,Naval Heritage Collection.,,2895
 VHCERB,VHCERB,Naval Heritage Collection. HMAS Cerberus Museum.,337457,256
 NFAAM,NFAAM,Naval Heritage Collection. RAN Fleet Air Arm Museum .,337457,648
 NRHC,NRHC,Naval Heritage Collection. RAN Heritage Centre (Spectacle Island Repository).,337457,1991
-NWHS,NWHS,Nepean Blue Mountains Local Health District. Nepean Blue Mountains LHD Library Services .,,12087
+NWHS,NWHS,Nepean Blue Mountains Local Health District. Nepean Blue Mountains LHD Library Services .,,12089
 NNEI,NNEI,New England Institute of TAFE.,,0
 9453,,New England Institute of TAFE. Armidale Campus Library.,NNEI,0
 9481,,New England Institute of TAFE. Boggabilla Campus.,NNEI,0
@@ -1499,15 +1504,15 @@ NNEI,NNEI,New England Institute of TAFE.,,0
 NEAM:H,NEAM:H,"New England Regional Art Museum. Hinton Research Library, NERAM.",14280,4171
 NEAM,NEAM,New England Regional Art Museum. NERAM Collection.,14280,964
 NPA,NPA,New South Wales Parliamentary Archives. NSW Parliamentary Archives.,,10
-NNPL,NNPL,Newcastle Region Libraries. Newcastle Region Library.,,213443
+NNPL,NNPL,Newcastle Region Libraries. Newcastle Region Library.,,213442
 NNEW,NNEW,Newington College. Resource Centre.,,0
 14798,,NextSense Institute.,,23
 NDBC,NDBC,NextSense Institute. Alternative-Format Publications Library.,14798,0
 NREN,NREN,NextSense Institute. NextSense Institute Library.,14798,23
 4067,,NextSense Institute. Paull Memorial Library.,14798,0
-XNHC,XNHC,Nhulunbuy Community Library.,,84042
-QNLS,QNLS,Noosa Council. Noosa Library Service.,,70952
-QNLS:HN,QNLS:HN,Noosa Council. Noosa Library Service. Heritage Noosa.,QNLS,12142
+XNHC,XNHC,Nhulunbuy Community Library.,,83898
+QNLS,QNLS,Noosa Council. Noosa Library Service.,,71119
+QNLS:HN,QNLS:HN,Noosa Council. Noosa Library Service. Heritage Noosa.,QNLS,12186
 NNCI,NNCI,North Coast Institute of TAFE.,,0
 9482,,North Coast Institute of TAFE. Casino Campus Library.,NNCI,0
 2899,,North Coast Institute of TAFE. Coffs Harbour Campus Library.,NNCI,0
@@ -1528,8 +1533,8 @@ WCMC,WCMC,North Metropolitan TAFE.,,29806
 339017,,North Metropolitan TAFE. Midland Campus Library.,WCMC,0
 6435,,North Metropolitan TAFE. Mt Lawley Campus Library.,WCMC,0
 341820,,North Metropolitan TAFE. Perth Campus Library.,WCMC,0
-NNSYD,NNSYD,North Sydney Council. Stanton Library.,,20337
-QMIBH,QMIBH,North West Hospital and Health Service. Yacca Library (Mount Isa).,,243
+NNSYD,NNSYD,North Sydney Council. Stanton Library.,,20351
+QMIBH,QMIBH,North West Hospital and Health Service. Yacca Library (Mount Isa).,,251
 14356,,North Western Library Service.,,4131
 5465,,North Western Library Service. Bogan Shire Library.,14356,0
 NCOO,NCOO,North Western Library Service. Coonamble Shire Library.,14356,0
@@ -1540,10 +1545,10 @@ NNWL,NNWL,North Western Library Service. Warren Shire Library.,14356,4131
 WNOR,WNOR,Northam Shire Council. Shire of Northam Libraries.,14359,0
 WWUN,WWUN,Northam Shire Council. Wundowie Library.,14359,0
 VWDB,VWDB,Northeast Health Wangaratta. Dr. RM Mounsey Regional Library.,,2
-14361,,Northern Areas Council.,,33916
-SFMLS,SFMLS,Northern Areas Council. Flinders Mobile Library Service.,14361,17333
-SJAM,SJAM,Northern Areas Council. Jamestown School Community Library.,14361,16583
-NMAN,NMAN,Northern Beaches Library Service.,,140172
+14361,,Northern Areas Council.,,33993
+SFMLS,SFMLS,Northern Areas Council. Flinders Mobile Library Service.,14361,17382
+SJAM,SJAM,Northern Areas Council. Jamestown School Community Library.,14361,16611
+NMAN,NMAN,Northern Beaches Library Service.,,140236
 5384,,Northern Beaches Library Service. Avalon Community Library.,NMAN,0
 9196,,Northern Beaches Library Service. Belrose Library.,NMAN,0
 NWAR,NWAR,Northern Beaches Library Service. Dee Why Library.,NMAN,18
@@ -1551,38 +1556,38 @@ NWAR,NWAR,Northern Beaches Library Service. Dee Why Library.,NMAN,18
 NPIT,NPIT,Northern Beaches Library Service. Mona Vale Library.,NMAN,10
 11292,,Northern Beaches Library Service. Warringah Mall Library.,NMAN,0
 VPNH,VPNH,Northern Health. Northern Health Library Service.,,1325
-13873,,Northern NSW Local Health District.,,16270
-NLBH,NLBH,Northern NSW Local Health District. Lismore Base Hospital Library.,13873,13568
+13873,,Northern NSW Local Health District.,,16296
+NLBH,NLBH,Northern NSW Local Health District. Lismore Base Hospital Library.,13873,13594
 NTHS,NTHS,Northern NSW Local Health District. The Tweed  Hospital Library.,13873,2702
 14804,,Northern Sydney Local Health Districts.,,933
 NMQH,NMQH,Northern Sydney Local Health Districts. Macquarie Hospital Mental Health Library.,14804,932
 NRNS,NRNS,Northern Sydney Local Health Districts. Northern Sydney Local Health District.,14804,1
 XNTAS,XNTAS,Northern Territory Archives Service.,,259
 10956,,Northern Territory Archives Service. Reference Collection.,XNTAS,0
-XNTCL,XNTCL,Northern Territory Community Libraries.,,16330
-XEDU,XEDU,Northern Territory Department of Education. Education and Darwin Languages Centre Libraries.,,14559
-XCOC,XCOC,"Northern Territory Land, Resources and Heritage.",,11606
+XNTCL,XNTCL,Northern Territory Community Libraries.,,16331
+XEDU,XEDU,Northern Territory Department of Education. Education and Darwin Languages Centre Libraries.,,14566
+XCOC,XCOC,"Northern Territory Land, Resources and Heritage.",,11619
 XCOC:AXA,XCOC:AXA,"Northern Territory Land, Resources and Heritage. Heritage - AXA 1.",XCOC,147
 XCOC:H,XCOC:H,"Northern Territory Land, Resources and Heritage. Heritage.",XCOC,1221
 XCOC:NH,XCOC:NH,"Northern Territory Land, Resources and Heritage. NT Herbarium.",XCOC,0
-XTMC,XTMC,Northern Territory Library. Taminmin Joint Use Library.,,94112
-14374,,"Northern Territory Police, Fire and Emergency Services.",,5297
-XPFE:F,XPFE:F,"Northern Territory Police, Fire and Emergency Services. Forensic Library.",14374,365
-XPFE,XPFE,"Northern Territory Police, Fire and Emergency Services. Police, Fire & Emergency Services Library.",14374,4932
+XTMC,XTMC,Northern Territory Library. Taminmin Joint Use Library.,,94002
+14374,,"Northern Territory Police, Fire and Emergency Services.",,5306
+XPFE:F,XPFE:F,"Northern Territory Police, Fire and Emergency Services. Forensic Library.",14374,369
+XPFE,XPFE,"Northern Territory Police, Fire and Emergency Services. Police, Fire & Emergency Services Library.",14374,4937
 VNSH,VNSH,Nossal High School.,,0
 NDOH,NDOH,"NSW Department of Communities & Justice, FACS Library.",,4744
-NAGLS,NAGLS,"NSW Department of Communities and Justice, Law Courts Library Services.",,38859
+NAGLS,NAGLS,"NSW Department of Communities and Justice, Law Courts Library Services.",,38871
 NLEC,NLEC,"NSW Department of Communities and Justice, Law Courts Library Services. Land & Environment Court Library.",NAGLS,0
 NSC,NSC,"NSW Department of Communities and Justice, Law Courts Library Services. Law Courts Library.",NAGLS,0
 331177,,NSW Department of Customer Service.,,1
 NCA,NCA,NSW Department of Customer Service. Fair Trading Library.,331177,0
 NLID,NLID,NSW Department of Customer Service. Industrial Relations Library.,331177,0
 NPW,NPW,NSW Department of Customer Service. InfoSource.,331177,1
-328218,,"NSW Department of Planning, Industry and Environment.",,57209
-NAD:PA,NAD:PA,"NSW Department of Planning, Industry and Environment. C.B. Alexander Agricultural College Library.",328218,5386
+328218,,"NSW Department of Planning, Industry and Environment.",,57189
+NAD:PA,NAD:PA,"NSW Department of Planning, Industry and Environment. C.B. Alexander Agricultural College Library.",328218,5390
 NNPW,NNPW,"NSW Department of Planning, Industry and Environment. Department of Planning, Industry and Environment Library.",328218,9926
 NAD:DP,NAD:DP,"NSW Department of Planning, Industry and Environment. Departmental Publications Archives.",328218,5698
-NMD,NMD,"NSW Department of Planning, Industry and Environment. Mineral Resources NSW Library.",328218,5749
+NMD,NMD,"NSW Department of Planning, Industry and Environment. Mineral Resources NSW Library.",328218,5725
 NAD:OR,NAD:OR,"NSW Department of Planning, Industry and Environment. Orange Agricultural Institute Library.",328218,13571
 NFRI,NFRI,"NSW Department of Planning, Industry and Environment. Port Stephens Fisheries Institute.",328218,8777
 NAD:WO,NAD:WO,"NSW Department of Planning, Industry and Environment. Wollongbar Primary Industries Institute Library.",328218,1894
@@ -1591,29 +1596,29 @@ NPAG,NPAG,NSW Police Force. Library & Information Services.,,12199
 NRFS,NRFS,NSW Rural Fire Service. NSW Rural Fire Service Library.,,1
 XCL,XCL,NT Community Libraries.,,0
 XDHM,XDHM,NT Department of Health. Library Services.,,12356
-342420,,"NT Department of Industry, Tourism and Trade.",,27972
+342420,,"NT Department of Industry, Tourism and Trade.",,27957
 XAZ,XAZ,"NT Department of Industry, Tourism and Trade. Arid Zone Research Institute Library.",342420,10029
-XPFD,XPFD,"NT Department of Industry, Tourism and Trade. Berrimah Farm Library - Fisheries Collection.",342420,2158
-XPPD,XPPD,"NT Department of Industry, Tourism and Trade. Berrimah Farm Library - Primary Industry Collection.",342420,8121
+XPFD,XPFD,"NT Department of Industry, Tourism and Trade. Berrimah Farm Library - Fisheries Collection.",342420,2156
+XPPD,XPPD,"NT Department of Industry, Tourism and Trade. Berrimah Farm Library - Primary Industry Collection.",342420,8108
 XMD,XMD,"NT Department of Industry, Tourism and Trade. Minerals and Energy InfoCentre - Darwin.",342420,7664
 XALIR,XALIR,NT Schools Alice Springs Region.,,15317
 XARNR,XARNR,NT Schools Arnhem Region.,,1658
 XBARR,XBARR,NT Schools Barkly Region.,,9789
 XBARR:TC,XBARR:TC,NT Schools Barkly Region. Tennant Creek High School.,XBARR,4751
-XDARR,XDARR,NT Schools Darwin Region.,,104743
-XDARR:CS,XDARR:CS,NT Schools Darwin Region. Casuarina Senior College.,XDARR,15364
-XDARR:DH,XDARR:DH,NT Schools Darwin Region. Darwin High School.,XDARR,11535
-XDARR:DM,XDARR:DM,NT Schools Darwin Region. Darwin Middle School.,XDARR,6517
-XDARR:DR,XDARR:DR,NT Schools Darwin Region. Dripstone Middle School.,XDARR,8461
+XDARR,XDARR,NT Schools Darwin Region.,,104778
+XDARR:CS,XDARR:CS,NT Schools Darwin Region. Casuarina Senior College.,XDARR,15370
+XDARR:DH,XDARR:DH,NT Schools Darwin Region. Darwin High School.,XDARR,11539
+XDARR:DM,XDARR:DM,NT Schools Darwin Region. Darwin Middle School.,XDARR,6528
+XDARR:DR,XDARR:DR,NT Schools Darwin Region. Dripstone Middle School.,XDARR,8472
 XDARR:NM,XDARR:NM,NT Schools Darwin Region. NT Music School.,XDARR,2379
-XDARR:SM,XDARR:SM,NT Schools Darwin Region. Sanderson Middle School.,XDARR,11959
-XKATR,XKATR,NT Schools Katherine Region.,,25230
+XDARR:SM,XDARR:SM,NT Schools Darwin Region. Sanderson Middle School.,XDARR,11962
+XKATR,XKATR,NT Schools Katherine Region.,,25260
 XKATR:BC,XKATR:BC,NT Schools Katherine Region. Barunga Community.,XKATR,0
-13744,,NT Schools Katherine Region. Katherine High School,XKATR,12536
-XKATR:KH,XKATR:KH,NT Schools Katherine Region. Katherine High School Library Resource Centre.,13744,12536
-XPALR,XPALR,NT Schools Palmerston and Rural Region.,,38357
+13744,,NT Schools Katherine Region. Katherine High School,XKATR,12566
+XKATR:KH,XKATR:KH,NT Schools Katherine Region. Katherine High School Library Resource Centre.,13744,12566
+XPALR,XPALR,NT Schools Palmerston and Rural Region.,,38361
 XPALR:AR,XPALR:AR,NT Schools Palmerston and Rural Region. Adelaide River Community Library.,XPALR,5411
-XPALR:PS,XPALR:PS,NT Schools Palmerston and Rural Region. Palmerston Senior College.,XPALR,11254
+XPALR:PS,XPALR:PS,NT Schools Palmerston and Rural Region. Palmerston Senior College.,XPALR,11258
 QTIR,QTIR,Office of Industrial Relations Library.,,7769
 AOPC,AOPC,Office of Parliamentary Counsel. Office of Parliamentary Counsel Library.,,1599
 NDPP,NDPP,Office of the Director of Public Prosecutions NSW. R.O. Blanch QC Library.,,3950
@@ -1622,30 +1627,30 @@ VOCSA,VOCSA,Old Castlemaine Schoolboys Association Inc..,,418
 VORH:M,VORH:M,Orbost Historical Society Museum. Orbost & District Historical Society.,14441,2767
 VORH,VORH,Orbost Historical Society Museum. Orbost Historical Society Museum Library.,14441,0
 YORCID,YORCID,ORCID.,,25020
-SORRO,SORRO,Orroroo and Carrieton District Council. Orroroo School Community Library.,,12103
+SORRO,SORRO,Orroroo and Carrieton District Council. Orroroo School Community Library.,,12128
 VOACC,VOACC,Overnewton Anglican Community College Library.,,4
-NPRK,NPRK,Parkes Shire Council. Parkes Shire Library.,,32240
+NPRK,NPRK,Parkes Shire Council. Parkes Shire Library.,,32228
 4628,,Parkes Shire Council. Parkes Shire Library. Peak Hill Library.,NPRK,0
 4629,,Parkes Shire Council. Parkes Shire Library. Trundle Library.,NPRK,0
 4632,,Parkes Shire Council. Parkes Shire Library. Tullamore Library.,NPRK,0
-APAR,APAR,Parliament of  Australia. Parliamentary Library.,,530280
+APAR,APAR,Parliament of  Australia. Parliamentary Library.,,530273
 APAR:S,APAR:S,Parliament of  Australia. Parliamentary Library. Biographical Dictionary of the Australian Senate.,APAR,328
 APAR:PPD,APAR:PPD,Parliament of  Australia. Parliamentary Library. Party Political Documents.,APAR,0
 APAR:PR,APAR:PR,Parliament of  Australia. Parliamentary Library. Press Releases Database.,APAR,404336
-10124,,Parliament of New South Wales.,,246323
-NPAR:PR,NPAR:PR,Parliament of New South Wales. NSW Parliamentary Library Press Releases.,10124,246143
+10124,,Parliament of New South Wales.,,246429
+NPAR:PR,NPAR:PR,Parliament of New South Wales. NSW Parliamentary Library Press Releases.,10124,246249
 NPAR,NPAR,Parliament of New South Wales. NSW Parliamentary Library.,10124,180
 QPAL,QPAL,Parliament of Queensland. Queensland Parliamentary Library.,,0
 VPAR,VPAR,Parliament of Victoria. Parliamentary Library.,,4244
 VPAR:B,VPAR:B,Parliament of Victoria. Parliamentary Library. Victorian Parliament Biographies.,VPAR,0
 WPAR,WPAR,Parliament of Western Australia. Parliamentary Library Education and Community Engagement.,,3086
-NPCL,NPCL,Parramatta City Council. City of Parramatta Libraries.,,153963
+NPCL,NPCL,Parramatta City Council. City of Parramatta Libraries.,,153569
 4790,,Parramatta City Council. City of Parramatta Libraries. Carlingford Library.,NPCL,0
 3624,,Parramatta City Council. City of Parramatta Libraries. Constitution Hill Library.,NPCL,0
 4898,,Parramatta City Council. City of Parramatta Libraries. Dundas Valley Library.,NPCL,0
 4900,,Parramatta City Council. City of Parramatta Libraries. Ermington Library.,NPCL,0
 VPCC,VPCC,Penola Catholic College.,,0
-NPEN,NPEN,Penrith City Council. Penrith City Library.,,104041
+NPEN,NPEN,Penrith City Council. Penrith City Library.,,104085
 10776,,Penrith City Council. Penrith City Library. Penrith Community Toy Library.,NPEN,0
 4905,,Penrith City Council. Penrith City Library. St Clair Library.,NPEN,0
 4906,,Penrith City Council. Penrith City Library. St Marys Library.,NPEN,0
@@ -1655,19 +1660,19 @@ WPNJ,WPNJ,Perenjori Shire Council Libraries. Perenjori Library.,14506,0
 WPC,WPC,Perth College Inc. The Sisters of the Church Memorial Resources Centre.,,0
 WPFRC,WPFRC,Perth Fremantle Rifle Club.,,146
 QPPL,QPPL,Peter Pal Library Supplier.,,3
-SPET,SPET,Peterborough Town. Peterborough School & Community Library.,,13277
-VPID,VPID,Phillip Island and District Historical Society Inc.,,3129
+SPET,SPET,Peterborough Town. Peterborough School & Community Library.,,13365
+VPID,VPID,Phillip Island and District Historical Society Inc.,,3131
 VPHI,VPHI,Phillip Island and District Historical Society Inc. Phillip Island & District Historical Society Library.,VPID,0
 VPIC,VPIC,PictureVictoria.,,14483
 WMTB,WMTB,Plantagenet Shire Council Libraries. Mount Barker Library.,,5705
-VPMEC,VPMEC,PMI Victorian History Library Inc..,,27712
+VPMEC,VPMEC,PMI Victorian History Library Inc..,,27755
 SPAHS,SPAHS,Port Adelaide Historical Society.,,9970
-SPA,SPA,Port Augusta Public Library. Irwin Howard Library.,,25353
+SPA,SPA,Port Augusta Public Library. Irwin Howard Library.,,25360
 NPMM,NPMM,Port Macquarie Historical Society. Port Macquarie Museum.,,1837
 NHAS,NHAS,Port Macquarie-Hastings Library Services. Port Macquarie Library.,,0
-VPMH,VPMH,Port Melbourne Historical & Preservation Society.,,8722
-VPPLS,VPPLS,Port Phillip Library Service. St Kilda Library.,,109114
-SPO,SPO,Port Pirie Regional Council. Port Pirie Regional Library Service.,,28957
+VPMH,VPMH,Port Melbourne Historical & Preservation Society.,,8734
+VPPLS,VPPLS,Port Phillip Library Service. St Kilda Library.,,108992
+SPO,SPO,Port Pirie Regional Council. Port Pirie Regional Library Service.,,29071
 10136,,Powerhouse Museum.,,168193
 NMUS:ARC,NMUS:ARC,Powerhouse Museum. Archival Records.,10136,0
 NMUS:CAN,NMUS:CAN,Powerhouse Museum. Collections Australia Network.,10136,1706
@@ -1675,7 +1680,7 @@ NMUS:E,NMUS:E,Powerhouse Museum. Exhibitions and  Programs.,10136,166408
 NMUS:ANDS,NMUS:ANDS,Powerhouse Museum. Research Data via ANDS.,10136,77
 NMUS,NMUS,Powerhouse Museum. Research Library.,10136,2
 VPLC,VPLC,Presbyterian Ladies' College - Melbourne. Library and Information Services.,,0
-QPCH,QPCH,Prince Charles Hospital. The Prince Charles Hospital Library.,,3095
+QPCH,QPCH,Prince Charles Hospital. The Prince Charles Hospital Library.,,3101
 NPOW,NPOW,Prince of Wales Hospital. Prince of Wales Hospital Library.,,4931
 WPRF,WPRF,Princess Royal Fortress Military Museum.,,11
 14599,,Productivity Commission.,,3998
@@ -1696,13 +1701,13 @@ QBSDE,QBSDE,QLD Department of Education & Training. Brisbane School of Distance 
 QED,QED,QLD Department of Education & Training. Library Services.,13225,0
 9710,,QLD Department of Education & Training. Mirani State High School Resource Centre.,13225,0
 4889,,QLD Department of Education & Training. TESOL Joint Use Library.,13225,0
-QMR,QMR,QLD Department of Transport and Main Roads. Queensland Department of Transport and Main Roads Library Services.,,36732
-13260,,QLD Dept of Environment and Science.,,47003
-QDEH,QDEH,QLD Dept of Environment and Science. DES | Resources | RDMW.,13260,47003
+QMR,QMR,QLD Department of Transport and Main Roads. Queensland Department of Transport and Main Roads Library Services.,,36624
+13260,,QLD Dept of Environment and Science.,,47008
+QDEH,QDEH,QLD Dept of Environment and Science. DES | Resources | RDMW.,13260,47008
 QBOT,QBOT,QLD Dept of Environment and Science. Queensland Herbarium Library .,13260,0
-NQB,NQB,Queanbeyan-Palerang Regional Council. Queanbeyan-Palerang Library Service.,,33363
+NQB,NQB,Queanbeyan-Palerang Regional Council. Queanbeyan-Palerang Library Service.,,33305
 TQVM,TQVM,Queen Victoria Museum and Art Gallery. Queen Victoria Museum and Art Gallery Library.,,17008
-QART,QART,Queensland Art Gallery. QAGOMA Research Library.,,26937
+QART,QART,Queensland Art Gallery. QAGOMA Research Library.,,26964
 QAO,QAO,Queensland Audit Office. QAO Library and Information Service.,,0
 QSAL,QSAL,Queensland Curriculum and Assessment Authority Library.,,72
 QWQ,QWQ,Queensland Department of Housing and Public Works. Library@HPW.,,0
@@ -1710,18 +1715,18 @@ QWQ,QWQ,Queensland Department of Housing and Public Works. Library@HPW.,,0
 QMU,QMU,Queensland Museum. Queensland Museum Library.,14653,26687
 QMU:ANDS,QMU:ANDS,Queensland Museum. Research Data via ANDS.,14653,40
 QPM,QPM,Queensland Police Museum.,,2310
-QQPA,QQPA,Queensland Police Service Library Services.,,6716
-QSA,QSA,Queensland State Archives.,,3166941
-QUT,QUT,Queensland University of Technology.,,135402
+QQPA,QQPA,Queensland Police Service Library Services.,,6720
+QSA,QSA,Queensland State Archives.,,3170928
+QUT,QUT,Queensland University of Technology.,,135492
 QUT:DC,QUT:DC,Queensland University of Technology. Digital Collections.,QUT,6182
 QUT:CJJ,QUT:CJJ,"Queensland University of Technology. International Journal for Crime, Justice and Social Democracy.",QUT,668
-QUT:IR,QUT:IR,Queensland University of Technology. Queensland University of Technology: Institutional Repository.,QUT,128087
+QUT:IR,QUT:IR,Queensland University of Technology. Queensland University of Technology: Institutional Repository.,QUT,128177
 QUT:ANDS,QUT:ANDS,Queensland University of Technology. Research Data via ANDS.,QUT,427
-QWHA,QWHA,Queensland Women's Historical Association. QLD Women's Historical Association Library.,,3315
-NRAND,NRAND,Randwick City Library. Lionel Bowen Library.,,175269
-QRH,QRH,Redcliffe and Caboolture Hospitals' Library Services.,,1110
+QWHA,QWHA,Queensland Women's Historical Association. QLD Women's Historical Association Library.,,3327
+NRAND,NRAND,Randwick City Library. Lionel Bowen Library.,,175519
+QRH,QRH,Redcliffe and Caboolture Hospitals' Library Services.,,1113
 QRLC,QRLC,Redeemer Lutheran College.,,0
-QRSL,QRSL,Redland City Council Libraries.,,68922
+QRSL,QRSL,Redland City Council Libraries.,,69078
 4184,,Redland City Council Libraries. Capalaba Library.,QRSL,0
 4203,,Redland City Council Libraries. Cleveland Library.,QRSL,0
 4202,,Redland City Council Libraries. Dunwich Library.,QRSL,0
@@ -1730,16 +1735,16 @@ QRSL,QRSL,Redland City Council Libraries.,,68922
 4205,,Redland City Council Libraries. Russell Island Library.,QRSL,0
 343361,,Redland City Council Libraries. Victoria Point Library.,QRSL,0
 QRLD,QRLD,Redlands College. Redlands College Library.,,0
-SBUCL,SBUCL,Regional Council of Goyder. Burra Community Library.,,24573
+SBUCL,SBUCL,Regional Council of Goyder. Burra Community Library.,,24604
 VRAUS,VRAUS,Relationships Australia (Vic) Inc. Relationships Australia Library.,,0
-SREN,SREN,Renmark Paringa Council. Renmark Paringa Public Library.,,18446
-NCAMP,NCAMP,Rev Dr Leo Kelly Library .,,20939
+SREN,SREN,Renmark Paringa Council. Renmark Paringa Public Library.,,18477
+NCAMP,NCAMP,Rev Dr Leo Kelly Library .,,20931
 NOSR,NOSR,Revenue NSW. Technical Resource Centre.,,0
 YERAS,YERAS,Reviews in Australian Studies .,,675
-NRTW,NRTW,Richmond-Tweed Regional Library. Library Headquarters.,,103798
-NRUL,NRUL,Richmond-Upper Clarence Regional Library. Richmond-Upper Clarence Regional Library.,,43023
-VRDH,VRDH,Ringwood and District Historical Society.,,8524
-14727,,Riverina Regional Library.,,68328
+NRTW,NRTW,Richmond-Tweed Regional Library. Library Headquarters.,,103993
+NRUL,NRUL,Richmond-Upper Clarence Regional Library. Richmond-Upper Clarence Regional Library.,,43019
+VRDH,VRDH,Ringwood and District Historical Society.,,8549
+14727,,Riverina Regional Library.,,68589
 8841,,Riverina Regional Library. Adelong Library.,14727,0
 8837,,Riverina Regional Library. Ariah Park Library.,14727,0
 8838,,Riverina Regional Library. Batlow Library.,14727,0
@@ -1757,57 +1762,56 @@ NLEE,NLEE,Riverina Regional Library. Leeton Library.,14727,17624
 NRIV:P,NRIV:P,Riverina Regional Library. Local Studies Photograph Collection.,14727,0
 8836,,Riverina Regional Library. Mobile Library.,14727,0
 6392,,Riverina Regional Library. Mulwala Library.,14727,0
-NRIV,NRIV,Riverina Regional Library.,14727,50703
+NRIV,NRIV,Riverina Regional Library.,14727,50964
 8846,,Riverina Regional Library. Talbingo Library.,14727,0
 NRIV:TUM,NRIV:TUM,Riverina Regional Library. Tumbarumba Library.,14727,0
 NRIV:TU,NRIV:TU,Riverina Regional Library. Tumut Library.,14727,0
 8847,,Riverina Regional Library. Temora Library.,14727,0
-14675,,RMIT University.,,347777
+14675,,RMIT University.,,347799
 VAFI,VAFI,RMIT University. AFI Research Collection.,14675,5822
 VITL,VITL,"RMIT University. Department of Information, Management and Library Studies.",14675,0
 VINFORM,VINFORM,RMIT University. Informit.,14675,0
 VJSC,VJSC,RMIT University. Justice Smith Collection: Graduate School of Business & Law: RMIT University.,14675,413
-9319,,"RMIT University. RMIT Design Archives, School of Architecture + Design.",14675,0
-VIT,VIT,RMIT University. RMIT University Library.,14675,340887
+VIT,VIT,RMIT University. RMIT University Library.,14675,340909
 VIT:IR,VIT:IR,RMIT University. RMIT University Library. RMIT Research Repository.,VIT,78946
 VIT:ANDS,VIT:ANDS,RMIT University. Research Data via ANDS.,14675,655
-SROB,SROB,Robe District Council. Robe Public Library.,,7161
-QROC,QROC,Rockhampton Hospital. Rockhampton Hospital Library.,,77
+SROB,SROB,Robe District Council. Robe Public Library.,,7182
+QROC,QROC,Rockhampton Hospital. Rockhampton Hospital Library.,,86
 QRML,QRML,Rockhampton Regional Council Libraries. Rockhampton Regional Library.,,114320
-XPALR:RM,XPALR:RM,Rosebery Middle School.,,1075
-14763,,Royal Adelaide Hospital.,,11798
-SRAHM,SRAHM,Royal Adelaide Hospital. Health Museum of South Australia.,14763,11798
+XPALR:RM,XPALR:RM,Rosebery Middle School.,,1080
+14763,,Royal Adelaide Hospital.,,11851
+SRAHM,SRAHM,Royal Adelaide Hospital. Health Museum of South Australia.,14763,11851
 SRAH,SRAH,Royal Adelaide Hospital. SA Pathology Library.,14763,0
 900,,Royal Adelaide Hospital. SA Pathology Library. Modbury Hospital Library.,SRAH,0
 NCP,NCP,Royal Australasian College of Physicians. History of Medicine Library.,,9668
 SRAAF,SRAAF,Royal Australian Air Force. Integration Test and Training Facility Library.,,1
 NRACR,NRACR,Royal Australian and New Zealand College of Radiologists. J P Trainor Archive Trust.,,1166
-NRAAHC,NRAAHC,Royal Australian Artillery Historical Company. Cutler Research Centre.,,5508
+NRAAHC,NRAAHC,Royal Australian Artillery Historical Company. Cutler Research Centre.,,5515
 VFMP,VFMP,Royal Australian College of General Practitioners. RACGP John Murtagh Library.,,0
-NRHS,NRHS,Royal Australian Historical Society. RAHS Library.,,16172
+NRHS,NRHS,Royal Australian Historical Society. RAHS Library.,,16171
 VBOT,VBOT,Royal Botanic Gardens Victoria. Royal Botanic Gardens Victoria Library.,,53
-SRGS,SRGS,Royal Geographical Society of South Australia. RGSSA Library.,,14181
-VRHS,VRHS,Royal Historical Society of Victoria. Royal Historical Society of Victoria.,,33676
-VRMH,VRMH,"Royal Melbourne Hospital. Health Sciences Library - RMH, RWH, PMCC and Victorian Mental Health.",,20881
+SRGS,SRGS,Royal Geographical Society of South Australia. RGSSA Library.,,14189
+VRHS,VRHS,Royal Historical Society of Victoria. Royal Historical Society of Victoria.,,33731
+VRMH,VRMH,"Royal Melbourne Hospital. Health Sciences Library - RMH, RWH, PMCC and Victorian Mental Health.",,20966
 WRS,WRS,Royal Society of Western Australia. Royal Society of Western Australia Library.,,1362
-NRUSI,NRUSI,"Royal United Services Institute for Defence and Security Studies, New South Wales.",,7170
+NRUSI,NRUSI,"Royal United Services Institute for Defence and Security Studies, New South Wales.",,7171
 VRUSI,VRUSI,Royal United Services Institute Victoria.,,30175
 VEE,VEE,Royal Victorian Eye and Ear Hospital Library.,,1947
 VRSL,VRSL,RSL Victoria - Anzac House Reference Library & Memorabilia Collection.,,77
 QRSHS,QRSHS,Runcorn State High School.,,0
 6629,,Runcorn State High School. Runcorn High School Library.,QRSHS,0
-VRGS,VRGS,Ruyton Girls' School.,,76844
-NRYD,NRYD,Ryde Library Services. Ryde Library.,,116279
-SSHC,SSHC,SA Health Library Service.,,50459
+VRGS,VRGS,Ruyton Girls' School.,,76841
+NRYD,NRYD,Ryde Library Services. Ryde Library.,,105373
+SSHC,SSHC,SA Health Library Service.,,50494
 SMENHS,SMENHS,SA Mental Health Services.,,0
-NSAE,NSAE,SAE Creative Media - Australia.,,342084
+NSAE,NSAE,SAE Creative Media - Australia.,,342163
 QSIM,QSIM,Safety in Mines Testing and Research Station. Simtars Information & Resource Centre.,,85
 SSIC,SSIC,"Saint Ignatius' College, Athelstone. Saint Ignatius' College Library.",,0
 NSIC,NSIC,"Saint Ignatius' College, Riverview. Christopher Brennan Library.",,3
-WCI,WCI,Saint John Henry Newman Library.,,20365
+WCI,WCI,Saint John Henry Newman Library.,,20380
 QSSC,QSSC,Saint Stephen's College.,,0
-SSAL,SSAL,Salisbury Libraries. Salisbury Community Hub Library.,,101153
-VSDHS,VSDHS,Sandringham and District Historical Society.,,10064
+SSAL,SSAL,Salisbury Libraries. Salisbury Community Hub Library.,,101535
+VSDHS,VSDHS,Sandringham and District Historical Society.,,10076
 WSAN,WSAN,Sandstone Shire Council. Sandstone Library & Tourist Information Centre.,,0
 NPHRP,NPHRP,Sax Institute. Public Health Research and Practice.,,1889
 NRLC,NRLC,SCECGS Redlands. SCECGS Redlands Library.,,0
@@ -1821,11 +1825,11 @@ TSOC,TSOC,Scotch Oakburn College. John Morris Library.,,0
 TSMHC,TSMHC,Scots-Memorial Heritage Collection.,,53
 SSEY,SSEY,Seymour College.,,0
 VSAG,VSAG,Shelford Girls' Grammar School. Shelford Information Resource Centre (IRC).,,2
-14907,,Shellharbour City Council.,,150856
+14907,,Shellharbour City Council.,,150932
 8888,,Shellharbour City Council. Albion Park Library.,14907,0
-NSHE:DS,NSHE:DS,Shellharbour City Council. Discover Shellharbour.,14907,7076
+NSHE:DS,NSHE:DS,Shellharbour City Council. Discover Shellharbour.,14907,7130
 8887,,Shellharbour City Council. Oak Flats Library.,14907,0
-NSHE,NSHE,Shellharbour City Council. Shellharbour City Library Service.,14907,143780
+NSHE,NSHE,Shellharbour City Council. Shellharbour City Library Service.,14907,143802
 8899,,Shellharbour City Council. Shellharbour Library.,14907,0
 135838,,Shellharbour City Council. Warilla Library.,14907,0
 WSHC,WSHC,Sheridan Institute of Higher Education.,,3152
@@ -1834,7 +1838,7 @@ WONS,WONS,Shire of Ashburton Libraries. Onslow Public Library.,12165,0
 WPAN,WPAN,Shire of Ashburton Libraries. Pannawonica Public Library.,12165,0
 WPDB,WPDB,Shire of Ashburton Libraries. Paraburdoo Public Library.,12165,0
 WTOM,WTOM,Shire of Ashburton Libraries. Tom Price Public Library.,12165,0
-WAMR,WAMR,Shire of Augusta-Margaret River Libraries.,,51063
+WAMR,WAMR,Shire of Augusta-Margaret River Libraries.,,51093
 WAUG,WAUG,Shire of Augusta-Margaret River Libraries. Augusta Public Library.,WAMR,0
 WMAR,WMAR,Shire of Augusta-Margaret River Libraries. Margaret River Library.,WAMR,0
 WBEV,WBEV,Shire of Beverley Public Library. Beverley Library.,,0
@@ -1851,7 +1855,7 @@ WCAP,WCAP,Shire of Capel Libraries. Capel Public Library.,9956,0
 WDAP,WDAP,Shire of Capel Libraries. Dalyellup Public Library .,9956,0
 WBIN,WBIN,Shire of Chittering. Bindoon Library.,,0
 WCHR,WCHR,Shire of Christmas Island. Christmas Island Public Library.,,0
-WCOL,WCOL,Shire of Collie. Collie Public Library.,,16923
+WCOL,WCOL,Shire of Collie. Collie Public Library.,,16924
 12984,,Shire of Coolgardie Libraries.,,0
 WCOG,WCOG,Shire of Coolgardie Libraries. Coolgardie Library.,12984,0
 WKAM,WKAM,Shire of Coolgardie Libraries. Kambalda Library.,12984,0
@@ -1943,7 +1947,7 @@ WKUN,WKUN,Shire of Wyndham-East Kimberley Libraries. Kununurra Community Library
 WWYN,WWYN,Shire of Wyndham-East Kimberley Libraries. Wyndham Library.,15635,0
 WSCR,WSCR,Shire of Yilgarn. Southern Cross Library.,,0
 WYOR,WYOR,Shire of York. York Public Library.,,0
-NSCO,NSCO,Shoalhaven Libraries. Nowra (Central) Library.,,59482
+NSCO,NSCO,Shoalhaven Libraries. Nowra (Central) Library.,,59335
 NSHR,NSHR,Shore School. Boer War Contingent Memorial Library.,,21
 SRDN,SRDN,Silver Chain Group. Silver Chain Group Information Centre.,,423
 NSIN,NSIN,Singleton Council. Singleton Public Library.,,33838
@@ -1973,11 +1977,11 @@ QTJO,QTJO,South Burnett Libraries.,,1910
 5545,,South Burnett Libraries. Nanango Library.,QTJO,0
 7339,,South Burnett Libraries. Proston Library.,QTJO,0
 7491,,South Burnett Libraries. T. J. O'Neill Memorial Library.,QTJO,0
-NSCO:K,NSCO:K,South Coast Co-operative Library Service. Kiama Library.,,40807
+NSCO:K,NSCO:K,South Coast Co-operative Library Service. Kiama Library.,,40800
 NSG,NSG,South Eastern Sydney Local Health District. St George Hospital Library Services.,,2345
 NSHDS,NSHDS,South Head & District Synagogue.,,0
-336997,,South Metropolitan Health Service Library.,,12641
-WRPH,WRPH,South Metropolitan Health Service Library. South & East Metropolitan Health Services Libraries.,336997,11197
+336997,,South Metropolitan Health Service Library.,,12639
+WRPH,WRPH,South Metropolitan Health Service Library. South & East Metropolitan Health Services Libraries.,336997,11195
 WFSH,WFSH,South Metropolitan Health Service Library. South Metropolitan Health Services with bases at Fiona Stanley Hospital and Royal Perth Hospital.,336997,1444
 WSWA,WSWA,South Metropolitan TAFE .,,1
 341840,,South Metropolitan TAFE . Bentley Campus Library.,WSWA,0
@@ -1986,17 +1990,17 @@ WSWA,WSWA,South Metropolitan TAFE .,,1
 341862,,South Metropolitan TAFE . Murdoch Campus Library.,WSWA,0
 341864,,South Metropolitan TAFE . Thornlie Campus Library.,WSWA,0
 WAT,WAT,South Regional TAFE. Learning Resource Centre.,,1
-VWAR,VWAR,South West Healthcare. The Stan Carroll Library.,,2764
+VWAR,VWAR,South West Healthcare. The Stan Carroll Library.,,2756
 331237,,South Western Sydney Local Health District.,,450
 NBKH,NBKH,"South Western Sydney Local Health District. Clinical Library, Bankstown-Lidcombe Hospital.",331237,450
 NFDH,NFDH,South Western Sydney Local Health District. Fairfield Hospital Library.,331237,0
 NBDH,NBDH,South Western Sydney Local Health District. Michael Khoo Library.,331237,0
 QSCCC,QSCCC,Southern Cross Catholic College.,,0
 14994,,Southern Cross University.,,124093
-NSCU:CH,NSCU:CH,Southern Cross University. Coffs Harbour Education Campus Library.,14994,24580
+NSCU:CH,NSCU:CH,Southern Cross University. Coffs Harbour Education Campus Library.,14994,24579
 NSCU:GC,NSCU:GC,Southern Cross University. Gold Coast Campus Library.,14994,5732
 NSCU:ANDS,NSCU:ANDS,Southern Cross University. Research Data via ANDS.,14994,71
-NSCU:L,NSCU:L,Southern Cross University. University Library Lismore.,14994,93710
+NSCU:L,NSCU:L,Southern Cross University. University Library Lismore.,14994,93711
 NSCU:IR,NSCU:IR,Southern Cross University. University Library Lismore. Southern Cross University: Institutional Repository.,NSCU:L,19752
 VSHGM,VSHGM,Sovereign Hill Gold Museum. Sovereign Hill Gold Museum Library.,,80310
 QSAAG,QSAAG,St Aidan's Anglican Girls' School. St Aidan's School Library.,,0
@@ -2004,16 +2008,16 @@ SSTAC,SSTAC,St Aloysius College .,,0
 1151,,St Aloysius College . Catherine McAuley Library.,SSTAC,0
 VCOO,VCOO,St Athanasius Coptic Orthodox Theological College Library.,,4815
 NSCFP,NSCFP,"St Catherine's School, Waverley. Faith Patterson Research and Resource Centre.",,3
-QSFT,QSFT,St Francis' Theological College. Roscoe Library.,,37879
-WSHA,WSHA,St Hilda's Anglican School for Girls. St Hilda's Library.,,48274
+QSFT,QSFT,St Francis' Theological College. Roscoe Library.,,37891
+WSHA,WSHA,St Hilda's Anglican School for Girls. St Hilda's Library.,,48235
 QSTH,QSTH,St Hilda's School. St Hilda's Senior Library.,,0
 VSJC,VSJC,St Joseph's College.,,0
 QSJCT,QSJCT,St Joseph's College. Terrace Library & Information Centre.,VSJC,0
 QSJC,QSJC,St Joseph's Nudgee College. St Joseph's Nudgee College Library.,,0
 VSKHS,VSKHS,St Kilda Historical Society.,,802
 QLC,QLC,St Laurence's College. Senior School Information Centre.,,0
-ASM,ASM,St Mark's National Theological Centre. St Mark's National Theological Centre Library.,,60492
-VU:M,VU:M,St Mary's College & Newman College Academic Centre Library.,,54418
+ASM,ASM,St Mark's National Theological Centre. St Mark's National Theological Centre Library.,,60480
+VU:M,VU:M,St Mary's College & Newman College Academic Centre Library.,,54425
 TSTM,TSTM,St Michael's Collegiate School. St Michael's Collegiate School Library.,,3
 QSPCM,QSPCM,"St Patrick's College, Mackay.",,0
 TSTPAT,TSTPAT,St Patrick's College. Saint Mary MacKillop Library.,,0
@@ -2021,15 +2025,15 @@ NSPGS,NSPGS,St Paul's Grammar School Penrith. St Paul's Grammar School Library.,
 QSP,QSP,St Paul's School.,,0
 SPSC,SPSC,St Peter's College. Miller Library.,,0
 QSTRC,QSTRC,St Rita's College Limited. St Rita's College Library.,,0
-16615,,St Vincent's Hospital (Melbourne).,,43030
-VSV,VSV,St Vincent's Hospital (Melbourne). Carl de Gruchy Library.,16615,43019
+16615,,St Vincent's Hospital (Melbourne).,,43064
+VSV,VSV,St Vincent's Hospital (Melbourne). Carl de Gruchy Library.,16615,43053
 VSV:ARC,VSV:ARC,St Vincent's Hospital (Melbourne). St Vincent's Hospital Melbourne Archives.,16615,11
 NSV,NSV,St Vincent's Hospital (Sydney). Walter McGrath Library.,,5725
-NSL,NSL,State Library of NSW.,,88142
-NSL:NED,NSL:NED,State Library of NSW. National edeposit (NSW).,NSL,88141
-QSL,QSL,State Library of Queensland.,,801153
+NSL,NSL,State Library of NSW.,,88350
+NSL:NED,NSL:NED,State Library of NSW. National edeposit (NSW).,NSL,88349
+QSL,QSL,State Library of Queensland.,,801357
 QSL:GR,QSL:GR,State Library of Queensland. Government Research and Information Library .,QSL,0
-QSL:NED,QSL:NED,State Library of Queensland. National edeposit (QLD).,QSL,76762
+QSL:NED,QSL:NED,State Library of Queensland. National edeposit (QLD).,QSL,76956
 333837,,State Library of Queensland. Picture Queensland partner,QSL,2684
 QPQ:BAN,QPQ:BAN,State Library of Queensland. Picture Queensland partner Banana Shire Library.,333837,99
 QPQ:BRCL,QPQ:BRCL,State Library of Queensland. Picture Queensland partner Barcaldine Regional Council Library.,333837,98
@@ -2046,18 +2050,18 @@ QPQ:PAT,QPQ:PAT,State Library of Queensland. Picture Queensland partner Queensla
 QPQ:SRL,QPQ:SRL,State Library of Queensland. Picture Queensland partner Scenic Rim Libraries.,333837,279
 QPQ:TBL,QPQ:TBL,State Library of Queensland. Picture Queensland partner Tablelands Regional Libraries.,333837,161
 QPQ:DWP,QPQ:DWP,State Library of Queensland. Picture Queensland partner Western Downs Regional Libraries (Chinchilla).,333837,97
-SSL,SSL,State Library of South Australia.,,845064
-SSL:NED,SSL:NED,State Library of South Australia. National edeposit (SA).,SSL,77723
+SSL,SSL,State Library of South Australia.,,845363
+SSL:NED,SSL:NED,State Library of South Australia. National edeposit (SA).,SSL,77926
 SSL:DC,SSL:DC,State Library of South Australia. State Library of South Australia Digital Collections.,SSL,0
-WLB,WLB,State Library of Western Australia.,,925783
-WLB:NED,WLB:NED,State Library of Western Australia. National edeposit (WA).,WLB,76641
-VSL,VSL,State Library Victoria.,,2238426
-VSL:NED,VSL:NED,State Library Victoria. National edeposit (VIC).,VSL,78542
+WLB,WLB,State Library of Western Australia.,,926102
+WLB:NED,WLB:NED,State Library of Western Australia. National edeposit (WA).,WLB,76839
+VSL,VSL,State Library Victoria.,,2238875
+VSL:NED,VSL:NED,State Library Victoria. National edeposit (VIC).,VSL,78753
 NSR,NSR,State Records Authority of NSW. State Archives and Records NSW.,,10636
 NSR:ANDS,NSR:ANDS,State Records Authority of NSW. State Archives and Records NSW. Research Data via ANDS.,NSR,82
-WARW,WARW,State Records Office of Western Australia. State Records Office of Western Australia.,,5387
-VCB,VCB,Stirling Theological College. Campbell Edwards Library.,,19847
-VSLIS,VSLIS,Stonnington Library and Information Service.,,103229
+WARW,WARW,State Records Office of Western Australia. State Records Office of Western Australia.,,5388
+VCB,VCB,Stirling Theological College. Campbell Edwards Library.,,19849
+VSLIS,VSLIS,Stonnington Library and Information Service.,,103276
 7657,,Stonnington Library and Information Service. Malvern Library.,VSLIS,0
 7656,,Stonnington Library and Information Service. Phoenix Park Library.,VSLIS,0
 3728,,Stonnington Library and Information Service. Prahran / Windsor Library.,VSLIS,0
@@ -2065,7 +2069,7 @@ VSLIS:HC,VSLIS:HC,Stonnington Library and Information Service. Stonnington Histo
 VSTOTC,VSTOTC,Stott's College.,,0
 NSML,NSML,Strathfield Council Library Service. Strathfield Council Library Service.,,67094
 4918,,Strathfield Council Library Service. Strathfield Council Library Service. High Street Community Library .,NSML,0
-SSBCS,SSBCS,Streaky Bay District Council. Streaky Bay School Community Library.,,13222
+SSBCS,SSBCS,Streaky Bay District Council. Streaky Bay School Community Library.,,13266
 XSRC,XSRC,Strehlow Research Centre.,,2907
 QSS,QSS,Stuartholme School.,,0
 79797,,Study Group Australia.,,4297
@@ -2076,9 +2080,9 @@ NSGA,NSGA,Study Group Australia. Sydney Library.,79797,1606
 WSBL,WSBL,Subiaco City Library & Information Service. Subiaco Library.,,1
 QSCC,QSCC,Suncoast Christian College.,,0
 VSDH,VSDH,Sunshine & District Historical Society Incorporated. Sunshine & District Historical Society Incorporated.,,59
-QSCCC:BH,QSCCC:BH,Sunshine Coast Council. Sunshine Coast Cultural Collections.,,9161
-QNGH,QNGH,Sunshine Coast Hospital and Health Service. Sunshine Coast Health Services.,,2982
-QSCL,QSCL,Sunshine Coast Libraries.,,132235
+QSCCC:BH,QSCCC:BH,Sunshine Coast Council. Sunshine Coast Cultural Collections.,,9164
+QNGH,QNGH,Sunshine Coast Hospital and Health Service. Sunshine Coast Health Services.,,2990
+QSCL,QSCL,Sunshine Coast Libraries.,,132268
 5833,,Sunshine Coast Libraries. Beerwah Library.,QSCL,0
 1787,,Sunshine Coast Libraries. Caloundra Library.,QSCL,0
 6143,,Sunshine Coast Libraries. Coolum Beach Library.,QSCL,0
@@ -2090,10 +2094,10 @@ QSCL,QSCL,Sunshine Coast Libraries.,,132235
 6122,,Sunshine Coast Libraries. Mobile Library 2.,QSCL,0
 6124,,Sunshine Coast Libraries. Nambour Library.,QSCL,0
 QSC,QSC,Supreme Court of Queensland. Supreme Court Library Queensland.,,13907
-VSC,VSC,Supreme Court of Victoria. The Law Library of Victoria.,,23233
+VSC,VSC,Supreme Court of Victoria. The Law Library of Victoria.,,23247
 NSLSA,NSLSA,Surf Life Saving Australia.,,2
 NSUT,NSUT,Sutherland Hospital. Medical Library.,,210
-NSCL,NSCL,Sutherland Shire Libraries.,,244588
+NSCL,NSCL,Sutherland Shire Libraries.,,244886
 4815,,Sutherland Shire Libraries. Bundeena Library.,NSCL,0
 4813,,Sutherland Shire Libraries. Caringbah Library.,NSCL,0
 7201,,Sutherland Shire Libraries. Cronulla Library.,NSCL,0
@@ -2101,18 +2105,18 @@ NSCL,NSCL,Sutherland Shire Libraries.,,244588
 7203,,Sutherland Shire Libraries. Menai Library.,NSCL,0
 4816,,Sutherland Shire Libraries. Miranda Library.,NSCL,0
 7204,,Sutherland Shire Libraries. Sylvania Library.,NSCL,0
-VSWN,VSWN,Swan Hill Regional Library Service. Swan Hill Regional Library.,,58714
+VSWN,VSWN,Swan Hill Regional Library Service. Swan Hill Regional Library.,,58811
 NBRM,NBRM,Swan Hill Regional Library Service. Swan Hill Regional Library. Barham Branch Library.,VSWN,0
 8874,,Swan Hill Regional Library Service. Swan Hill Regional Library. Mobile Library.,VSWN,0
 8873,,Swan Hill Regional Library Service. Swan Hill Regional Library. Moulamein Library.,VSWN,0
 8875,,Swan Hill Regional Library Service. Swan Hill Regional Library. Wakool Library.,VSWN,0
 VSWI,VSWI,SWIFT.,,0
-15169,,Swinburne University of Technology.,,118971
+15169,,Swinburne University of Technology.,,119136
 VSWT:ANDS,VSWT:ANDS,Swinburne University of Technology. Research Data via ANDS.,15169,23
-VSWT,VSWT,Swinburne University of Technology. Swinburne Library.,15169,118948
+VSWT,VSWT,Swinburne University of Technology. Swinburne Library.,15169,119113
 VSWT:CH,VSWT:CH,Swinburne University of Technology. Swinburne Library. Cosmos and History: The Journal of Natural and Social Philosophy.,VSWT,0
 VSWT:DC,VSWT:DC,Swinburne University of Technology. Swinburne Library. Swinburne Commons.,VSWT,6715
-VSWT:IR,VSWT:IR,Swinburne University of Technology. Swinburne Library. Swinburne University: Institutional Repository.,VSWT,84519
+VSWT:IR,VSWT:IR,Swinburne University of Technology. Swinburne Library. Swinburne University: Institutional Repository.,VSWT,84678
 VSWT:RS,VSWT:RS,Swinburne University of Technology. Swinburne Research - ANDS Metadata Store.,15169,0
 NSH,NSH,Sydney Hospital & Sydney Eye Hospital. Winston Library.,,374
 12803,,Sydney Local Health District.,,9228
@@ -2121,9 +2125,9 @@ NCBY,NCBY,Sydney Local Health District. Canterbury Hospital Medical Library.,128
 5568,,Sydney Local Health District. Central Sydney GP Network Ltd Library.,12803,0
 NRGH,NRGH,Sydney Local Health District. Geoff Marel Library.,12803,7906
 NAH,NAH,Sydney Local Health District. Royal Prince Alfred Hospital Susman Library.,12803,1322
-NSMSA,NSMSA,Sydney Mechanics' School of Arts. Sydney Mechanics' School of Arts Library.,,14905
+NSMSA,NSMSA,Sydney Mechanics' School of Arts. Sydney Mechanics' School of Arts Library.,,14898
 NSMB,NSMB,Sydney Missionary and Bible College. J.T.H. Kerr Library.,,0
-QTBL,QTBL,Tablelands Regional Libraries.,,34957
+QTBL,QTBL,Tablelands Regional Libraries.,,34972
 13558,,Tablelands Regional Libraries. Atherton Library.,QTBL,0
 2604,,Tablelands Regional Libraries. Herberton Library & Customer Service Centre.,QTBL,0
 4992,,Tablelands Regional Libraries. Malanda Library & Customer Service Centre.,QTBL,0
@@ -2131,7 +2135,7 @@ QTBL,QTBL,Tablelands Regional Libraries.,,34957
 3513,,Tablelands Regional Libraries. Mt Garnet Library.,QTBL,0
 3514,,Tablelands Regional Libraries. Ravenshoe Library & Customer Service Centre .,QTBL,0
 4994,,Tablelands Regional Libraries. Yungaburra Library.,QTBL,0
-STCL,STCL,Tabor Adelaide. Tabor College Library.,,18033
+STCL,STCL,Tabor Adelaide. Tabor College Library.,,18023
 12793,,TAFE Gippsland.,,15324
 VEGC,VEGC,TAFE Gippsland.,12793,15324
 VCGT,VCGT,TAFE Gippsland. TAFE Gippsland: Yallourn Campus.,12793,0
@@ -2205,7 +2209,7 @@ NRCT,NRCT,TAFE NSW - Western Sydney. Richmond College Library.,NWSI,0
 NTN,NTN,TAFE NSW.,,1458
 NTLS,NTLS,TAFE NSW. TAFE Library Collection Services.,NTN,1458
 QSOB,QSOB,TAFE Queensland Library Network.,,0
-SFED,SFED,TAFE SA.,,49854
+SFED,SFED,TAFE SA.,,49865
 SFED:MB,SFED:MB,TAFE SA. Mount Barker Campus Library.,SFED,0
 WTAM,WTAM,Tambellup Shire Council. Tambellup Public Library.,,0
 WTMN,WTMN,Tammin Shire Council. Tammin Shire Library.,,0
@@ -2225,22 +2229,22 @@ TNWD,TNWD,TasTAFE Libraries. Devonport Library.,TTP,0
 TDRH,TDRH,TasTAFE Libraries. Drysdale Library TasTAFE.,TTP,0
 6211,,TasTAFE Libraries. Launceston Library.,TTP,0
 TNWQ,TNWQ,TasTAFE Libraries. Queenstown Library.,TTP,0
-SBT,SBT,Tatiara District Council. Bordertown Public Library.,,22867
+SBT,SBT,Tatiara District Council. Bordertown Public Library.,,22937
 NTC,NTC,Tattersalls Club.,,1016
 VTAT,VTAT,Tatura Historical Society. Tatura Irrigation & Wartime Camps Museum.,,5871
 NTEN,NTEN,Tenterfield Public Library. Tenterfield Public Library.,,352
 NTACS,NTACS,The Australian Computer Society .,,471
 NAF,NAF,The Australiana Fund.,,334
-SBCPL,SBCPL,The Barossa Council. Nuriootpa Library.,,40744
-QBOO,QBOO,The Book House.,,737
-VCMI,VCMI,The Cairnmillar Institute.,,2886
+SBCPL,SBCPL,The Barossa Council. Nuriootpa Library.,,40819
+QBOO,QBOO,The Book House.,,766
+VCMI,VCMI,The Cairnmillar Institute.,,2887
 VC,VC,The Carmelite Library .,,40629
-SQSC,SQSC,The Flinders Ranges Council. Quorn School & Community Library.,,19585
+SQSC,SQSC,The Flinders Ranges Council. Quorn School & Community Library.,,19607
 VTGC,VTGC,The Geelong College. George Morrison Library.,,0
-NBAU,NBAU,The Hills Shire Council Library Service. The Hills Shire.,,49260
+NBAU,NBAU,The Hills Shire Council Library Service. The Hills Shire.,,49236
 SQEH,SQEH,The Queen Elizabeth Hospital  Library.,,1
 SRIG,SRIG,The Rebuild Independence Group (RIG) Collection.,,40
-VRCH,VRCH,The Royal Children's Hospital. J.W. Grieve Memorial Library.,,5725
+VRCH,VRCH,The Royal Children's Hospital. J.W. Grieve Memorial Library.,,5607
 QTSS,QTSS,The Southport School. Senior Library.,,0
 VJAF,VJAF,The Theosophical Society in Australia.,,19770
 SATS,SATS,The Theosophical Society in Australia. Adelaide Theosophical Society Library.,VJAF,0
@@ -2252,8 +2256,8 @@ NCTRL,NCTRL,The Theosophical Society in Australia. Campbell Theosophical Researc
 326521,,The Theosophical Society in Australia. Lending Library of Launceston Lodge.,VJAF,0
 326519,,The Theosophical Society in Australia. Lending Library of The Brisbane Theosophical Society.,VJAF,0
 5328,,The Theosophical Society in Australia. Perth Theosophical Society Library and Bookshop.,VJAF,0
-QTH,QTH,The Townsville Hospital. Townsville Health Library.,,8891
-15379,,The University of Melbourne.,,402690
+QTH,QTH,The Townsville Hospital. Townsville Health Library.,,8890
+15379,,The University of Melbourne.,,402888
 VU:AWR,VU:AWR,The University of Melbourne. Australian Women's Register.,15379,6711
 VU:CCCS,VU:CCCS,The University of Melbourne. Centre for Comparative Constitutional Studies.,15379,0
 VU:CW,VU:CW,The University of Melbourne. Course Work.,15379,4822
@@ -2261,10 +2265,10 @@ VU:CCHC,VU:CCHC,"The University of Melbourne. Creswick Campus Historical Collect
 VU:DC,VU:DC,The University of Melbourne. Digitised collections.,15379,39951
 VU:EOAS,VU:EOAS,The University of Melbourne. Encyclopedia of Australian Science.,15379,8262
 VU:MHW,VU:MHW,The University of Melbourne. Melbourne History Workshop.,15379,348
-VUMC,VUMC,The University of Melbourne. Museums and Collections.,15379,217
+VUMC,VUMC,The University of Melbourne. Museums and Collections.,15379,306
 VU:POJAP,VU:POJAP,The University of Melbourne. Plain of Jars Archaeological Project.,15379,741
 VU:ANDS,VU:ANDS,The University of Melbourne. Research Data via ANDS.,15379,1030
-VU,VU,The University of Melbourne. The University of Melbourne Library.,15379,112003
+VU,VU,The University of Melbourne. The University of Melbourne Library.,15379,112112
 4736,,"The University of Melbourne. The University of Melbourne Library. Architecture, Building & Planning Library.",VU,0
 337277,,The University of Melbourne. The University of Melbourne Library. Archives & Special Collections.,VU,0
 1631,,The University of Melbourne. The University of Melbourne Library. Brownless Biomedical Library.,VU,0
@@ -2278,23 +2282,25 @@ VU,VU,The University of Melbourne. The University of Melbourne Library.,15379,11
 337279,,The University of Melbourne. The University of Melbourne Library. Melbourne Business Centre Library.,VU,0
 7363,,The University of Melbourne. The University of Melbourne Library. Melbourne School of Land and Environment - Burnley.,VU,0
 6729,,The University of Melbourne. The University of Melbourne Library. Melbourne School of Land and Environment - Dookie .,VU,0
-VU:IR,VU:IR,The University of Melbourne. The University of Melbourne Library. University of Melbourne: Institutional Repository.,VU,112002
+VU:IR,VU:IR,The University of Melbourne. The University of Melbourne Library. University of Melbourne: Institutional Repository.,VU,112111
 337280,,The University of Melbourne. The University of Melbourne Library. Veterinary Sciences Library - Parkville & Werribee.,VU,0
 VUMA,VUMA,The University of Melbourne. University of Melbourne Archives.,15379,227216
 VU:VCA,VU:VCA,The University of Melbourne. Victorian College of the Arts: Film & Television School.,15379,0
-10215,,The University of Queensland.,,1446856
+10215,,The University of Queensland.,,1447315
 QU:ANDS,QU:ANDS,The University of Queensland. Research Data via ANDS.,10215,1025
-QU,QU,The University of Queensland. University of Queensland Library.,10215,1439805
-QU:IR,QU:IR,The University of Queensland. University of Queensland Library. University of Queensland: Institutional Repository.,QU,494171
+QU,QU,The University of Queensland. University of Queensland Library.,10215,1440264
+QU:IR,QU:IR,The University of Queensland. University of Queensland Library. University of Queensland: Institutional Repository.,QU,494748
 QU:WA,QU:WA,The University of Queensland. Walkabout Annotated Bibliography UQ-UTAS.,10215,6026
-10216,,The University of Sydney.,,1696868
+10216,,The University of Sydney.,,1696975
 NUAAJ,NUAAJ,The University of Sydney. Archive of Australian Judaica.,10216,156
-NU:DC,NU:DC,The University of Sydney. Digital Collections.,10216,11168
-NU:PAR,NU:PAR,The University of Sydney. PARADISEC.,10216,576
+NU:DC,NU:DC,The University of Sydney. Digital Collections.,10216,11187
+3437,,The University of Sydney. Health Education Unit Library.,10216,0
+NU:PAR,NU:PAR,The University of Sydney. PARADISEC.,10216,578
 NU:ANDS,NU:ANDS,The University of Sydney. Research Data via ANDS.,10216,211
 NSSC,NSSC,The University of Sydney. Sancta Sophia College Library.,10216,0
 11534,,The University of Sydney. Schaeffer Fine Arts Library.,10216,0
-NU,NU,The University of Sydney. University of Sydney Library.,10216,1676082
+330757,,The University of Sydney. The Koori Centre Research Library.,10216,0
+NU,NU,The University of Sydney. University of Sydney Library.,10216,1676158
 NU:MD,NU:MD,The University of Sydney. University of Sydney Library. Bosch Commons.,NU,0
 NU:CA,NU:CA,The University of Sydney. University of Sydney Library. Camden Commons.,NU,0
 8226,,The University of Sydney. University of Sydney Library. Fisher Library.,NU,0
@@ -2304,8 +2310,8 @@ NU:NR,NU:NR,The University of Sydney. University of Sydney Library. Nursing Libr
 NU:ST,NU:ST,The University of Sydney. University of Sydney Library. SciTech Library.,NU,0
 NSX,NSX,The University of Sydney. University of Sydney Library. Sydney College of the Arts Library.,NU,0
 NCM,NCM,The University of Sydney. University of Sydney Library. Sydney Conservatorium of Music Library.,NU,0
-NU:IR,NU:IR,The University of Sydney. University of Sydney Library. University of Sydney: Institutional Repository.,NU,28624
-NU:OJS,NU:OJS,The University of Sydney. University of Sydney eScholarship Journals.,10216,8675
+NU:IR,NU:IR,The University of Sydney. University of Sydney Library. University of Sydney: Institutional Repository.,NU,28636
+NU:OJS,NU:OJS,The University of Sydney. University of Sydney eScholarship Journals.,10216,8685
 NTWL,NTWL,The Women's Library.,,8053
 ATGA,ATGA,Therapeutic Goods Administration. Information Resources and Research Services.,,26
 325337,,Think: Education Group.,,0
@@ -2318,7 +2324,7 @@ NTEGU,NTEGU,Think: Education Group. Ultimo Campus Library.,325337,0
 VTFB,VTFB,Thompson's Foundry Band Inc.,,1519
 WTRE,WTRE,Three Springs Shire Council. Three Springs Library.,,0
 QTWGS,QTWGS,Toowoomba Grammar School. W.M. Dent Library.,,0
-QTOL,QTOL,Toowoomba Regional Council. Toowoomba Region Libraries.,,167815
+QTOL,QTOL,Toowoomba Regional Council. Toowoomba Region Libraries.,,168015
 3707,,Toowoomba Regional Council. Toowoomba Region Libraries. Cecil Plains Library.,QTOL,0
 7548,,Toowoomba Regional Council. Toowoomba Region Libraries. Clifton Library.,QTOL,0
 4749,,Toowoomba Regional Council. Toowoomba Region Libraries. Goombungee Library.,QTOL,0
@@ -2330,52 +2336,54 @@ QTOL,QTOL,Toowoomba Regional Council. Toowoomba Region Libraries.,,167815
 8928,,Toowoomba Regional Council. Toowoomba Region Libraries. Quinalow Library.,QTOL,0
 4751,,Toowoomba Regional Council. Toowoomba Region Libraries. Rosalie Mobile Library.,QTOL,0
 5097,,Toowoomba Regional Council. Toowoomba Region Libraries. Southern Queensland Theology Library.,QTOL,0
-VLEA,VLEA,Torrens Global Education Services Pty Ltd.,,25122
+VLEA,VLEA,Torrens Global Education Services Pty Ltd.,,25124
 STUA,STUA,Torrens University Australia. Torrens University Australia Library.,,4
 WBAS,WBAS,Town of Bassendean. Bassendean Memorial Library .,,0
 WFPL,WFPL,Town of Cambridge. Cambridge Library.,,21537
 WCLA,WCLA,Town of Claremont. Claremont Community Hub & Library.,,8
-SGAW,SGAW,Town of Gawler. Gawler Public Library.,,36376
+SGAW,SGAW,Town of Gawler. Gawler Public Library.,,36397
 14560,,Town of Port Hedland: South Hedland Libraries.,,0
 WPOHD,WPOHD,Town of Port Hedland: South Hedland Libraries. Port Hedland Public Library.,14560,0
 WSHD,WSHD,Town of Port Hedland: South Hedland Libraries. South Hedland Public Library.,14560,0
 WVIC,WVIC,Town of Victoria Park. Victoria Park Library.,,1
-312137,,Townsville City Council.,,126390
+312137,,Townsville City Council.,,126392
 QTTL,QTTL,Townsville City Council. Townsville City Council Corporate Research.,312137,18
-QTCL,QTCL,Townsville City Council. Townsville CityLibraries.,312137,126372
+QTCL,QTCL,Townsville City Council. Townsville CityLibraries.,312137,126374
 6867,,Townsville City Council. Townsville CityLibraries. CityLibraries Aitkenvale .,QTCL,0
 7660,,Townsville City Council. Townsville CityLibraries. CityLibraries Flinders Street.,QTCL,0
 9254,,Townsville City Council. Townsville CityLibraries. CityLibraries Thuringowa.,QTCL,0
 QTGS,QTGS,Townsville Grammar School. Library and Resource Centre.,,0
 QTMM,QTMM,Townsville Maritime Museum.,,557
-VTL,VTL,Towong Shire Council. Towong Shire Libraries. Towong Library.,,9904
+VTL,VTL,Towong Shire Council. Towong Shire Libraries. Towong Library.,,9907
 NRTA,NRTA,Transport for NSW. Transport Library.,,1016
 WTRY,WTRY,Trayning Shire Council. Trayning Public Library.,,0
 VTRIN,VTRIN,Trinity College.,,15093
 VU:T,VU:T,Trinity College. Leeper and Mollison Library.,VTRIN,15089
 NTGS,NTGS,Trinity Grammar School. Trinity Grammar School Library.,,0
 QTLC,QTLC,Trinity Lutheran College.,,0
-WTTC,WTTC,"Trinity Theological College (Perth, WA). Trinity Theological College Library.",,121501
-ANL:DL,ANL:DL,Trove Digital Library.,,1928730
-STBSC,STBSC,Tumby Bay District Council. Tumby Bay School Community Library.,,21828
+WTTC,WTTC,"Trinity Theological College (Perth, WA). Trinity Theological College Library.",,121510
+ANL:DL,ANL:DL,Trove Digital Library.,,1928744
+STBSC,STBSC,Tumby Bay District Council. Tumby Bay School Community Library.,,21850
 NTWM,NTWM,Tweed Regional Museum.,,5527
 NULPB,NULPB,Ulverscroft Large Print Books.,,1
-NUT,NUT,United Theological College. Camden Theological Library - The Uniting Church in Australia.,,74136
-VUAR,VUAR,Uniting Church Archives (Vic).,,2039
+NUT,NUT,United Theological College. Camden Theological Library - The Uniting Church in Australia.,,74163
+VUAR,VUAR,Uniting Church Archives (Vic).,,2041
 NBUR,NBUR,Uniting Library Services.,,0
-12050,,University of Adelaide.,,1030615
+12050,,University of Adelaide.,,1030233
 SUA:AC,SUA:AC,University of Adelaide. Adelaide Connect.,12050,2265
-SUA,SUA,University of Adelaide. Barr Smith Library.,12050,853393
+SUA,SUA,University of Adelaide. Barr Smith Library.,12050,852995
+18974,,University of Adelaide. Elder Music Library.,12050,0
+8985,,University of Adelaide. Law Library.,12050,0
 SUA:ANDS,SUA:ANDS,University of Adelaide. Research Data via ANDS.,12050,908
-SUA:R,SUA:R,University of Adelaide. Roseworthy Campus Library .,12050,18716
-SUA:IR,SUA:IR,University of Adelaide. University of Adelaide: Institutional Repository.,12050,129333
-SUA:W,SUA:W,University of Adelaide. Waite Library .,12050,26000
-15378,,University of Canberra.,,210395
-AUC:LR,AUC:LR,University of Canberra. National Centre for Australian Children's Literature.,15378,24733
+SUA:R,SUA:R,University of Adelaide. Roseworthy Campus Library .,12050,18686
+SUA:IR,SUA:IR,University of Adelaide. University of Adelaide: Institutional Repository.,12050,129390
+SUA:W,SUA:W,University of Adelaide. Waite Library .,12050,25989
+15378,,University of Canberra.,,212925
+AUC:LR,AUC:LR,University of Canberra. National Centre for Australian Children's Literature.,15378,24773
 AUC:ANDS,AUC:ANDS,University of Canberra. Research Data via ANDS.,15378,16
-AUC,AUC,University of Canberra. University of Canberra Library.,15378,165194
-AUC:IR,AUC:IR,University of Canberra. University of Canberra Research Repository.,15378,20452
-VMCD,VMCD,University of Divinity Libraries.,,94419
+AUC,AUC,University of Canberra. University of Canberra Library.,15378,165195
+AUC:IR,AUC:IR,University of Canberra. University of Canberra Research Repository.,15378,22941
+VMCD,VMCD,University of Divinity Libraries.,,98321
 15380,,University of Melbourne - Residential College.,,7612
 VU:I,VU:I,University of Melbourne - Residential College. International House Library.,15380,0
 VU:O,VU:O,"University of Melbourne - Residential College. Ormond College, Macfarland Library.",15380,0
@@ -2383,32 +2391,28 @@ VU:Q,VU:Q,University of Melbourne - Residential College. Queen's College Library
 VU:U,VU:U,University of Melbourne - Residential College. University College Library.,15380,0
 VASD,VASD,University of Melbourne Australia Centre. Australian Sound Design Project.,,94
 NNEA,NNEA,University of New England and Regional Archives.,,508
-15385,,University of New England.,,233403
+15385,,University of New England.,,233445
 NUNE,NUNE,University of New England. Dixson Library.,15385,201117
 9179,,University of New England. Dixson Library. UNE Law Library.,NUNE,0
-NUNE:IR,NUNE:IR,University of New England. Institutional Repository.,15385,31881
+NUNE:IR,NUNE:IR,University of New England. Institutional Repository.,15385,31923
 NUNE:ANDS,NUNE:ANDS,University of New England. Research Data via ANDS.,15385,405
-NNCU:A,NNCU:A,University of Newcastle Library.,,64832
+NNCU:A,NNCU:A,University of Newcastle Library.,,70673
 340497,,University of Newcastle Library. Auchmuty Library.,NNCU:A,0
 340498,,University of Newcastle Library. Huxley Library.,NNCU:A,0
-NNCU:IR,NNCU:IR,University of Newcastle Library. NOVA. The University of Newcastle Open Access repository.,NNCU:A,57550
+NNCU:IR,NNCU:IR,University of Newcastle Library. NOVA. The University of Newcastle Open Access repository.,NNCU:A,57705
 340499,,University of Newcastle Library. Newcastle City Campus Library.,NNCU:A,0
 NNCU:C,NNCU:C,University of Newcastle Library. Ourimbah Library.,NNCU:A,0
 NNCU:ANDS,NNCU:ANDS,University of Newcastle Library. Research Data via ANDS.,NNCU:A,35
-15388,,University of Notre Dame Australia.,,120419
+15388,,University of Notre Dame Australia.,,120361
 NUND:D,NUND:D,University of Notre Dame Australia. Benedict XVI Medical Library.,15388,6149
-WUND:B,WUND:B,University of Notre Dame Australia. Broome Campus Library.,15388,10356
+WUND:B,WUND:B,University of Notre Dame Australia. Broome Campus Library.,15388,10358
 WUND:L,WUND:L,University of Notre Dame Australia. Craven Law Library.,15388,7174
 NUND:S,NUND:S,University of Notre Dame Australia. St Benedict's Library .,15388,22252
-WUND,WUND,University of Notre Dame Australia. St Teresa's Library.,15388,74488
-WUND:IR,WUND:IR,University of Notre Dame Australia. St Teresa's Library. University of Notre Dame Australia: Institutional Repository.,WUND,7120
-15392,,University of South Australia.,,228216
-5806,,University of South Australia. City East Campus Library.,15392,0
-890,,University of South Australia. Magill Campus Library.,15392,0
-5810,,University of South Australia. Mawson Lakes Campus Library.,15392,0
+WUND,WUND,University of Notre Dame Australia. St Teresa's Library.,15388,74428
+WUND:IR,WUND:IR,University of Notre Dame Australia. St Teresa's Library. University of Notre Dame Australia: Institutional Repository.,WUND,7123
+15392,,University of South Australia.,,228250
 SUSA:ANDS,SUSA:ANDS,University of South Australia. Research Data via ANDS.,15392,356
-5811,,University of South Australia. Samstag Museum.,15392,0
-SUSA,SUSA,University of South Australia. University of South Australia Library.,15392,227860
+SUSA,SUSA,University of South Australia. University of South Australia Library.,15392,227894
 SUSA:ACM,SUSA:ACM,University of South Australia. University of South Australia Library. Asia Pacific Journal of Arts and Cultural Management.,SUSA,98
 SUSA:EI,SUSA:EI,University of South Australia. University of South Australia Library. International Journal of Educational Integrity.,SUSA,0
 SUSA:EB,SUSA:EB,University of South Australia. University of South Australia Library. Journal of International Education in Business .,SUSA,0
@@ -2418,11 +2422,10 @@ SUSA:MCS,SUSA:MCS,University of South Australia. University of South Australia L
 SUSA:A,SUSA:A,University of South Australia. University of South Australia Library. University of South Australia Archives.,SUSA,14513
 SUSA:IR,SUSA:IR,University of South Australia. University of South Australia Library. University of South Australia: Institutional Repository.,SUSA,94517
 SUSA:OJS,SUSA:OJS,University of South Australia. University of South Australia Library. University of South Australia: Open Journal Systems.,SUSA,521
-2276,,University of South Australia. Whyalla Campus Library.,15392,0
-QUSQ,QUSQ,University of Southern Queensland. USQ Library.,,1431
-QUSQ:IR,QUSQ:IR,University of Southern Queensland. USQ Library. University of Southern Queensland: Institutional Repository.,QUSQ,1425
+QUSQ,QUSQ,University of Southern Queensland. USQ Library.,,1432
+QUSQ:IR,QUSQ:IR,University of Southern Queensland. USQ Library. University of Southern Queensland: Institutional Repository.,QUSQ,1426
 TU:COLL,TU:COLL,University of Tasmania Collections.,,14375
-TU,TU,University of Tasmania.,,500182
+TU,TU,University of Tasmania.,,500354
 9175,,University of Tasmania. Art Library.,TU,0
 2281,,University of Tasmania. Clinical Library.,TU,0
 2278,,University of Tasmania. Cradle Coast Campus Library.,TU,0
@@ -2434,11 +2437,11 @@ TU:OR,TU:OR,University of Tasmania. Library Open Repository.,TU,16424
 8122,,University of Tasmania. Music Library.,TU,0
 TU:ANDS,TU:ANDS,University of Tasmania. Research Data via ANDS.,TU,246
 339637,,University of Tasmania. Rozelle Campus Library.,TU,0
-TU:IR,TU:IR,University of Tasmania. Institutional Repository.,TU,112006
-10218,,University of Technology Sydney.,,595066
+TU:IR,TU:IR,University of Tasmania. Institutional Repository.,TU,112041
+10218,,University of Technology Sydney.,,595101
 NTSM:ANDS,NTSM:ANDS,University of Technology Sydney. Research Data via ANDS.,10218,66
 NTSM:E,NTSM:E,University of Technology Sydney. UTS ePRESS.,10218,3514
-NTSM,NTSM,University of Technology Sydney. University Library.,10218,591486
+NTSM,NTSM,University of Technology Sydney. University Library.,10218,591521
 8109,,"University of Technology Sydney. University Library. City Campus, Blake Library.",NTSM,0
 NTSM:LG,NTSM:LG,University of Technology Sydney. University Library. Commonwealth Journal of Local Governance.,NTSM,0
 NTSM:CCS,NTSM:CCS,University of Technology Sydney. University Library. Cosmopolitan Civil Societies: An Interdisciplinary Journal.,NTSM,0
@@ -2451,43 +2454,44 @@ NTSM:PS,NTSM:PS,University of Technology Sydney. University Library. Public Spac
 NTSM:SJ,NTSM:SJ,University of Technology Sydney. University Library. Sydney Journal .,NTSM,0
 NTSM:ICT,NTSM:ICT,University of Technology Sydney. University Library. The African Journal of Information and Communication Technology.,NTSM,0
 NTSM:TC,NTSM:TC,University of Technology Sydney. University Library. Transforming Cultures eJournal .,NTSM,0
-NTSM:IR,NTSM:IR,University of Technology Sydney. University Library. University of Technology Sydney: Institutional Repository.,NTSM,94294
+NTSM:IR,NTSM:IR,University of Technology Sydney. University Library. University of Technology Sydney: Institutional Repository.,NTSM,94313
 NTSM:U,NTSM:U,University of Technology Sydney. University Library. Unscrunched.,NTSM,189
 YFIU,YFIU,"University of the South Pacific. Library, Laucala Campus, Suva.",,1389
 QSCUC,QSCUC,University of the Sunshine Coast. University of the Sunshine Coast Library.,,58487
 QSCUC:RB,QSCUC:RB,University of the Sunshine Coast. University of the Sunshine Coast Library. USC Research Bank.,QSCUC,880
-10219,,University of Western Australia.,,918972
+10219,,University of Western Australia.,,919340
 WU:CAL,WU:CAL,University of Western Australia. Callaway Centre Archive.,10219,0
+330857,,University of Western Australia. PioNEER - Network for Early European Research repository (CLOSED).,10219,180
 WU:ANDS,WU:ANDS,University of Western Australia. Research Data via ANDS.,10219,1895
-WU:R,WU:R,University of Western Australia. UWA Research Repository.,10219,181818
-WU,WU,University of Western Australia. University of Western Australia Library.,10219,735259
+WU:R,WU:R,University of Western Australia. UWA Research Repository.,10219,181975
+WU,WU,University of Western Australia. University of Western Australia Library.,10219,735290
 9472,,"University of Western Australia. University of Western Australia Library. Education, Fine Arts and Architecture Library.",WU,0
 9471,,University of Western Australia. University of Western Australia Library. Law Library.,WU,0
 9478,,University of Western Australia. University of Western Australia Library. Music Library.,WU,0
 9474,,University of Western Australia. University of Western Australia Library. Reid Arts and Business Library.,WU,0
 9479,,University of Western Australia. University of Western Australia Library. Scholars' Centre.,WU,0
 9469,,University of Western Australia. University of Western Australia Library. Science Library.,WU,0
-10220,,University of Wollongong.,,307146
+10220,,University of Wollongong.,,307206
 NWU:ANDS,NWU:ANDS,University of Wollongong. Research Data via ANDS.,10220,161
 84823,,University of Wollongong. Shoalhaven Campus Library.,10220,0
-NWU:DC,NWU:DC,University of Wollongong. University of Wollongong Archives .,10220,14922
-NWU,NWU,University of Wollongong. University of Wollongong Library.,10220,292063
+NWU:DC,NWU:DC,University of Wollongong. University of Wollongong Archives .,10220,14979
+NWU,NWU,University of Wollongong. University of Wollongong Library.,10220,292066
 NWU:IR,NWU:IR,University of Wollongong. University of Wollongong Library. University of Wollongong: Institutional Repository.,NWU,75624
 9650,,University of Wollongong. University of Wollongong in Dubai Library.,10220,0
-SUL,SUL,Unley Libraries. Unley Civic Library.,,53913
-15386,,UNSW Sydney.,,546567
+SUL,SUL,Unley Libraries. Unley Civic Library.,,54025
+15386,,UNSW Sydney.,,543866
 NALII:ANDS,NALII:ANDS,UNSW Sydney. Australasian Legal Information Institute.,15386,1011
 2288,,UNSW Sydney. Australian Human Rights Information Centre - Documentation Centre.,15386,0
-NUN:DAAO,NUN:DAAO,UNSW Sydney. Design & Art Australia Online.,15386,17079
+NUN:DAAO,NUN:DAAO,UNSW Sydney. Design & Art Australia Online.,15386,17083
 NUN:DC,NUN:DC,UNSW Sydney. Digital Collections.,15386,6231
 NUN:NH,NUN:NH,UNSW Sydney. National Centre in HIV Social Research Library .,15386,0
 6800,,UNSW Sydney. Nura Gili Resource Centre.,15386,0
 NUN:ANDS,NUN:ANDS,UNSW Sydney. Research Data via ANDS.,15386,301
-NUN,NUN,UNSW Sydney. UNSW Library.,15386,521945
+NUN,NUN,UNSW Sydney. UNSW Library.,15386,519240
 6798,,UNSW Sydney. UNSW Library. Paddington Library.,NUN,0
 6799,,UNSW Sydney. UNSW Library. UNSW Law Library.,NUN,0
 NUN:IR,NUN:IR,UNSW Sydney. UNSW Library. University of New South Wales: Institutional Repository.,NUN,58028
-NULS,NULS,Upper Lachlan Shire Library Service.,,7324
+NULS,NULS,Upper Lachlan Shire Library Service.,,7334
 9125,,Upper Lachlan Shire Library Service. Crookwell Library.,NULS,0
 1345,,Upper Lachlan Shire Library Service. Gunning Library.,NULS,0
 15418,,Vianney College.,,11385
@@ -2501,11 +2505,11 @@ WCAL,WCAL,Victoria Plains Shire Council Libraries. Calingiri Library.,15423,0
 WMOG,WMOG,Victoria Plains Shire Council Libraries. Mogumber Library.,15423,0
 VPOL,VPOL,Victoria Police Library Service.,,6744
 VPOL:M,VPOL:M,Victoria Police Museum.,,922
-107417,,Victoria University.,,223370
+107417,,Victoria University.,,223436
 VVUT:ANDS,VVUT:ANDS,Victoria University. Research Data via ANDS.,107417,47
-VVUT,VVUT,Victoria University. Victoria University Library.,107417,223323
+VVUT,VVUT,Victoria University. Victoria University Library.,107417,223389
 VVUT:LJJ,VVUT:LJJ,Victoria University. Victoria University Library. Law and Justice Journal.,VVUT,88
-VVUT:IR,VVUT:IR,Victoria University. Victoria University Library. Victoria University: Institutional Repository.,VVUT,31567
+VVUT:IR,VVUT:IR,Victoria University. Victoria University Library. Victoria University: Institutional Repository.,VVUT,31634
 VACL,VACL,Victorian Aboriginal Corporation for Languages.,,878
 VVBL,VVBL,Victorian Bands' League.,,28
 332897,,Victorian Government Library Service.,,57201
@@ -2525,71 +2529,72 @@ VGLS,VGLS,Victorian Government Library Service. Victorian Government Library Ser
 VLAW,VLAW,Victorian Government Library Service. Victorian Government Library Service Justice Library.,332897,0
 VIP,VIP,Victorian Interpretive Projects.,,311
 QVC,QVC,Villanova College.,,0
-WABL,WABL,VisAbility. VisAbility Library.,,6870
+WABL,WABL,VisAbility. VisAbility Library.,,6930
 VIB,VIB,Vision Australia. Vision Australia Information Library Service.,,49767
 WB,WB,Vose Seminary. Vose Library.,,26375
 WCLM,WCLM,"WA Department of Biodiversity, Conservation and Attractions.",,50180
 WDET,WDET,WA Department of Education. Library & Information Service .,,5190
 WDAG,WDAG,WA Department of Justice - The Law Library.,,0
 WOT,WOT,WA TAFE Consortium.,,1
-NWAG,NWAG,Wagga Wagga Library.,,51111
-SBAL,SBAL,Wakefield Regional Council. Balaklava Community Library.,,27908
-VWARR,VWARR,Warrnambool and District Historical Society Inc..,,2811
-SMILL,SMILL,Wattle Range Council. Millicent Public Library.,,30294
+NWAG,NWAG,Wagga Wagga Library.,,51216
+SBAL,SBAL,Wakefield Regional Council. Balaklava Community Library.,,27915
+VWARR,VWARR,Warrnambool and District Historical Society Inc..,,2816
+VWRR,VWRR,Warrnambool Library and Learning Centre.,,46928
+SMILL,SMILL,Wattle Range Council. Millicent Public Library.,,30347
 NWAVC,NWAVC,Waverley College.,,0
 8103,,Waverley College. Waverley College Library.,NWAVC,0
-NWAV,NWAV,Waverley Council. Waverley Library.,,114026
+NWAV,NWAV,Waverley Council. Waverley Library.,,113224
 NWAVE,NWAVE,Wavesound Pty Ltd.,,1
 NGRE,NGRE,Weddin Shire Council. Grenfell & District Public Library.,,9625
 QWPSHS,QWPSHS,Wellington Point State High School.,,0
-VCGR,VCGR,Wellington Shire Library. Sale Library.,,74019
+VCGR,VCGR,Wellington Shire Library. Sale Library.,,74093
 NWSHS,NWSHS,Wenona School Limited.,,0
 7845,,Wenona School Limited. Wenona School Library.,NWSHS,0
 VWCM,VWCM,Wesley College. Wesley College Library.,,0
 TWHM,TWHM,Wesley Hobart Museum.,,68
 WDK,WDK,West Arthur Shire Council. Darkan Public Library.,,0
-QWPH,QWPH,"West Moreton Hospital and Health Service. The Park - Centre for Mental Health Treatment, Research and Education - The Park Library.",,597
+QWPH,QWPH,"West Moreton Hospital and Health Service. The Park - Centre for Mental Health Treatment, Research and Education - The Park Library.",,609
 WWBK,WWBK,Westbooks Library.,,1
-WMU,WMU,Western Australian Museum. Western Australian Museum Library.,,20610
+WMU,WMU,Western Australian Museum. Western Australian Museum Library.,,20611
 VHBH,VHBH,Western District Health Service. Hamilton Base Hospital Library.,,1044
-QDWP,QDWP,Western Downs Libraries. Dalby Library.,,24335
-VWEHE,VWEHE,Western Health.,,3270
-VWHF,VWHF,Western Health. Footscray Hospital Library.,VWEHE,1425
-VWHS,VWHS,Western Health. Sunshine Hospital Library.,VWEHE,1845
-NWES,NWES,Western Riverina Libraries. Griffith City Library.,,84034
+QDWP,QDWP,Western Downs Libraries. Dalby Library.,,24386
+VWEHE,VWEHE,Western Health.,,3277
+VWHF,VWHF,Western Health. Footscray Hospital Library.,VWEHE,1428
+VWHS,VWHS,Western Health. Sunshine Hospital Library.,VWEHE,1849
+NWES,NWES,Western Riverina Libraries. Griffith City Library.,,84174
 13482,,Western Sydney Local Health District.,,15456
 NAHL,NAHL,Western Sydney Local Health District. Auburn Hospital Library.,13482,0
 NBLH,NBLH,Western Sydney Local Health District. Blacktown-Mount Druitt Hospital Library - Peter Zelas Library Blacktown Hospital.,13482,2660
 NCUH,NCUH,"Western Sydney Local Health District. Mental Health Library, Cumberland Hospital.",13482,3946
 NMDH,NMDH,"Western Sydney Local Health District. Mt Druitt Hospital Library, Western Sydney Local Health District.",13482,1643
 NAMA,NAMA,Western Sydney Local Health District. Westmead Hospital Library.,13482,7207
-16915,,Western Sydney University.,,919836
+16915,,Western Sydney University.,,917470
 NUWS:ADELTA,NUWS:ADELTA,Western Sydney University. Australian Directory of Electronic Literature and Text-based Art (ADELTA).,16915,263
 NUWS:B,NUWS:B,Western Sydney University. Bankstown Campus Library.,16915,19608
 NUWS:C,NUWS:C,Western Sydney University. Campbelltown Campus Library.,16915,92349
 NUWS:EC,NUWS:EC,Western Sydney University. Entwistle Collection.,16915,412
 NUWS:FTF,NUWS:FTF,Western Sydney University. From farms to freeways: Oral History Collection.,16915,166
-NUWS:H,NUWS:H,Western Sydney University. Hawkesbury Campus Library.,16915,154071
+NUWS:H,NUWS:H,Western Sydney University. Hawkesbury Campus Library.,16915,154006
 NUWS:D,NUWS:D,Western Sydney University. Library Depot.,16915,0
-NUWS,NUWS,Western Sydney University. Library.,16915,297833
-NUWS:IR,NUWS:IR,Western Sydney University. Library. Institutional Repository.,NUWS,67953
+NUWS,NUWS,Western Sydney University. Library.,16915,297978
+NUWS:IR,NUWS:IR,Western Sydney University. Library. Institutional Repository.,NUWS,68101
 NUWS:L,NUWS:L,Western Sydney University. Liverpool Campus Library.,16915,15004
 NUWS:N,NUWS:N,Western Sydney University. Nirimba Campus Library.,16915,20452
-NUWS:PC,NUWS:PC,Western Sydney University. Parramatta City Campus Library.,16915,629
-NUWS:P,NUWS:P,Western Sydney University. Parramatta South Campus Library.,16915,86850
-NUWS:W,NUWS:W,Western Sydney University. Penrith Campus Library.,16915,225578
+NUWS:PC,NUWS:PC,Western Sydney University. Parramatta City Campus Library.,16915,631
+NUWS:P,NUWS:P,Western Sydney University. Parramatta South Campus Library.,16915,84399
+NUWS:W,NUWS:W,Western Sydney University. Penrith Campus Library.,16915,225581
 NUWS:ANDS,NUWS:ANDS,Western Sydney University. Research Data via ANDS.,16915,271
 NUWS:M,NUWS:M,"Western Sydney University. Westmead Precinct, Library.",16915,0
 NUWS:G,NUWS:G,Western Sydney University. Whitlam Prime Ministerial Collection.,16915,6350
 WWES,WWES,Westonia Shire Council. Westonia Library.,,0
-VWMR,VWMR,Whitehorse Manningham Regional Library Corporation. Whitehorse Manningham Libraries.,,195297
+VWMR,VWMR,Whitehorse Manningham Regional Library Corporation. Whitehorse Manningham Libraries.,,195482
 QWAS,QWAS,Whitsunday Anglican School.,,0
 15559,,Whitsunday Regional Council.,,2093
 QBL,QBL,Whitsunday Regional Council. Bowen Library.,15559,2093
 3875,,Whitsunday Regional Council. Bowen Library. Collinsville Branch Library.,QBL,0
 QWSC,QWSC,Whitsunday Regional Council. Whitsunday Regional Libraries.,15559,0
 7255,,Whitsunday Regional Council. Whitsunday Regional Libraries. Beach Library.,QWSC,0
-SWHY,SWHY,Whyalla Library Service. Whyalla Public Library.,,32586
+SWHY,SWHY,Whyalla Library Service. Whyalla Public Library.,,32605
 VWAG,VWAG,William Angliss Institute. William Angliss Learning Resource Centre.,,1813
 NWILC,NWILC,William Clarke College.,,0
 10237,,Willoughby City Library.,,9188
@@ -2602,12 +2607,12 @@ NWML,NWML,Willoughby City Library. Chatswood Central Library.,10237,100
 NWML:PC,NWML:PC,Willoughby City Library. Picture Willoughby.,10237,9088
 329937,,Willoughby City Library. West Chatswood Library.,10237,0
 WWNA,WWNA,Wiluna Shire Council. Wiluna Library and Information Service.,,0
-VWIM,VWIM,Wimmera Libraries. Horsham Libraries.,,46439
+VWIM,VWIM,Wimmera Libraries. Horsham Libraries.,,46417
 NWIC,NWIC,Wingecarribee Council. Wingecarribee Public Library.,,0
 7249,,Wingecarribee Council. Wingecarribee Public Library. Mittagong Library.,NWIC,0
 7248,,Wingecarribee Council. Wingecarribee Public Library. Moss Vale Library.,NWIC,0
-VWOOD,VWOOD,Wodonga Historical Society.,,1145
-NWOL,NWOL,Wollondilly Shire Council. Wollondilly Library.,,34445
+VWOOD,VWOOD,Wodonga Historical Society.,,1150
+NWOL,NWOL,Wollondilly Shire Council. Wollondilly Library.,,34487
 NWPL,NWPL,Wollongong City Council. Wollongong City Libraries.,,108453
 7343,,Wollongong City Council. Wollongong City Libraries. Corrimal District Library.,NWPL,0
 7345,,Wollongong City Council. Wollongong City Libraries. Dapto District Library.,NWPL,0
@@ -2619,25 +2624,25 @@ NWPL,NWPL,Wollongong City Council. Wollongong City Libraries.,,108453
 WKE,WKE,Women and Newborn Health Service. WNHS Medical Library.,,3844
 SWCH,SWCH,Women's  and Children's Health Network. WCHN Library.,,0
 WWDN,WWDN,Woodanilling Shire Council. Woodanilling Public Library.,,0
-10240,,Woollahra Library and Information Service.,,91309
-NWOOL,NWOOL,Woollahra Library and Information Service. Double Bay Central Library.,10240,59956
+10240,,Woollahra Library and Information Service.,,91172
+NWOOL,NWOOL,Woollahra Library and Information Service. Double Bay Central Library.,10240,59819
 NWOOL:P,NWOOL:P,Woollahra Library and Information Service. Local History Centre.,10240,31353
 8795,,Woollahra Library and Information Service. Paddington Library.,10240,0
 7307,,Woollahra Library and Information Service. Watsons Bay Library.,10240,0
-SWPL,SWPL,Woomera Area School. Woomera Community Library.,,6112
+SWPL,SWPL,Woomera Area School. Woomera Community Library.,,6147
 VVWA,VVWA,WorkSafe Victoria.,,3480
-SKSCL,SKSCL,Wudinna and Karcultaby School Community Libraries. Karcultaby School Community Library.,,15509
+SKSCL,SKSCL,Wudinna and Karcultaby School Community Libraries. Karcultaby School Community Library.,,15539
 WWYA,WWYA,Wyalkatchem Shire Council. Wyalkatchem Library.,,0
-VWYN,VWYN,Wyndham City Council Library Service. Wyndham City Libraries.,,89827
+VWYN,VWYN,Wyndham City Council Library Service. Wyndham City Libraries.,,90006
 VXC,VXC,Xavier College. Brennan Library.,,55
-SYCL,SYCL,Yankalilla School Community Library.,,12794
-VYML,VYML,Yarra Libraries.,,80474
+SYCL,SYCL,Yankalilla School Community Library.,,12825
+VYML,VYML,Yarra Libraries.,,80266
 220439,,Yarra Libraries. Carlton Library.,VYML,0
 4381,,Yarra Libraries. Collingwood Library.,VYML,0
 7570,,Yarra Libraries. Fitzroy Library.,VYML,0
 7572,,Yarra Libraries. North Fitzroy Library.,VYML,0
 4201,,Yarra Libraries. Richmond Library.,VYML,2
-VHEI,VHEI,Yarra Plenty Regional Library.,,142595
+VHEI,VHEI,Yarra Plenty Regional Library.,,142706
 6801,,Yarra Plenty Regional Library. Diamond Valley Library.,VHEI,0
 6803,,Yarra Plenty Regional Library. Eltham Library.,VHEI,0
 6808,,Yarra Plenty Regional Library. Ivanhoe Library & Cultural Hub.,VHEI,0
@@ -2647,13 +2652,13 @@ VHEI,VHEI,Yarra Plenty Regional Library.,,142595
 6809,,Yarra Plenty Regional Library. Rosanna Library.,VHEI,0
 6807,,Yarra Plenty Regional Library. Thomastown Library.,VHEI,0
 6806,,Yarra Plenty Regional Library. Watsonia Library.,VHEI,0
-VYRRM,VYRRM,Yarra Ranges Regional Museum.,,12450
+VYRRM,VYRRM,Yarra Ranges Regional Museum.,,12481
 VYVG,VYVG,Yarra Valley Grammar .,,0
 VYMHS,VYMHS,Yarrawonga & Mulwala Historical Society.,,441
-VYAR,VYAR,Yarriambiack Libraries.,,12572
-NYVL,NYVL,Yass Valley Library Service.,,15143
-SMSC,SMSC,Yorke Peninsula Libraries. Minlaton Community School Library.,,46793
-VEAR,VEAR,Your Library Limited.,,115432
+VYAR,VYAR,Yarriambiack Libraries.,,12570
+NYVL,NYVL,Yass Valley Library Service.,,15205
+SMSC,SMSC,Yorke Peninsula Libraries. Minlaton Community School Library.,,46832
+VEAR,VEAR,Your Library Limited.,,115406
 333998,,Your Library Limited. Bayswater Library.,VEAR,0
 6832,,Your Library Limited. Belgrave Library.,VEAR,0
 6816,,Your Library Limited. Boronia Library.,VEAR,0
