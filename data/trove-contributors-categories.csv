@@ -17,12 +17,12 @@ ADFA,"Academy Library, UNSW Canberra.","Images, Maps & Artefacts",image,2907
 ADFA,"Academy Library, UNSW Canberra.",Magazines & Newsletters,magazine,5
 ADFA,"Academy Library, UNSW Canberra.","Music, Audio & Video",music,17385
 ADFA,"Academy Library, UNSW Canberra.",Research & Reports,research,25341
-ACT,ACT Legislative Assembly Library.,Books & Libraries,book,6810
+ACT,ACT Legislative Assembly Library.,Books & Libraries,book,6811
 ACT,ACT Legislative Assembly Library.,"Diaries, Letters & Archives",diary,19
 ACT,ACT Legislative Assembly Library.,"Images, Maps & Artefacts",image,29
 ACT,ACT Legislative Assembly Library.,Magazines & Newsletters,magazine,5
 ACT,ACT Legislative Assembly Library.,"Music, Audio & Video",music,251
-ACT,ACT Legislative Assembly Library.,Research & Reports,research,9992
+ACT,ACT Legislative Assembly Library.,Research & Reports,research,9991
 SACC,Adelaide City Libraries. Adelaide City Libraries - City Library.,Books & Libraries,book,70990
 SACC,Adelaide City Libraries. Adelaide City Libraries - City Library.,"Diaries, Letters & Archives",diary,91
 SACC,Adelaide City Libraries. Adelaide City Libraries - City Library.,"Images, Maps & Artefacts",image,6071
@@ -275,7 +275,7 @@ VSPC,Association of Franciscan Order of Friars Minor. St Paschal Library.,"Image
 VSPC,Association of Franciscan Order of Friars Minor. St Paschal Library.,Magazines & Newsletters,magazine,0
 VSPC,Association of Franciscan Order of Friars Minor. St Paschal Library.,"Music, Audio & Video",music,1335
 VSPC,Association of Franciscan Order of Friars Minor. St Paschal Library.,Research & Reports,research,1593
-AAGD,Attorney General's Department.,Books & Libraries,book,13877
+AAGD,Attorney General's Department.,Books & Libraries,book,13878
 AAGD,Attorney General's Department.,"Diaries, Letters & Archives",diary,31
 AAGD,Attorney General's Department.,"Images, Maps & Artefacts",image,53
 AAGD,Attorney General's Department.,Magazines & Newsletters,magazine,1
@@ -653,7 +653,7 @@ AIAS:AV,Australian Institute of Aboriginal and Torres Strait Islander Studies. A
 AIAS:AV,Australian Institute of Aboriginal and Torres Strait Islander Studies. Audiovisual Collections.,Magazines & Newsletters,magazine,0
 AIAS:AV,Australian Institute of Aboriginal and Torres Strait Islander Studies. Audiovisual Collections.,"Music, Audio & Video",music,0
 AIAS:AV,Australian Institute of Aboriginal and Torres Strait Islander Studies. Audiovisual Collections.,Research & Reports,research,0
-AIC,Australian Institute of Criminology. JV Barry Library.,Books & Libraries,book,22480
+AIC,Australian Institute of Criminology. JV Barry Library.,Books & Libraries,book,22481
 AIC,Australian Institute of Criminology. JV Barry Library.,"Diaries, Letters & Archives",diary,34
 AIC,Australian Institute of Criminology. JV Barry Library.,"Images, Maps & Artefacts",image,20
 AIC,Australian Institute of Criminology. JV Barry Library.,Magazines & Newsletters,magazine,2
@@ -845,12 +845,12 @@ ANU:ADBO,Australian National University. Australian Dictionary of Biography Onli
 ANU:ADBO,Australian National University. Australian Dictionary of Biography Online.,Magazines & Newsletters,magazine,0
 ANU:ADBO,Australian National University. Australian Dictionary of Biography Online.,"Music, Audio & Video",music,0
 ANU:ADBO,Australian National University. Australian Dictionary of Biography Online.,Research & Reports,research,0
-ANU,Australian National University. Australian National University Library.,Books & Libraries,book,1030844
+ANU,Australian National University. Australian National University Library.,Books & Libraries,book,1030845
 ANU,Australian National University. Australian National University Library.,"Diaries, Letters & Archives",diary,1399
 ANU,Australian National University. Australian National University Library.,"Images, Maps & Artefacts",image,2409
 ANU,Australian National University. Australian National University Library.,Magazines & Newsletters,magazine,16
 ANU,Australian National University. Australian National University Library.,"Music, Audio & Video",music,27646
-ANU,Australian National University. Australian National University Library.,Research & Reports,research,99100
+ANU,Australian National University. Australian National University Library.,Research & Reports,research,99099
 ANU:MS,Australian National University. Australian National University Library. Astronomy Branch Library.,Books & Libraries,book,0
 ANU:MS,Australian National University. Australian National University Library. Astronomy Branch Library.,"Diaries, Letters & Archives",diary,0
 ANU:MS,Australian National University. Australian National University Library. Astronomy Branch Library.,"Images, Maps & Artefacts",image,0
@@ -1235,24 +1235,12 @@ QBAN,Banana Shire Library & Information Service.,Research & Reports,research,0
 ,Banana Shire Library & Information Service. Theodore Library.,Magazines & Newsletters,magazine,0
 ,Banana Shire Library & Information Service. Theodore Library.,"Music, Audio & Video",music,0
 ,Banana Shire Library & Information Service. Theodore Library.,Research & Reports,research,0
-QPQ:BAN,Banana Shire Library.,Books & Libraries,book,0
-QPQ:BAN,Banana Shire Library.,"Diaries, Letters & Archives",diary,0
-QPQ:BAN,Banana Shire Library.,"Images, Maps & Artefacts",image,99
-QPQ:BAN,Banana Shire Library.,Magazines & Newsletters,magazine,0
-QPQ:BAN,Banana Shire Library.,"Music, Audio & Video",music,0
-QPQ:BAN,Banana Shire Library.,Research & Reports,research,0
 VU:W,Baptist Theological College of Victoria. Whitley College Library.,Books & Libraries,book,24222
 VU:W,Baptist Theological College of Victoria. Whitley College Library.,"Diaries, Letters & Archives",diary,146
 VU:W,Baptist Theological College of Victoria. Whitley College Library.,"Images, Maps & Artefacts",image,37
 VU:W,Baptist Theological College of Victoria. Whitley College Library.,Magazines & Newsletters,magazine,0
 VU:W,Baptist Theological College of Victoria. Whitley College Library.,"Music, Audio & Video",music,787
 VU:W,Baptist Theological College of Victoria. Whitley College Library.,Research & Reports,research,653
-QPQ:BRCL,Barcaldine Regional Council Library.,Books & Libraries,book,0
-QPQ:BRCL,Barcaldine Regional Council Library.,"Diaries, Letters & Archives",diary,0
-QPQ:BRCL,Barcaldine Regional Council Library.,"Images, Maps & Artefacts",image,98
-QPQ:BRCL,Barcaldine Regional Council Library.,Magazines & Newsletters,magazine,0
-QPQ:BRCL,Barcaldine Regional Council Library.,"Music, Audio & Video",music,0
-QPQ:BRCL,Barcaldine Regional Council Library.,Research & Reports,research,0
 QBRCL,Barcaldine Regional Council. Barcaldine Shire Council Library.,Books & Libraries,book,0
 QBRCL,Barcaldine Regional Council. Barcaldine Shire Council Library.,"Diaries, Letters & Archives",diary,0
 QBRCL,Barcaldine Regional Council. Barcaldine Shire Council Library.,"Images, Maps & Artefacts",image,0
@@ -1949,18 +1937,6 @@ QBUN,Bundaberg Regional Council. Bundaberg Regional Libraries. Bundaberg Library
 QBUN,Bundaberg Regional Council. Bundaberg Regional Libraries. Bundaberg Library.,Magazines & Newsletters,magazine,0
 QBUN,Bundaberg Regional Council. Bundaberg Regional Libraries. Bundaberg Library.,"Music, Audio & Video",music,0
 QBUN,Bundaberg Regional Council. Bundaberg Regional Libraries. Bundaberg Library.,Research & Reports,research,0
-QPQ:BUN,Bundaberg Regional Libraries.,Books & Libraries,book,0
-QPQ:BUN,Bundaberg Regional Libraries.,"Diaries, Letters & Archives",diary,0
-QPQ:BUN,Bundaberg Regional Libraries.,"Images, Maps & Artefacts",image,105
-QPQ:BUN,Bundaberg Regional Libraries.,Magazines & Newsletters,magazine,0
-QPQ:BUN,Bundaberg Regional Libraries.,"Music, Audio & Video",music,0
-QPQ:BUN,Bundaberg Regional Libraries.,Research & Reports,research,0
-QPQ:AYR,Burdekin Libraries.,Books & Libraries,book,0
-QPQ:AYR,Burdekin Libraries.,"Diaries, Letters & Archives",diary,0
-QPQ:AYR,Burdekin Libraries.,"Images, Maps & Artefacts",image,368
-QPQ:AYR,Burdekin Libraries.,Magazines & Newsletters,magazine,0
-QPQ:AYR,Burdekin Libraries.,"Music, Audio & Video",music,0
-QPQ:AYR,Burdekin Libraries.,Research & Reports,research,0
 ,Bureau of Meteorology.,Books & Libraries,book,0
 ,Bureau of Meteorology.,"Diaries, Letters & Archives",diary,0
 ,Bureau of Meteorology.,"Images, Maps & Artefacts",image,0
@@ -1973,54 +1949,18 @@ QPQ:AYR,Burdekin Libraries.,Research & Reports,research,0
 ,Bureau of Meteorology. ACT Met Office Library.,Magazines & Newsletters,magazine,0
 ,Bureau of Meteorology. ACT Met Office Library.,"Music, Audio & Video",music,0
 ,Bureau of Meteorology. ACT Met Office Library.,Research & Reports,research,0
-,Bureau of Meteorology. NSW Regional Office Library.,Books & Libraries,book,0
-,Bureau of Meteorology. NSW Regional Office Library.,"Diaries, Letters & Archives",diary,0
-,Bureau of Meteorology. NSW Regional Office Library.,"Images, Maps & Artefacts",image,0
-,Bureau of Meteorology. NSW Regional Office Library.,Magazines & Newsletters,magazine,0
-,Bureau of Meteorology. NSW Regional Office Library.,"Music, Audio & Video",music,0
-,Bureau of Meteorology. NSW Regional Office Library.,Research & Reports,research,0
 VCMB,Bureau of Meteorology. National Meteorological Library.,Books & Libraries,book,18020
 VCMB,Bureau of Meteorology. National Meteorological Library.,"Diaries, Letters & Archives",diary,27
 VCMB,Bureau of Meteorology. National Meteorological Library.,"Images, Maps & Artefacts",image,221
 VCMB,Bureau of Meteorology. National Meteorological Library.,Magazines & Newsletters,magazine,2
 VCMB,Bureau of Meteorology. National Meteorological Library.,"Music, Audio & Video",music,376
 VCMB,Bureau of Meteorology. National Meteorological Library.,Research & Reports,research,14265
-,Bureau of Meteorology. Northern Territory Regional Office Library.,Books & Libraries,book,0
-,Bureau of Meteorology. Northern Territory Regional Office Library.,"Diaries, Letters & Archives",diary,0
-,Bureau of Meteorology. Northern Territory Regional Office Library.,"Images, Maps & Artefacts",image,0
-,Bureau of Meteorology. Northern Territory Regional Office Library.,Magazines & Newsletters,magazine,0
-,Bureau of Meteorology. Northern Territory Regional Office Library.,"Music, Audio & Video",music,0
-,Bureau of Meteorology. Northern Territory Regional Office Library.,Research & Reports,research,0
-,Bureau of Meteorology. Queensland Regional Office Library.,Books & Libraries,book,0
-,Bureau of Meteorology. Queensland Regional Office Library.,"Diaries, Letters & Archives",diary,0
-,Bureau of Meteorology. Queensland Regional Office Library.,"Images, Maps & Artefacts",image,0
-,Bureau of Meteorology. Queensland Regional Office Library.,Magazines & Newsletters,magazine,0
-,Bureau of Meteorology. Queensland Regional Office Library.,"Music, Audio & Video",music,0
-,Bureau of Meteorology. Queensland Regional Office Library.,Research & Reports,research,0
 VCMB:ANDS,Bureau of Meteorology. Research Data via ANDS.,Books & Libraries,book,0
 VCMB:ANDS,Bureau of Meteorology. Research Data via ANDS.,"Diaries, Letters & Archives",diary,0
 VCMB:ANDS,Bureau of Meteorology. Research Data via ANDS.,"Images, Maps & Artefacts",image,0
 VCMB:ANDS,Bureau of Meteorology. Research Data via ANDS.,Magazines & Newsletters,magazine,0
 VCMB:ANDS,Bureau of Meteorology. Research Data via ANDS.,"Music, Audio & Video",music,0
 VCMB:ANDS,Bureau of Meteorology. Research Data via ANDS.,Research & Reports,research,34
-,Bureau of Meteorology. South Australian Regional Office Library.,Books & Libraries,book,0
-,Bureau of Meteorology. South Australian Regional Office Library.,"Diaries, Letters & Archives",diary,0
-,Bureau of Meteorology. South Australian Regional Office Library.,"Images, Maps & Artefacts",image,0
-,Bureau of Meteorology. South Australian Regional Office Library.,Magazines & Newsletters,magazine,0
-,Bureau of Meteorology. South Australian Regional Office Library.,"Music, Audio & Video",music,0
-,Bureau of Meteorology. South Australian Regional Office Library.,Research & Reports,research,0
-,Bureau of Meteorology. Tasmania and Antarctica Regional Office Library.,Books & Libraries,book,0
-,Bureau of Meteorology. Tasmania and Antarctica Regional Office Library.,"Diaries, Letters & Archives",diary,0
-,Bureau of Meteorology. Tasmania and Antarctica Regional Office Library.,"Images, Maps & Artefacts",image,0
-,Bureau of Meteorology. Tasmania and Antarctica Regional Office Library.,Magazines & Newsletters,magazine,0
-,Bureau of Meteorology. Tasmania and Antarctica Regional Office Library.,"Music, Audio & Video",music,0
-,Bureau of Meteorology. Tasmania and Antarctica Regional Office Library.,Research & Reports,research,0
-,Bureau of Meteorology. Western Australia Regional Office Library.,Books & Libraries,book,0
-,Bureau of Meteorology. Western Australia Regional Office Library.,"Diaries, Letters & Archives",diary,0
-,Bureau of Meteorology. Western Australia Regional Office Library.,"Images, Maps & Artefacts",image,0
-,Bureau of Meteorology. Western Australia Regional Office Library.,Magazines & Newsletters,magazine,0
-,Bureau of Meteorology. Western Australia Regional Office Library.,"Music, Audio & Video",music,0
-,Bureau of Meteorology. Western Australia Regional Office Library.,Research & Reports,research,0
 SB,Burleigh College. Burleigh Collection at Tabor Adelaide Library.,Books & Libraries,book,1
 SB,Burleigh College. Burleigh Collection at Tabor Adelaide Library.,"Diaries, Letters & Archives",diary,0
 SB,Burleigh College. Burleigh Collection at Tabor Adelaide Library.,"Images, Maps & Artefacts",image,0
@@ -2045,12 +1985,6 @@ QRH:C,Caboolture Hospital Library.,"Images, Maps & Artefacts",image,6
 QRH:C,Caboolture Hospital Library.,Magazines & Newsletters,magazine,0
 QRH:C,Caboolture Hospital Library.,"Music, Audio & Video",music,38
 QRH:C,Caboolture Hospital Library.,Research & Reports,research,66
-QPQ:CCL,Cairns Libraries.,Books & Libraries,book,0
-QPQ:CCL,Cairns Libraries.,"Diaries, Letters & Archives",diary,0
-QPQ:CCL,Cairns Libraries.,"Images, Maps & Artefacts",image,101
-QPQ:CCL,Cairns Libraries.,Magazines & Newsletters,magazine,0
-QPQ:CCL,Cairns Libraries.,"Music, Audio & Video",music,0
-QPQ:CCL,Cairns Libraries.,Research & Reports,research,0
 QCCL,Cairns Regional Council: Cairns Libraries.,Books & Libraries,book,69555
 QCCL,Cairns Regional Council: Cairns Libraries.,"Diaries, Letters & Archives",diary,171
 QCCL,Cairns Regional Council: Cairns Libraries.,"Images, Maps & Artefacts",image,471
@@ -2957,7 +2891,7 @@ NCSU:A,Charles Sturt University. Albury-Wodonga Campus Library.,"Images, Maps & 
 NCSU:A,Charles Sturt University. Albury-Wodonga Campus Library.,Magazines & Newsletters,magazine,5
 NCSU:A,Charles Sturt University. Albury-Wodonga Campus Library.,"Music, Audio & Video",music,2495
 NCSU:A,Charles Sturt University. Albury-Wodonga Campus Library.,Research & Reports,research,7401
-NCSU:B,Charles Sturt University. Bathurst Campus Library.,Books & Libraries,book,165179
+NCSU:B,Charles Sturt University. Bathurst Campus Library.,Books & Libraries,book,165180
 NCSU:B,Charles Sturt University. Bathurst Campus Library.,"Diaries, Letters & Archives",diary,459
 NCSU:B,Charles Sturt University. Bathurst Campus Library.,"Images, Maps & Artefacts",image,463
 NCSU:B,Charles Sturt University. Bathurst Campus Library.,Magazines & Newsletters,magazine,1
@@ -3319,10 +3253,10 @@ WFRE,City of Fremantle: Fremantle Library.,"Music, Audio & Video",music,0
 WFRE,City of Fremantle: Fremantle Library.,Research & Reports,research,0
 QGCCL,City of Gold Coast Libraries.,Books & Libraries,book,137026
 QGCCL,City of Gold Coast Libraries.,"Diaries, Letters & Archives",diary,260
-QGCCL,City of Gold Coast Libraries.,"Images, Maps & Artefacts",image,1548
+QGCCL,City of Gold Coast Libraries.,"Images, Maps & Artefacts",image,1549
 QGCCL,City of Gold Coast Libraries.,Magazines & Newsletters,magazine,0
 QGCCL,City of Gold Coast Libraries.,"Music, Audio & Video",music,61709
-QGCCL,City of Gold Coast Libraries.,Research & Reports,research,1869
+QGCCL,City of Gold Coast Libraries.,Research & Reports,research,1870
 ,City of Gold Coast Libraries. Broadbeach Library.,Books & Libraries,book,0
 ,City of Gold Coast Libraries. Broadbeach Library.,"Diaries, Letters & Archives",diary,0
 ,City of Gold Coast Libraries. Broadbeach Library.,"Images, Maps & Artefacts",image,0
@@ -3767,7 +3701,7 @@ SPAL,City of PAE Libraries.,Research & Reports,research,1523
 ,City of PAE Libraries. The Parks Library.,Magazines & Newsletters,magazine,0
 ,City of PAE Libraries. The Parks Library.,"Music, Audio & Video",music,0
 ,City of PAE Libraries. The Parks Library.,Research & Reports,research,0
-XPALM,City of Palmerston. Palmerston Library.,Books & Libraries,book,101768
+XPALM,City of Palmerston. Palmerston Library.,Books & Libraries,book,101769
 XPALM,City of Palmerston. Palmerston Library.,"Diaries, Letters & Archives",diary,114
 XPALM,City of Palmerston. Palmerston Library.,"Images, Maps & Artefacts",image,206
 XPALM,City of Palmerston. Palmerston Library.,Magazines & Newsletters,magazine,0
@@ -4313,6 +4247,18 @@ VS:PUB,CSIRO Publishing. scienceimage.,Research & Reports,research,0
 ,CSIRO.,Magazines & Newsletters,magazine,0
 ,CSIRO.,"Music, Audio & Video",music,0
 ,CSIRO.,Research & Reports,research,0
+,CSIRO. AuScope,Books & Libraries,book,0
+,CSIRO. AuScope,"Diaries, Letters & Archives",diary,0
+,CSIRO. AuScope,"Images, Maps & Artefacts",image,0
+,CSIRO. AuScope,Magazines & Newsletters,magazine,0
+,CSIRO. AuScope,"Music, Audio & Video",music,0
+,CSIRO. AuScope,Research & Reports,research,0
+WS:ANDS,CSIRO. AuScope Research Data via ANDS.,Books & Libraries,book,0
+WS:ANDS,CSIRO. AuScope Research Data via ANDS.,"Diaries, Letters & Archives",diary,0
+WS:ANDS,CSIRO. AuScope Research Data via ANDS.,"Images, Maps & Artefacts",image,0
+WS:ANDS,CSIRO. AuScope Research Data via ANDS.,Magazines & Newsletters,magazine,0
+WS:ANDS,CSIRO. AuScope Research Data via ANDS.,"Music, Audio & Video",music,0
+WS:ANDS,CSIRO. AuScope Research Data via ANDS.,Research & Reports,research,0
 AS:PE,CSIRO. Black Mountain Library.,Books & Libraries,book,162438
 AS:PE,CSIRO. Black Mountain Library.,"Diaries, Letters & Archives",diary,242
 AS:PE,CSIRO. Black Mountain Library.,"Images, Maps & Artefacts",image,1200
@@ -4427,7 +4373,7 @@ NHOL,Cumberland Council. Cumberland City Council Library Service.,Research & Rep
 ,Curtin University.,Magazines & Newsletters,magazine,0
 ,Curtin University.,"Music, Audio & Video",music,0
 ,Curtin University.,Research & Reports,research,0
-WCU,Curtin University. Curtin University Library.,Books & Libraries,book,248217
+WCU,Curtin University. Curtin University Library.,Books & Libraries,book,248218
 WCU,Curtin University. Curtin University Library.,"Diaries, Letters & Archives",diary,25349
 WCU,Curtin University. Curtin University Library.,"Images, Maps & Artefacts",image,2331
 WCU,Curtin University. Curtin University Library.,Magazines & Newsletters,magazine,5
@@ -4481,7 +4427,7 @@ QTDD,Darling Downs Health Service District. Darling Downs Health Library.,Resear
 ,Deakin University.,Magazines & Newsletters,magazine,0
 ,Deakin University.,"Music, Audio & Video",music,0
 ,Deakin University.,Research & Reports,research,0
-VDU,Deakin University. Deakin University Library.,Books & Libraries,book,414392
+VDU,Deakin University. Deakin University Library.,Books & Libraries,book,414393
 VDU,Deakin University. Deakin University Library.,"Diaries, Letters & Archives",diary,2273
 VDU,Deakin University. Deakin University Library.,"Images, Maps & Artefacts",image,3426
 VDU,Deakin University. Deakin University Library.,Magazines & Newsletters,magazine,27
@@ -4715,7 +4661,7 @@ ACSH,Department of Health and Aged Care (Australia). Health Library.,Research & 
 ,Department of Home Affairs.,Magazines & Newsletters,magazine,0
 ,Department of Home Affairs.,"Music, Audio & Video",music,0
 ,Department of Home Affairs.,Research & Reports,research,0
-AIEA,Department of Home Affairs. Department of Home Affairs Library.,Books & Libraries,book,6073
+AIEA,Department of Home Affairs. Department of Home Affairs Library.,Books & Libraries,book,6074
 AIEA,Department of Home Affairs. Department of Home Affairs Library.,"Diaries, Letters & Archives",diary,43
 AIEA,Department of Home Affairs. Department of Home Affairs Library.,"Images, Maps & Artefacts",image,69
 AIEA,Department of Home Affairs. Department of Home Affairs Library.,Magazines & Newsletters,magazine,2
@@ -4829,7 +4775,7 @@ AVAD,Department of Veterans' Affairs. Department of Veterans' Affairs Library.,"
 AVAD,Department of Veterans' Affairs. Department of Veterans' Affairs Library.,Magazines & Newsletters,magazine,1
 AVAD,Department of Veterans' Affairs. Department of Veterans' Affairs Library.,"Music, Audio & Video",music,0
 AVAD,Department of Veterans' Affairs. Department of Veterans' Affairs Library.,Research & Reports,research,38
-ASSD,Dept. of Social Services. Library Services.,Books & Libraries,book,16847
+ASSD,Dept. of Social Services. Library Services.,Books & Libraries,book,16848
 ASSD,Dept. of Social Services. Library Services.,"Diaries, Letters & Archives",diary,47
 ASSD,Dept. of Social Services. Library Services.,"Images, Maps & Artefacts",image,100
 ASSD,Dept. of Social Services. Library Services.,Magazines & Newsletters,magazine,5
@@ -5501,13 +5447,7 @@ VFRK,Frankston Library Service. Frankston City Libraries .,"Images, Maps & Artef
 VFRK,Frankston Library Service. Frankston City Libraries .,Magazines & Newsletters,magazine,0
 VFRK,Frankston Library Service. Frankston City Libraries .,"Music, Audio & Video",music,52022
 VFRK,Frankston Library Service. Frankston City Libraries .,Research & Reports,research,1671
-QPQ:FCL,Fraser Coast Libraries.,Books & Libraries,book,0
-QPQ:FCL,Fraser Coast Libraries.,"Diaries, Letters & Archives",diary,0
-QPQ:FCL,Fraser Coast Libraries.,"Images, Maps & Artefacts",image,301
-QPQ:FCL,Fraser Coast Libraries.,Magazines & Newsletters,magazine,0
-QPQ:FCL,Fraser Coast Libraries.,"Music, Audio & Video",music,0
-QPQ:FCL,Fraser Coast Libraries.,Research & Reports,research,0
-QMAR,Fraser Coast Regional Libraries.,Books & Libraries,book,106378
+QMAR,Fraser Coast Regional Libraries.,Books & Libraries,book,106379
 QMAR,Fraser Coast Regional Libraries.,"Diaries, Letters & Archives",diary,261
 QMAR,Fraser Coast Regional Libraries.,"Images, Maps & Artefacts",image,600
 QMAR,Fraser Coast Regional Libraries.,Magazines & Newsletters,magazine,0
@@ -5609,7 +5549,7 @@ QGENC,Genesis Christian College.,Research & Reports,research,0
 ,Georges River Council.,Magazines & Newsletters,magazine,0
 ,Georges River Council.,"Music, Audio & Video",music,0
 ,Georges River Council.,Research & Reports,research,0
-NHUR,Georges River Council. Hurstville Library and Service Centre.,Books & Libraries,book,76470
+NHUR,Georges River Council. Hurstville Library and Service Centre.,Books & Libraries,book,76471
 NHUR,Georges River Council. Hurstville Library and Service Centre.,"Diaries, Letters & Archives",diary,177
 NHUR,Georges River Council. Hurstville Library and Service Centre.,"Images, Maps & Artefacts",image,4398
 NHUR,Georges River Council. Hurstville Library and Service Centre.,Magazines & Newsletters,magazine,0
@@ -5687,7 +5627,7 @@ VGEHS,Glen Eira Historical Society.,"Images, Maps & Artefacts",image,1428
 VGEHS,Glen Eira Historical Society.,Magazines & Newsletters,magazine,0
 VGEHS,Glen Eira Historical Society.,"Music, Audio & Video",music,0
 VGEHS,Glen Eira Historical Society.,Research & Reports,research,0
-VCAU,Glen Eira Libraries. Carnegie Library and Community Centre .,Books & Libraries,book,109538
+VCAU,Glen Eira Libraries. Carnegie Library and Community Centre .,Books & Libraries,book,109539
 VCAU,Glen Eira Libraries. Carnegie Library and Community Centre .,"Diaries, Letters & Archives",diary,292
 VCAU,Glen Eira Libraries. Carnegie Library and Community Centre .,"Images, Maps & Artefacts",image,431
 VCAU,Glen Eira Libraries. Carnegie Library and Community Centre .,Magazines & Newsletters,magazine,0
@@ -5921,12 +5861,6 @@ QGU:OJS,Griffith University. ePress.,"Images, Maps & Artefacts",image,0
 QGU:OJS,Griffith University. ePress.,Magazines & Newsletters,magazine,0
 QGU:OJS,Griffith University. ePress.,"Music, Audio & Video",music,0
 QGU:OJS,Griffith University. ePress.,Research & Reports,research,0
-QPQ:COO,Gympie Regional Libraries.,Books & Libraries,book,0
-QPQ:COO,Gympie Regional Libraries.,"Diaries, Letters & Archives",diary,0
-QPQ:COO,Gympie Regional Libraries.,"Images, Maps & Artefacts",image,106
-QPQ:COO,Gympie Regional Libraries.,Magazines & Newsletters,magazine,0
-QPQ:COO,Gympie Regional Libraries.,"Music, Audio & Video",music,0
-QPQ:COO,Gympie Regional Libraries.,Research & Reports,research,0
 QCOO,Gympie Regional Libraries.,Books & Libraries,book,56997
 QCOO,Gympie Regional Libraries.,"Diaries, Letters & Archives",diary,138
 QCOO,Gympie Regional Libraries.,"Images, Maps & Artefacts",image,674
@@ -5982,7 +5916,7 @@ WHALE,Hale School.,Research & Reports,research,0
 ,Hale School. Hale School Senior Library.,"Music, Audio & Video",music,0
 ,Hale School. Hale School Senior Library.,Research & Reports,research,0
 YHATHI,Hathi Trust.,Books & Libraries,book,74332
-YHATHI,Hathi Trust.,"Diaries, Letters & Archives",diary,119
+YHATHI,Hathi Trust.,"Diaries, Letters & Archives",diary,120
 YHATHI,Hathi Trust.,"Images, Maps & Artefacts",image,149
 YHATHI,Hathi Trust.,Magazines & Newsletters,magazine,0
 YHATHI,Hathi Trust.,"Music, Audio & Video",music,835
@@ -6071,12 +6005,6 @@ QHILL,Hillbrook Anglican School.,"Images, Maps & Artefacts",image,0
 QHILL,Hillbrook Anglican School.,Magazines & Newsletters,magazine,0
 QHILL,Hillbrook Anglican School.,"Music, Audio & Video",music,0
 QHILL,Hillbrook Anglican School.,Research & Reports,research,0
-QPQ:HSLS,Hinchinbrook Shire Library Service.,Books & Libraries,book,0
-QPQ:HSLS,Hinchinbrook Shire Library Service.,"Diaries, Letters & Archives",diary,0
-QPQ:HSLS,Hinchinbrook Shire Library Service.,"Images, Maps & Artefacts",image,99
-QPQ:HSLS,Hinchinbrook Shire Library Service.,Magazines & Newsletters,magazine,0
-QPQ:HSLS,Hinchinbrook Shire Library Service.,"Music, Audio & Video",music,0
-QPQ:HSLS,Hinchinbrook Shire Library Service.,Research & Reports,research,0
 VHIND,Hindmarsh Shire Libraries.,Books & Libraries,book,11648
 VHIND,Hindmarsh Shire Libraries.,"Diaries, Letters & Archives",diary,53
 VHIND,Hindmarsh Shire Libraries.,"Images, Maps & Artefacts",image,58
@@ -6490,7 +6418,7 @@ QJCU,James Cook University. Eddie Koiki Mabo Library.,"Diaries, Letters & Archiv
 QJCU,James Cook University. Eddie Koiki Mabo Library.,"Images, Maps & Artefacts",image,1402
 QJCU,James Cook University. Eddie Koiki Mabo Library.,Magazines & Newsletters,magazine,15
 QJCU,James Cook University. Eddie Koiki Mabo Library.,"Music, Audio & Video",music,11221
-QJCU,James Cook University. Eddie Koiki Mabo Library.,Research & Reports,research,23749
+QJCU,James Cook University. Eddie Koiki Mabo Library.,Research & Reports,research,23748
 QJCU:IR,James Cook University. Eddie Koiki Mabo Library. Townsville Campus Library: Institutional Repository.,Books & Libraries,book,19076
 QJCU:IR,James Cook University. Eddie Koiki Mabo Library. Townsville Campus Library: Institutional Repository.,"Diaries, Letters & Archives",diary,155
 QJCU:IR,James Cook University. Eddie Koiki Mabo Library. Townsville Campus Library: Institutional Repository.,"Images, Maps & Artefacts",image,401
@@ -6593,6 +6521,12 @@ VKIC,Kardinia International College. Learning Resource Centre.,"Images, Maps & A
 VKIC,Kardinia International College. Learning Resource Centre.,Magazines & Newsletters,magazine,0
 VKIC,Kardinia International College. Learning Resource Centre.,"Music, Audio & Video",music,0
 VKIC,Kardinia International College. Learning Resource Centre.,Research & Reports,research,0
+XKATR:KH,Katherine High School. Library Resource Centre.,Books & Libraries,book,12155
+XKATR:KH,Katherine High School. Library Resource Centre.,"Diaries, Letters & Archives",diary,78
+XKATR:KH,Katherine High School. Library Resource Centre.,"Images, Maps & Artefacts",image,118
+XKATR:KH,Katherine High School. Library Resource Centre.,Magazines & Newsletters,magazine,0
+XKATR:KH,Katherine High School. Library Resource Centre.,"Music, Audio & Video",music,3221
+XKATR:KH,Katherine High School. Library Resource Centre.,Research & Reports,research,664
 XKATH,Katherine Town Council. Katherine Public Library.,Books & Libraries,book,79451
 XKATH,Katherine Town Council. Katherine Public Library.,"Diaries, Letters & Archives",diary,96
 XKATH,Katherine Town Council. Katherine Public Library.,"Images, Maps & Artefacts",image,112
@@ -6821,8 +6755,8 @@ NKCHS,Kurrajong-Comleroy Historical Society Inc.,Research & Reports,research,0
 ,La Trobe University.,Magazines & Newsletters,magazine,0
 ,La Trobe University.,"Music, Audio & Video",music,0
 ,La Trobe University.,Research & Reports,research,0
-VLU,La Trobe University. La Trobe University Library.,Books & Libraries,book,1521785
-VLU,La Trobe University. La Trobe University Library.,"Diaries, Letters & Archives",diary,2604
+VLU,La Trobe University. La Trobe University Library.,Books & Libraries,book,1521786
+VLU,La Trobe University. La Trobe University Library.,"Diaries, Letters & Archives",diary,2605
 VLU,La Trobe University. La Trobe University Library.,"Images, Maps & Artefacts",image,8115
 VLU,La Trobe University. La Trobe University Library.,Magazines & Newsletters,magazine,38
 VLU,La Trobe University. La Trobe University Library.,"Music, Audio & Video",music,84892
@@ -6971,7 +6905,7 @@ SLCS,Leigh Creek School. Leigh Creek Community Library.,"Images, Maps & Artefact
 SLCS,Leigh Creek School. Leigh Creek Community Library.,Magazines & Newsletters,magazine,0
 SLCS,Leigh Creek School. Leigh Creek Community Library.,"Music, Audio & Video",music,4123
 SLCS,Leigh Creek School. Leigh Creek Community Library.,Research & Reports,research,449
-APLS,Libraries ACT.,Books & Libraries,book,547768
+APLS,Libraries ACT.,Books & Libraries,book,547769
 APLS,Libraries ACT.,"Diaries, Letters & Archives",diary,1871
 APLS,Libraries ACT.,"Images, Maps & Artefacts",image,3982
 APLS,Libraries ACT.,Magazines & Newsletters,magazine,19
@@ -7090,7 +7024,7 @@ XNLS,Library & Archives NT.,"Diaries, Letters & Archives",diary,1549
 XNLS,Library & Archives NT.,"Images, Maps & Artefacts",image,105414
 XNLS,Library & Archives NT.,Magazines & Newsletters,magazine,11
 XNLS,Library & Archives NT.,"Music, Audio & Video",music,13042
-XNLS,Library & Archives NT.,Research & Reports,research,40345
+XNLS,Library & Archives NT.,Research & Reports,research,40346
 XNLS:DL,Library & Archives NT. Digital LANT.,Books & Libraries,book,0
 XNLS:DL,Library & Archives NT. Digital LANT.,"Diaries, Letters & Archives",diary,0
 XNLS:DL,Library & Archives NT. Digital LANT.,"Images, Maps & Artefacts",image,0
@@ -7102,7 +7036,7 @@ XNLS:GC,Library & Archives NT. General Collection.,"Diaries, Letters & Archives"
 XNLS:GC,Library & Archives NT. General Collection.,"Images, Maps & Artefacts",image,270
 XNLS:GC,Library & Archives NT. General Collection.,Magazines & Newsletters,magazine,8
 XNLS:GC,Library & Archives NT. General Collection.,"Music, Audio & Video",music,2351
-XNLS:GC,Library & Archives NT. General Collection.,Research & Reports,research,20567
+XNLS:GC,Library & Archives NT. General Collection.,Research & Reports,research,20568
 XNLS:ED,Library & Archives NT. NT edeposit.,Books & Libraries,book,1
 XNLS:ED,Library & Archives NT. NT edeposit.,"Diaries, Letters & Archives",diary,0
 XNLS:ED,Library & Archives NT. NT edeposit.,"Images, Maps & Artefacts",image,0
@@ -7409,13 +7343,7 @@ NMAAS,Macarthur Anglican School.,"Images, Maps & Artefacts",image,0
 NMAAS,Macarthur Anglican School.,Magazines & Newsletters,magazine,0
 NMAAS,Macarthur Anglican School.,"Music, Audio & Video",music,0
 NMAAS,Macarthur Anglican School.,Research & Reports,research,0
-QPQ:MRCL,Mackay Regional Council Libraries.,Books & Libraries,book,0
-QPQ:MRCL,Mackay Regional Council Libraries.,"Diaries, Letters & Archives",diary,0
-QPQ:MRCL,Mackay Regional Council Libraries.,"Images, Maps & Artefacts",image,442
-QPQ:MRCL,Mackay Regional Council Libraries.,Magazines & Newsletters,magazine,0
-QPQ:MRCL,Mackay Regional Council Libraries.,"Music, Audio & Video",music,0
-QPQ:MRCL,Mackay Regional Council Libraries.,Research & Reports,research,0
-QMC,Mackay Regional Libraries. Mackay Regional Council Libraries.,Books & Libraries,book,81615
+QMC,Mackay Regional Libraries. Mackay Regional Council Libraries.,Books & Libraries,book,81616
 QMC,Mackay Regional Libraries. Mackay Regional Council Libraries.,"Diaries, Letters & Archives",diary,197
 QMC,Mackay Regional Libraries. Mackay Regional Council Libraries.,"Images, Maps & Artefacts",image,331
 QMC,Mackay Regional Libraries. Mackay Regional Council Libraries.,Magazines & Newsletters,magazine,0
@@ -7504,7 +7432,7 @@ NMQU,Macquarie University. Macquarie University Library.,"Diaries, Letters & Arc
 NMQU,Macquarie University. Macquarie University Library.,"Images, Maps & Artefacts",image,3627
 NMQU,Macquarie University. Macquarie University Library.,Magazines & Newsletters,magazine,12
 NMQU,Macquarie University. Macquarie University Library.,"Music, Audio & Video",music,32733
-NMQU,Macquarie University. Macquarie University Library.,Research & Reports,research,71124
+NMQU,Macquarie University. Macquarie University Library.,Research & Reports,research,71125
 NMQU:IR,Macquarie University. Macquarie University Library. Macquarie University Library: Institutional Repository.,Books & Libraries,book,10965
 NMQU:IR,Macquarie University. Macquarie University Library. Macquarie University Library: Institutional Repository.,"Diaries, Letters & Archives",diary,3
 NMQU:IR,Macquarie University. Macquarie University Library. Macquarie University Library: Institutional Repository.,"Images, Maps & Artefacts",image,518
@@ -7913,12 +7841,12 @@ NMRC,Mid-Western Regional Council Library.,Research & Reports,research,453
 ,MidCoast Council. Bulahdelah Branch Library.,Magazines & Newsletters,magazine,0
 ,MidCoast Council. Bulahdelah Branch Library.,"Music, Audio & Video",music,0
 ,MidCoast Council. Bulahdelah Branch Library.,Research & Reports,research,0
-NGLS,MidCoast Council. Forster Library (Central Library).,Books & Libraries,book,31190
+NGLS,MidCoast Council. Forster Library (Central Library).,Books & Libraries,book,31191
 NGLS,MidCoast Council. Forster Library (Central Library).,"Diaries, Letters & Archives",diary,82
 NGLS,MidCoast Council. Forster Library (Central Library).,"Images, Maps & Artefacts",image,2032
 NGLS,MidCoast Council. Forster Library (Central Library).,Magazines & Newsletters,magazine,0
 NGLS,MidCoast Council. Forster Library (Central Library).,"Music, Audio & Video",music,16351
-NGLS,MidCoast Council. Forster Library (Central Library).,Research & Reports,research,526
+NGLS,MidCoast Council. Forster Library (Central Library).,Research & Reports,research,527
 ,MidCoast Council. Gloucester Library.,Books & Libraries,book,0
 ,MidCoast Council. Gloucester Library.,"Diaries, Letters & Archives",diary,0
 ,MidCoast Council. Gloucester Library.,"Images, Maps & Artefacts",image,0
@@ -8087,7 +8015,7 @@ VMUA,Monash University Archives.,Research & Reports,research,0
 ,Monash University.,Magazines & Newsletters,magazine,0
 ,Monash University.,"Music, Audio & Video",music,0
 ,Monash University.,Research & Reports,research,0
-VMOU,Monash University. Monash University Library.,Books & Libraries,book,1288518
+VMOU,Monash University. Monash University Library.,Books & Libraries,book,1288519
 VMOU,Monash University. Monash University Library.,"Diaries, Letters & Archives",diary,2857
 VMOU,Monash University. Monash University Library.,"Images, Maps & Artefacts",image,5409
 VMOU,Monash University. Monash University Library.,Magazines & Newsletters,magazine,18
@@ -8201,12 +8129,12 @@ WMOOP,Moora Shire Council. Moora Public Library.,"Images, Maps & Artefacts",imag
 WMOOP,Moora Shire Council. Moora Public Library.,Magazines & Newsletters,magazine,0
 WMOOP,Moora Shire Council. Moora Public Library.,"Music, Audio & Video",music,0
 WMOOP,Moora Shire Council. Moora Public Library.,Research & Reports,research,0
-NMTC,Moore Theological College. Moore Theological College Library.,Books & Libraries,book,221015
-NMTC,Moore Theological College. Moore Theological College Library.,"Diaries, Letters & Archives",diary,663
+NMTC,Moore Theological College. Moore Theological College Library.,Books & Libraries,book,221020
+NMTC,Moore Theological College. Moore Theological College Library.,"Diaries, Letters & Archives",diary,664
 NMTC,Moore Theological College. Moore Theological College Library.,"Images, Maps & Artefacts",image,278
 NMTC,Moore Theological College. Moore Theological College Library.,Magazines & Newsletters,magazine,1
 NMTC,Moore Theological College. Moore Theological College Library.,"Music, Audio & Video",music,5854
-NMTC,Moore Theological College. Moore Theological College Library.,Research & Reports,research,6429
+NMTC,Moore Theological College. Moore Theological College Library.,Research & Reports,research,6428
 NMTC:SM,Moore Theological College. Moore Theological College Library. Samuel Marsden Archives.,Books & Libraries,book,0
 NMTC:SM,Moore Theological College. Moore Theological College Library. Samuel Marsden Archives.,"Diaries, Letters & Archives",diary,6001
 NMTC:SM,Moore Theological College. Moore Theological College Library. Samuel Marsden Archives.,"Images, Maps & Artefacts",image,89
@@ -8219,7 +8147,7 @@ QMBCW,Moreton Bay College.,"Images, Maps & Artefacts",image,0
 QMBCW,Moreton Bay College.,Magazines & Newsletters,magazine,0
 QMBCW,Moreton Bay College.,"Music, Audio & Video",music,0
 QMBCW,Moreton Bay College.,Research & Reports,research,0
-QMBC,Moreton Bay Region Libraries .,Books & Libraries,book,102515
+QMBC,Moreton Bay Region Libraries .,Books & Libraries,book,102516
 QMBC,Moreton Bay Region Libraries .,"Diaries, Letters & Archives",diary,286
 QMBC,Moreton Bay Region Libraries .,"Images, Maps & Artefacts",image,520
 QMBC,Moreton Bay Region Libraries .,Magazines & Newsletters,magazine,0
@@ -8333,12 +8261,6 @@ QMI,Mount Isa City Council. Mount Isa City Library.,"Images, Maps & Artefacts",i
 QMI,Mount Isa City Council. Mount Isa City Library.,Magazines & Newsletters,magazine,0
 QMI,Mount Isa City Council. Mount Isa City Library.,"Music, Audio & Video",music,0
 QMI,Mount Isa City Council. Mount Isa City Library.,Research & Reports,research,0
-QPQ:MI,Mount Isa City Library.,Books & Libraries,book,0
-QPQ:MI,Mount Isa City Library.,"Diaries, Letters & Archives",diary,0
-QPQ:MI,Mount Isa City Library.,"Images, Maps & Artefacts",image,83
-QPQ:MI,Mount Isa City Library.,Magazines & Newsletters,magazine,0
-QPQ:MI,Mount Isa City Library.,"Music, Audio & Video",music,0
-QPQ:MI,Mount Isa City Library.,Research & Reports,research,0
 WMOU,Mount Magnet Shire Council. Mount Magnet Public Library.,Books & Libraries,book,0
 WMOU,Mount Magnet Shire Council. Mount Magnet Public Library.,"Diaries, Letters & Archives",diary,0
 WMOU,Mount Magnet Shire Council. Mount Magnet Public Library.,"Images, Maps & Artefacts",image,0
@@ -8597,24 +8519,24 @@ QNSHS,Nambour State High School.,"Images, Maps & Artefacts",image,0
 QNSHS,Nambour State High School.,Magazines & Newsletters,magazine,0
 QNSHS,Nambour State High School.,"Music, Audio & Video",music,0
 QNSHS,Nambour State High School.,Research & Reports,research,0
-NNAM,Nambucca Shire Council.,Books & Libraries,book,1305
-NNAM,Nambucca Shire Council.,"Diaries, Letters & Archives",diary,3
-NNAM,Nambucca Shire Council.,"Images, Maps & Artefacts",image,5
-NNAM,Nambucca Shire Council.,Magazines & Newsletters,magazine,0
-NNAM,Nambucca Shire Council.,"Music, Audio & Video",music,615
-NNAM,Nambucca Shire Council.,Research & Reports,research,10
-,Nambucca Shire Council. Macksville Library.,Books & Libraries,book,0
-,Nambucca Shire Council. Macksville Library.,"Diaries, Letters & Archives",diary,0
-,Nambucca Shire Council. Macksville Library.,"Images, Maps & Artefacts",image,0
-,Nambucca Shire Council. Macksville Library.,Magazines & Newsletters,magazine,0
-,Nambucca Shire Council. Macksville Library.,"Music, Audio & Video",music,0
-,Nambucca Shire Council. Macksville Library.,Research & Reports,research,0
-,Nambucca Shire Council. Nambucca Heads Library.,Books & Libraries,book,0
-,Nambucca Shire Council. Nambucca Heads Library.,"Diaries, Letters & Archives",diary,0
-,Nambucca Shire Council. Nambucca Heads Library.,"Images, Maps & Artefacts",image,0
-,Nambucca Shire Council. Nambucca Heads Library.,Magazines & Newsletters,magazine,0
-,Nambucca Shire Council. Nambucca Heads Library.,"Music, Audio & Video",music,0
-,Nambucca Shire Council. Nambucca Heads Library.,Research & Reports,research,0
+NNAM,Nambucca Valley Council.,Books & Libraries,book,1305
+NNAM,Nambucca Valley Council.,"Diaries, Letters & Archives",diary,3
+NNAM,Nambucca Valley Council.,"Images, Maps & Artefacts",image,5
+NNAM,Nambucca Valley Council.,Magazines & Newsletters,magazine,0
+NNAM,Nambucca Valley Council.,"Music, Audio & Video",music,615
+NNAM,Nambucca Valley Council.,Research & Reports,research,10
+,Nambucca Valley Council. Macksville Library.,Books & Libraries,book,0
+,Nambucca Valley Council. Macksville Library.,"Diaries, Letters & Archives",diary,0
+,Nambucca Valley Council. Macksville Library.,"Images, Maps & Artefacts",image,0
+,Nambucca Valley Council. Macksville Library.,Magazines & Newsletters,magazine,0
+,Nambucca Valley Council. Macksville Library.,"Music, Audio & Video",music,0
+,Nambucca Valley Council. Macksville Library.,Research & Reports,research,0
+,Nambucca Valley Council. Nambucca Heads Library.,Books & Libraries,book,0
+,Nambucca Valley Council. Nambucca Heads Library.,"Diaries, Letters & Archives",diary,0
+,Nambucca Valley Council. Nambucca Heads Library.,"Images, Maps & Artefacts",image,0
+,Nambucca Valley Council. Nambucca Heads Library.,Magazines & Newsletters,magazine,0
+,Nambucca Valley Council. Nambucca Heads Library.,"Music, Audio & Video",music,0
+,Nambucca Valley Council. Nambucca Heads Library.,Research & Reports,research,0
 NNTI,Nan Tien Institute Library.,Books & Libraries,book,56
 NNTI,Nan Tien Institute Library.,"Diaries, Letters & Archives",diary,0
 NNTI,Nan Tien Institute Library.,"Images, Maps & Artefacts",image,0
@@ -8789,12 +8711,12 @@ ANL:AD,National Library of Australia - Resource Discovery Services. AustraliaDan
 ANL:AD,National Library of Australia - Resource Discovery Services. AustraliaDancing.,Magazines & Newsletters,magazine,0
 ANL:AD,National Library of Australia - Resource Discovery Services. AustraliaDancing.,"Music, Audio & Video",music,0
 ANL:AD,National Library of Australia - Resource Discovery Services. AustraliaDancing.,Research & Reports,research,0
-ANL,National Library of Australia.,Books & Libraries,book,3551428
+ANL,National Library of Australia.,Books & Libraries,book,3551432
 ANL,National Library of Australia.,"Diaries, Letters & Archives",diary,103257
-ANL,National Library of Australia.,"Images, Maps & Artefacts",image,362472
+ANL,National Library of Australia.,"Images, Maps & Artefacts",image,362471
 ANL,National Library of Australia.,Magazines & Newsletters,magazine,132
-ANL,National Library of Australia.,"Music, Audio & Video",music,207537
-ANL,National Library of Australia.,Research & Reports,research,925403
+ANL,National Library of Australia.,"Music, Audio & Video",music,207538
+ANL,National Library of Australia.,Research & Reports,research,925396
 ANL:AJA,National Library of Australia. Australian Journal of  Adoption.,Books & Libraries,book,174
 ANL:AJA,National Library of Australia. Australian Journal of  Adoption.,"Diaries, Letters & Archives",diary,0
 ANL:AJA,National Library of Australia. Australian Journal of  Adoption.,"Images, Maps & Artefacts",image,1
@@ -9485,7 +9407,7 @@ NDOH,"NSW Department of Communities & Justice, FACS Library.","Images, Maps & Ar
 NDOH,"NSW Department of Communities & Justice, FACS Library.",Magazines & Newsletters,magazine,0
 NDOH,"NSW Department of Communities & Justice, FACS Library.","Music, Audio & Video",music,86
 NDOH,"NSW Department of Communities & Justice, FACS Library.",Research & Reports,research,2846
-NAGLS,"NSW Department of Communities and Justice, Law Courts Library Services.",Books & Libraries,book,32619
+NAGLS,"NSW Department of Communities and Justice, Law Courts Library Services.",Books & Libraries,book,32620
 NAGLS,"NSW Department of Communities and Justice, Law Courts Library Services.","Diaries, Letters & Archives",diary,49
 NAGLS,"NSW Department of Communities and Justice, Law Courts Library Services.","Images, Maps & Artefacts",image,39
 NAGLS,"NSW Department of Communities and Justice, Law Courts Library Services.",Magazines & Newsletters,magazine,4
@@ -9611,6 +9533,12 @@ XDHM,NT Department of Health. Library Services.,Research & Reports,research,3526
 ,"NT Department of Industry, Tourism and Trade.",Magazines & Newsletters,magazine,0
 ,"NT Department of Industry, Tourism and Trade.","Music, Audio & Video",music,0
 ,"NT Department of Industry, Tourism and Trade.",Research & Reports,research,0
+,"NT Department of Industry, Tourism and Trade. Minerals and Energy InfoCentre - Alice Springs.",Books & Libraries,book,0
+,"NT Department of Industry, Tourism and Trade. Minerals and Energy InfoCentre - Alice Springs.","Diaries, Letters & Archives",diary,0
+,"NT Department of Industry, Tourism and Trade. Minerals and Energy InfoCentre - Alice Springs.","Images, Maps & Artefacts",image,0
+,"NT Department of Industry, Tourism and Trade. Minerals and Energy InfoCentre - Alice Springs.",Magazines & Newsletters,magazine,0
+,"NT Department of Industry, Tourism and Trade. Minerals and Energy InfoCentre - Alice Springs.","Music, Audio & Video",music,0
+,"NT Department of Industry, Tourism and Trade. Minerals and Energy InfoCentre - Alice Springs.",Research & Reports,research,0
 XAZ,"NT Department of Industry, Tourism and Trade. Arid Zone Research Institute Library.",Books & Libraries,book,7205
 XAZ,"NT Department of Industry, Tourism and Trade. Arid Zone Research Institute Library.","Diaries, Letters & Archives",diary,35
 XAZ,"NT Department of Industry, Tourism and Trade. Arid Zone Research Institute Library.","Images, Maps & Artefacts",image,76
@@ -9707,12 +9635,6 @@ XKATR,NT Schools Katherine Region.,"Images, Maps & Artefacts",image,126
 XKATR,NT Schools Katherine Region.,Magazines & Newsletters,magazine,0
 XKATR,NT Schools Katherine Region.,"Music, Audio & Video",music,3229
 XKATR,NT Schools Katherine Region.,Research & Reports,research,684
-XKATR:BC,NT Schools Katherine Region. Barunga Community.,Books & Libraries,book,0
-XKATR:BC,NT Schools Katherine Region. Barunga Community.,"Diaries, Letters & Archives",diary,0
-XKATR:BC,NT Schools Katherine Region. Barunga Community.,"Images, Maps & Artefacts",image,0
-XKATR:BC,NT Schools Katherine Region. Barunga Community.,Magazines & Newsletters,magazine,0
-XKATR:BC,NT Schools Katherine Region. Barunga Community.,"Music, Audio & Video",music,0
-XKATR:BC,NT Schools Katherine Region. Barunga Community.,Research & Reports,research,0
 ,NT Schools Katherine Region. Katherine High School,Books & Libraries,book,0
 ,NT Schools Katherine Region. Katherine High School,"Diaries, Letters & Archives",diary,0
 ,NT Schools Katherine Region. Katherine High School,"Images, Maps & Artefacts",image,0
@@ -9725,6 +9647,12 @@ XKATR:KH,NT Schools Katherine Region. Katherine High School Library Resource Cen
 XKATR:KH,NT Schools Katherine Region. Katherine High School Library Resource Centre.,Magazines & Newsletters,magazine,0
 XKATR:KH,NT Schools Katherine Region. Katherine High School Library Resource Centre.,"Music, Audio & Video",music,3221
 XKATR:KH,NT Schools Katherine Region. Katherine High School Library Resource Centre.,Research & Reports,research,664
+XKATR:BC,NT Schools Katherine Region. Barunga Community.,Books & Libraries,book,0
+XKATR:BC,NT Schools Katherine Region. Barunga Community.,"Diaries, Letters & Archives",diary,0
+XKATR:BC,NT Schools Katherine Region. Barunga Community.,"Images, Maps & Artefacts",image,0
+XKATR:BC,NT Schools Katherine Region. Barunga Community.,Magazines & Newsletters,magazine,0
+XKATR:BC,NT Schools Katherine Region. Barunga Community.,"Music, Audio & Video",music,0
+XKATR:BC,NT Schools Katherine Region. Barunga Community.,Research & Reports,research,0
 XPALR,NT Schools Palmerston and Rural Region.,Books & Libraries,book,19245
 XPALR,NT Schools Palmerston and Rural Region.,"Diaries, Letters & Archives",diary,147
 XPALR,NT Schools Palmerston and Rural Region.,"Images, Maps & Artefacts",image,569
@@ -9827,7 +9755,7 @@ NPRK,Parkes Shire Council. Parkes Shire Library.,Research & Reports,research,637
 ,Parkes Shire Council. Parkes Shire Library. Tullamore Library.,Magazines & Newsletters,magazine,0
 ,Parkes Shire Council. Parkes Shire Library. Tullamore Library.,"Music, Audio & Video",music,0
 ,Parkes Shire Council. Parkes Shire Library. Tullamore Library.,Research & Reports,research,0
-APAR,Parliament of  Australia. Parliamentary Library.,Books & Libraries,book,101883
+APAR,Parliament of  Australia. Parliamentary Library.,Books & Libraries,book,101884
 APAR,Parliament of  Australia. Parliamentary Library.,"Diaries, Letters & Archives",diary,438
 APAR,Parliament of  Australia. Parliamentary Library.,"Images, Maps & Artefacts",image,1212
 APAR,Parliament of  Australia. Parliamentary Library.,Magazines & Newsletters,magazine,47
@@ -10301,30 +10229,18 @@ QWQ,Queensland Department of Housing and Public Works. Library@HPW.,Research & R
 ,Queensland Museum.,Magazines & Newsletters,magazine,0
 ,Queensland Museum.,"Music, Audio & Video",music,0
 ,Queensland Museum.,Research & Reports,research,0
-QMU,Queensland Museum. Queensland Museum Library.,Books & Libraries,book,24435
+QMU,Queensland Museum. Queensland Museum Library.,Books & Libraries,book,24434
 QMU,Queensland Museum. Queensland Museum Library.,"Diaries, Letters & Archives",diary,237
-QMU,Queensland Museum. Queensland Museum Library.,"Images, Maps & Artefacts",image,291
+QMU,Queensland Museum. Queensland Museum Library.,"Images, Maps & Artefacts",image,290
 QMU,Queensland Museum. Queensland Museum Library.,Magazines & Newsletters,magazine,4
 QMU,Queensland Museum. Queensland Museum Library.,"Music, Audio & Video",music,537
-QMU,Queensland Museum. Queensland Museum Library.,Research & Reports,research,4621
+QMU,Queensland Museum. Queensland Museum Library.,Research & Reports,research,4620
 QMU:ANDS,Queensland Museum. Research Data via ANDS.,Books & Libraries,book,0
 QMU:ANDS,Queensland Museum. Research Data via ANDS.,"Diaries, Letters & Archives",diary,0
 QMU:ANDS,Queensland Museum. Research Data via ANDS.,"Images, Maps & Artefacts",image,0
 QMU:ANDS,Queensland Museum. Research Data via ANDS.,Magazines & Newsletters,magazine,0
 QMU:ANDS,Queensland Museum. Research Data via ANDS.,"Music, Audio & Video",music,0
 QMU:ANDS,Queensland Museum. Research Data via ANDS.,Research & Reports,research,40
-QPQ:MU,Queensland Museum.,Books & Libraries,book,0
-QPQ:MU,Queensland Museum.,"Diaries, Letters & Archives",diary,0
-QPQ:MU,Queensland Museum.,"Images, Maps & Artefacts",image,151
-QPQ:MU,Queensland Museum.,Magazines & Newsletters,magazine,0
-QPQ:MU,Queensland Museum.,"Music, Audio & Video",music,0
-QPQ:MU,Queensland Museum.,Research & Reports,research,0
-QPQ:PAT,Queensland Performing Arts Centre Museum.,Books & Libraries,book,0
-QPQ:PAT,Queensland Performing Arts Centre Museum.,"Diaries, Letters & Archives",diary,0
-QPQ:PAT,Queensland Performing Arts Centre Museum.,"Images, Maps & Artefacts",image,194
-QPQ:PAT,Queensland Performing Arts Centre Museum.,Magazines & Newsletters,magazine,0
-QPQ:PAT,Queensland Performing Arts Centre Museum.,"Music, Audio & Video",music,0
-QPQ:PAT,Queensland Performing Arts Centre Museum.,Research & Reports,research,0
 QPM,Queensland Police Museum.,Books & Libraries,book,135
 QPM,Queensland Police Museum.,"Diaries, Letters & Archives",diary,0
 QPM,Queensland Police Museum.,"Images, Maps & Artefacts",image,2230
@@ -10673,6 +10589,12 @@ VJSC,RMIT University. Justice Smith Collection: Graduate School of Business & La
 VJSC,RMIT University. Justice Smith Collection: Graduate School of Business & Law: RMIT University.,Magazines & Newsletters,magazine,0
 VJSC,RMIT University. Justice Smith Collection: Graduate School of Business & Law: RMIT University.,"Music, Audio & Video",music,17
 VJSC,RMIT University. Justice Smith Collection: Graduate School of Business & Law: RMIT University.,Research & Reports,research,183
+,"RMIT University. RMIT Design Archives, School of Architecture + Design.",Books & Libraries,book,0
+,"RMIT University. RMIT Design Archives, School of Architecture + Design.","Diaries, Letters & Archives",diary,0
+,"RMIT University. RMIT Design Archives, School of Architecture + Design.","Images, Maps & Artefacts",image,0
+,"RMIT University. RMIT Design Archives, School of Architecture + Design.",Magazines & Newsletters,magazine,0
+,"RMIT University. RMIT Design Archives, School of Architecture + Design.","Music, Audio & Video",music,0
+,"RMIT University. RMIT Design Archives, School of Architecture + Design.",Research & Reports,research,0
 VIT,RMIT University. RMIT University Library.,Books & Libraries,book,258685
 VIT,RMIT University. RMIT University Library.,"Diaries, Letters & Archives",diary,671
 VIT,RMIT University. RMIT University Library.,"Images, Maps & Artefacts",image,661
@@ -10931,12 +10853,6 @@ NRLC,SCECGS Redlands. SCECGS Redlands Library.,"Images, Maps & Artefacts",image,
 NRLC,SCECGS Redlands. SCECGS Redlands Library.,Magazines & Newsletters,magazine,0
 NRLC,SCECGS Redlands. SCECGS Redlands Library.,"Music, Audio & Video",music,0
 NRLC,SCECGS Redlands. SCECGS Redlands Library.,Research & Reports,research,0
-QPQ:SRL,Scenic Rim Libraries.,Books & Libraries,book,0
-QPQ:SRL,Scenic Rim Libraries.,"Diaries, Letters & Archives",diary,0
-QPQ:SRL,Scenic Rim Libraries.,"Images, Maps & Artefacts",image,279
-QPQ:SRL,Scenic Rim Libraries.,Magazines & Newsletters,magazine,0
-QPQ:SRL,Scenic Rim Libraries.,"Music, Audio & Video",music,0
-QPQ:SRL,Scenic Rim Libraries.,Research & Reports,research,0
 QBSC,Scenic Rim Regional Council Libraries. Beaudesert Library.,Books & Libraries,book,0
 QBSC,Scenic Rim Regional Council Libraries. Beaudesert Library.,"Diaries, Letters & Archives",diary,0
 QBSC,Scenic Rim Regional Council Libraries. Beaudesert Library.,"Images, Maps & Artefacts",image,0
@@ -12223,10 +12139,10 @@ NSV,St Vincent's Hospital (Sydney). Walter McGrath Library.,"Music, Audio & Vide
 NSV,St Vincent's Hospital (Sydney). Walter McGrath Library.,Research & Reports,research,301
 NSL,State Library of NSW.,Books & Libraries,book,1350040
 NSL,State Library of NSW.,"Diaries, Letters & Archives",diary,141509
-NSL,State Library of NSW.,"Images, Maps & Artefacts",image,544773
+NSL,State Library of NSW.,"Images, Maps & Artefacts",image,544772
 NSL,State Library of NSW.,Magazines & Newsletters,magazine,92
 NSL,State Library of NSW.,"Music, Audio & Video",music,102506
-NSL,State Library of NSW.,Research & Reports,research,234015
+NSL,State Library of NSW.,Research & Reports,research,234014
 NSL:NED,State Library of NSW. National edeposit (NSW).,Books & Libraries,book,54768
 NSL:NED,State Library of NSW. National edeposit (NSW).,"Diaries, Letters & Archives",diary,127
 NSL:NED,State Library of NSW. National edeposit (NSW).,"Images, Maps & Artefacts",image,663
@@ -12235,10 +12151,10 @@ NSL:NED,State Library of NSW. National edeposit (NSW).,"Music, Audio & Video",mu
 NSL:NED,State Library of NSW. National edeposit (NSW).,Research & Reports,research,38558
 QSL,State Library of Queensland.,Books & Libraries,book,549680
 QSL,State Library of Queensland.,"Diaries, Letters & Archives",diary,8848
-QSL,State Library of Queensland.,"Images, Maps & Artefacts",image,257898
+QSL,State Library of Queensland.,"Images, Maps & Artefacts",image,257897
 QSL,State Library of Queensland.,Magazines & Newsletters,magazine,29
 QSL,State Library of Queensland.,"Music, Audio & Video",music,75587
-QSL,State Library of Queensland.,Research & Reports,research,70293
+QSL,State Library of Queensland.,Research & Reports,research,70292
 QSL:GR,State Library of Queensland. Government Research and Information Library .,Books & Libraries,book,0
 QSL:GR,State Library of Queensland. Government Research and Information Library .,"Diaries, Letters & Archives",diary,0
 QSL:GR,State Library of Queensland. Government Research and Information Library .,"Images, Maps & Artefacts",image,0
@@ -12251,7 +12167,103 @@ QSL:NED,State Library of Queensland. National edeposit (QLD).,"Images, Maps & Ar
 QSL:NED,State Library of Queensland. National edeposit (QLD).,Magazines & Newsletters,magazine,1
 QSL:NED,State Library of Queensland. National edeposit (QLD).,"Music, Audio & Video",music,5615
 QSL:NED,State Library of Queensland. National edeposit (QLD).,Research & Reports,research,37957
-SSL,State Library of South Australia.,Books & Libraries,book,500229
+,State Library of Queensland. Picture Queensland partner,Books & Libraries,book,0
+,State Library of Queensland. Picture Queensland partner,"Diaries, Letters & Archives",diary,0
+,State Library of Queensland. Picture Queensland partner,"Images, Maps & Artefacts",image,0
+,State Library of Queensland. Picture Queensland partner,Magazines & Newsletters,magazine,0
+,State Library of Queensland. Picture Queensland partner,"Music, Audio & Video",music,0
+,State Library of Queensland. Picture Queensland partner,Research & Reports,research,0
+QPQ:BAN,State Library of Queensland. Picture Queensland partner Banana Shire Library.,Books & Libraries,book,0
+QPQ:BAN,State Library of Queensland. Picture Queensland partner Banana Shire Library.,"Diaries, Letters & Archives",diary,0
+QPQ:BAN,State Library of Queensland. Picture Queensland partner Banana Shire Library.,"Images, Maps & Artefacts",image,99
+QPQ:BAN,State Library of Queensland. Picture Queensland partner Banana Shire Library.,Magazines & Newsletters,magazine,0
+QPQ:BAN,State Library of Queensland. Picture Queensland partner Banana Shire Library.,"Music, Audio & Video",music,0
+QPQ:BAN,State Library of Queensland. Picture Queensland partner Banana Shire Library.,Research & Reports,research,0
+QPQ:BRCL,State Library of Queensland. Picture Queensland partner Barcaldine Regional Council Library.,Books & Libraries,book,0
+QPQ:BRCL,State Library of Queensland. Picture Queensland partner Barcaldine Regional Council Library.,"Diaries, Letters & Archives",diary,0
+QPQ:BRCL,State Library of Queensland. Picture Queensland partner Barcaldine Regional Council Library.,"Images, Maps & Artefacts",image,98
+QPQ:BRCL,State Library of Queensland. Picture Queensland partner Barcaldine Regional Council Library.,Magazines & Newsletters,magazine,0
+QPQ:BRCL,State Library of Queensland. Picture Queensland partner Barcaldine Regional Council Library.,"Music, Audio & Video",music,0
+QPQ:BRCL,State Library of Queensland. Picture Queensland partner Barcaldine Regional Council Library.,Research & Reports,research,0
+QPQ:BUN,State Library of Queensland. Picture Queensland partner Bundaberg Regional Libraries.,Books & Libraries,book,0
+QPQ:BUN,State Library of Queensland. Picture Queensland partner Bundaberg Regional Libraries.,"Diaries, Letters & Archives",diary,0
+QPQ:BUN,State Library of Queensland. Picture Queensland partner Bundaberg Regional Libraries.,"Images, Maps & Artefacts",image,105
+QPQ:BUN,State Library of Queensland. Picture Queensland partner Bundaberg Regional Libraries.,Magazines & Newsletters,magazine,0
+QPQ:BUN,State Library of Queensland. Picture Queensland partner Bundaberg Regional Libraries.,"Music, Audio & Video",music,0
+QPQ:BUN,State Library of Queensland. Picture Queensland partner Bundaberg Regional Libraries.,Research & Reports,research,0
+QPQ:AYR,State Library of Queensland. Picture Queensland partner Burdekin Libraries.,Books & Libraries,book,0
+QPQ:AYR,State Library of Queensland. Picture Queensland partner Burdekin Libraries.,"Diaries, Letters & Archives",diary,0
+QPQ:AYR,State Library of Queensland. Picture Queensland partner Burdekin Libraries.,"Images, Maps & Artefacts",image,368
+QPQ:AYR,State Library of Queensland. Picture Queensland partner Burdekin Libraries.,Magazines & Newsletters,magazine,0
+QPQ:AYR,State Library of Queensland. Picture Queensland partner Burdekin Libraries.,"Music, Audio & Video",music,0
+QPQ:AYR,State Library of Queensland. Picture Queensland partner Burdekin Libraries.,Research & Reports,research,0
+QPQ:CCL,State Library of Queensland. Picture Queensland partner Cairns Libraries.,Books & Libraries,book,0
+QPQ:CCL,State Library of Queensland. Picture Queensland partner Cairns Libraries.,"Diaries, Letters & Archives",diary,0
+QPQ:CCL,State Library of Queensland. Picture Queensland partner Cairns Libraries.,"Images, Maps & Artefacts",image,101
+QPQ:CCL,State Library of Queensland. Picture Queensland partner Cairns Libraries.,Magazines & Newsletters,magazine,0
+QPQ:CCL,State Library of Queensland. Picture Queensland partner Cairns Libraries.,"Music, Audio & Video",music,0
+QPQ:CCL,State Library of Queensland. Picture Queensland partner Cairns Libraries.,Research & Reports,research,0
+QPQ:FCL,State Library of Queensland. Picture Queensland partner Fraser Coast Libraries.,Books & Libraries,book,0
+QPQ:FCL,State Library of Queensland. Picture Queensland partner Fraser Coast Libraries.,"Diaries, Letters & Archives",diary,0
+QPQ:FCL,State Library of Queensland. Picture Queensland partner Fraser Coast Libraries.,"Images, Maps & Artefacts",image,301
+QPQ:FCL,State Library of Queensland. Picture Queensland partner Fraser Coast Libraries.,Magazines & Newsletters,magazine,0
+QPQ:FCL,State Library of Queensland. Picture Queensland partner Fraser Coast Libraries.,"Music, Audio & Video",music,0
+QPQ:FCL,State Library of Queensland. Picture Queensland partner Fraser Coast Libraries.,Research & Reports,research,0
+QPQ:COO,State Library of Queensland. Picture Queensland partner Gympie Regional Libraries.,Books & Libraries,book,0
+QPQ:COO,State Library of Queensland. Picture Queensland partner Gympie Regional Libraries.,"Diaries, Letters & Archives",diary,0
+QPQ:COO,State Library of Queensland. Picture Queensland partner Gympie Regional Libraries.,"Images, Maps & Artefacts",image,106
+QPQ:COO,State Library of Queensland. Picture Queensland partner Gympie Regional Libraries.,Magazines & Newsletters,magazine,0
+QPQ:COO,State Library of Queensland. Picture Queensland partner Gympie Regional Libraries.,"Music, Audio & Video",music,0
+QPQ:COO,State Library of Queensland. Picture Queensland partner Gympie Regional Libraries.,Research & Reports,research,0
+QPQ:HSLS,State Library of Queensland. Picture Queensland partner Hinchinbrook Shire Library Service.,Books & Libraries,book,0
+QPQ:HSLS,State Library of Queensland. Picture Queensland partner Hinchinbrook Shire Library Service.,"Diaries, Letters & Archives",diary,0
+QPQ:HSLS,State Library of Queensland. Picture Queensland partner Hinchinbrook Shire Library Service.,"Images, Maps & Artefacts",image,99
+QPQ:HSLS,State Library of Queensland. Picture Queensland partner Hinchinbrook Shire Library Service.,Magazines & Newsletters,magazine,0
+QPQ:HSLS,State Library of Queensland. Picture Queensland partner Hinchinbrook Shire Library Service.,"Music, Audio & Video",music,0
+QPQ:HSLS,State Library of Queensland. Picture Queensland partner Hinchinbrook Shire Library Service.,Research & Reports,research,0
+QPQ:MRCL,State Library of Queensland. Picture Queensland partner Mackay Regional Council Libraries.,Books & Libraries,book,0
+QPQ:MRCL,State Library of Queensland. Picture Queensland partner Mackay Regional Council Libraries.,"Diaries, Letters & Archives",diary,0
+QPQ:MRCL,State Library of Queensland. Picture Queensland partner Mackay Regional Council Libraries.,"Images, Maps & Artefacts",image,442
+QPQ:MRCL,State Library of Queensland. Picture Queensland partner Mackay Regional Council Libraries.,Magazines & Newsletters,magazine,0
+QPQ:MRCL,State Library of Queensland. Picture Queensland partner Mackay Regional Council Libraries.,"Music, Audio & Video",music,0
+QPQ:MRCL,State Library of Queensland. Picture Queensland partner Mackay Regional Council Libraries.,Research & Reports,research,0
+QPQ:MI,State Library of Queensland. Picture Queensland partner Mount Isa City Library.,Books & Libraries,book,0
+QPQ:MI,State Library of Queensland. Picture Queensland partner Mount Isa City Library.,"Diaries, Letters & Archives",diary,0
+QPQ:MI,State Library of Queensland. Picture Queensland partner Mount Isa City Library.,"Images, Maps & Artefacts",image,83
+QPQ:MI,State Library of Queensland. Picture Queensland partner Mount Isa City Library.,Magazines & Newsletters,magazine,0
+QPQ:MI,State Library of Queensland. Picture Queensland partner Mount Isa City Library.,"Music, Audio & Video",music,0
+QPQ:MI,State Library of Queensland. Picture Queensland partner Mount Isa City Library.,Research & Reports,research,0
+QPQ:MU,State Library of Queensland. Picture Queensland partner Queensland Museum.,Books & Libraries,book,0
+QPQ:MU,State Library of Queensland. Picture Queensland partner Queensland Museum.,"Diaries, Letters & Archives",diary,0
+QPQ:MU,State Library of Queensland. Picture Queensland partner Queensland Museum.,"Images, Maps & Artefacts",image,151
+QPQ:MU,State Library of Queensland. Picture Queensland partner Queensland Museum.,Magazines & Newsletters,magazine,0
+QPQ:MU,State Library of Queensland. Picture Queensland partner Queensland Museum.,"Music, Audio & Video",music,0
+QPQ:MU,State Library of Queensland. Picture Queensland partner Queensland Museum.,Research & Reports,research,0
+QPQ:PAT,State Library of Queensland. Picture Queensland partner Queensland Performing Arts Centre Museum.,Books & Libraries,book,0
+QPQ:PAT,State Library of Queensland. Picture Queensland partner Queensland Performing Arts Centre Museum.,"Diaries, Letters & Archives",diary,0
+QPQ:PAT,State Library of Queensland. Picture Queensland partner Queensland Performing Arts Centre Museum.,"Images, Maps & Artefacts",image,194
+QPQ:PAT,State Library of Queensland. Picture Queensland partner Queensland Performing Arts Centre Museum.,Magazines & Newsletters,magazine,0
+QPQ:PAT,State Library of Queensland. Picture Queensland partner Queensland Performing Arts Centre Museum.,"Music, Audio & Video",music,0
+QPQ:PAT,State Library of Queensland. Picture Queensland partner Queensland Performing Arts Centre Museum.,Research & Reports,research,0
+QPQ:SRL,State Library of Queensland. Picture Queensland partner Scenic Rim Libraries.,Books & Libraries,book,0
+QPQ:SRL,State Library of Queensland. Picture Queensland partner Scenic Rim Libraries.,"Diaries, Letters & Archives",diary,0
+QPQ:SRL,State Library of Queensland. Picture Queensland partner Scenic Rim Libraries.,"Images, Maps & Artefacts",image,279
+QPQ:SRL,State Library of Queensland. Picture Queensland partner Scenic Rim Libraries.,Magazines & Newsletters,magazine,0
+QPQ:SRL,State Library of Queensland. Picture Queensland partner Scenic Rim Libraries.,"Music, Audio & Video",music,0
+QPQ:SRL,State Library of Queensland. Picture Queensland partner Scenic Rim Libraries.,Research & Reports,research,0
+QPQ:TBL,State Library of Queensland. Picture Queensland partner Tablelands Regional Libraries.,Books & Libraries,book,0
+QPQ:TBL,State Library of Queensland. Picture Queensland partner Tablelands Regional Libraries.,"Diaries, Letters & Archives",diary,0
+QPQ:TBL,State Library of Queensland. Picture Queensland partner Tablelands Regional Libraries.,"Images, Maps & Artefacts",image,161
+QPQ:TBL,State Library of Queensland. Picture Queensland partner Tablelands Regional Libraries.,Magazines & Newsletters,magazine,0
+QPQ:TBL,State Library of Queensland. Picture Queensland partner Tablelands Regional Libraries.,"Music, Audio & Video",music,0
+QPQ:TBL,State Library of Queensland. Picture Queensland partner Tablelands Regional Libraries.,Research & Reports,research,0
+QPQ:DWP,State Library of Queensland. Picture Queensland partner Western Downs Regional Libraries (Chinchilla).,Books & Libraries,book,0
+QPQ:DWP,State Library of Queensland. Picture Queensland partner Western Downs Regional Libraries (Chinchilla).,"Diaries, Letters & Archives",diary,0
+QPQ:DWP,State Library of Queensland. Picture Queensland partner Western Downs Regional Libraries (Chinchilla).,"Images, Maps & Artefacts",image,97
+QPQ:DWP,State Library of Queensland. Picture Queensland partner Western Downs Regional Libraries (Chinchilla).,Magazines & Newsletters,magazine,0
+QPQ:DWP,State Library of Queensland. Picture Queensland partner Western Downs Regional Libraries (Chinchilla).,"Music, Audio & Video",music,0
+QPQ:DWP,State Library of Queensland. Picture Queensland partner Western Downs Regional Libraries (Chinchilla).,Research & Reports,research,0
+SSL,State Library of South Australia.,Books & Libraries,book,500230
 SSL,State Library of South Australia.,"Diaries, Letters & Archives",diary,14607
 SSL,State Library of South Australia.,"Images, Maps & Artefacts",image,192455
 SSL,State Library of South Australia.,Magazines & Newsletters,magazine,29
@@ -12281,12 +12293,12 @@ WLB:NED,State Library of Western Australia. National edeposit (WA).,"Images, Map
 WLB:NED,State Library of Western Australia. National edeposit (WA).,Magazines & Newsletters,magazine,1
 WLB:NED,State Library of Western Australia. National edeposit (WA).,"Music, Audio & Video",music,5518
 WLB:NED,State Library of Western Australia. National edeposit (WA).,Research & Reports,research,38331
-VSL,State Library Victoria.,Books & Libraries,book,1349978
+VSL,State Library Victoria.,Books & Libraries,book,1349979
 VSL,State Library Victoria.,"Diaries, Letters & Archives",diary,73342
 VSL,State Library Victoria.,"Images, Maps & Artefacts",image,309420
 VSL,State Library Victoria.,Magazines & Newsletters,magazine,73
 VSL,State Library Victoria.,"Music, Audio & Video",music,104426
-VSL,State Library Victoria.,Research & Reports,research,440719
+VSL,State Library Victoria.,Research & Reports,research,440718
 VSL:NED,State Library Victoria. National edeposit (VIC).,Books & Libraries,book,44431
 VSL:NED,State Library Victoria. National edeposit (VIC).,"Diaries, Letters & Archives",diary,140
 VSL:NED,State Library Victoria. National edeposit (VIC).,"Images, Maps & Artefacts",image,653
@@ -12713,13 +12725,7 @@ NSMB,Sydney Missionary and Bible College. J.T.H. Kerr Library.,"Images, Maps & A
 NSMB,Sydney Missionary and Bible College. J.T.H. Kerr Library.,Magazines & Newsletters,magazine,0
 NSMB,Sydney Missionary and Bible College. J.T.H. Kerr Library.,"Music, Audio & Video",music,0
 NSMB,Sydney Missionary and Bible College. J.T.H. Kerr Library.,Research & Reports,research,0
-QPQ:TBL,Tablelands Regional Libraries.,Books & Libraries,book,0
-QPQ:TBL,Tablelands Regional Libraries.,"Diaries, Letters & Archives",diary,0
-QPQ:TBL,Tablelands Regional Libraries.,"Images, Maps & Artefacts",image,161
-QPQ:TBL,Tablelands Regional Libraries.,Magazines & Newsletters,magazine,0
-QPQ:TBL,Tablelands Regional Libraries.,"Music, Audio & Video",music,0
-QPQ:TBL,Tablelands Regional Libraries.,Research & Reports,research,0
-QTBL,Tablelands Regional Libraries.,Books & Libraries,book,30400
+QTBL,Tablelands Regional Libraries.,Books & Libraries,book,30401
 QTBL,Tablelands Regional Libraries.,"Diaries, Letters & Archives",diary,60
 QTBL,Tablelands Regional Libraries.,"Images, Maps & Artefacts",image,137
 QTBL,Tablelands Regional Libraries.,Magazines & Newsletters,magazine,0
@@ -13373,7 +13379,7 @@ SBCPL,The Barossa Council. Nuriootpa Library.,"Images, Maps & Artefacts",image,2
 SBCPL,The Barossa Council. Nuriootpa Library.,Magazines & Newsletters,magazine,0
 SBCPL,The Barossa Council. Nuriootpa Library.,"Music, Audio & Video",music,17731
 SBCPL,The Barossa Council. Nuriootpa Library.,Research & Reports,research,738
-QBOO,The Book House.,Books & Libraries,book,1108
+QBOO,The Book House.,Books & Libraries,book,1109
 QBOO,The Book House.,"Diaries, Letters & Archives",diary,0
 QBOO,The Book House.,"Images, Maps & Artefacts",image,1
 QBOO,The Book House.,Magazines & Newsletters,magazine,0
@@ -13565,7 +13571,7 @@ VU:ANDS,The University of Melbourne. Research Data via ANDS.,"Images, Maps & Art
 VU:ANDS,The University of Melbourne. Research Data via ANDS.,Magazines & Newsletters,magazine,0
 VU:ANDS,The University of Melbourne. Research Data via ANDS.,"Music, Audio & Video",music,0
 VU:ANDS,The University of Melbourne. Research Data via ANDS.,Research & Reports,research,1030
-VU,The University of Melbourne. The University of Melbourne Library.,Books & Libraries,book,1432346
+VU,The University of Melbourne. The University of Melbourne Library.,Books & Libraries,book,1432347
 VU,The University of Melbourne. The University of Melbourne Library.,"Diaries, Letters & Archives",diary,3714
 VU,The University of Melbourne. The University of Melbourne Library.,"Images, Maps & Artefacts",image,21309
 VU,The University of Melbourne. The University of Melbourne Library.,Magazines & Newsletters,magazine,42
@@ -13687,10 +13693,10 @@ QU:ANDS,The University of Queensland. Research Data via ANDS.,"Music, Audio & Vi
 QU:ANDS,The University of Queensland. Research Data via ANDS.,Research & Reports,research,1069
 QU,The University of Queensland. University of Queensland Library.,Books & Libraries,book,832616
 QU,The University of Queensland. University of Queensland Library.,"Diaries, Letters & Archives",diary,1820
-QU,The University of Queensland. University of Queensland Library.,"Images, Maps & Artefacts",image,6735
+QU,The University of Queensland. University of Queensland Library.,"Images, Maps & Artefacts",image,6734
 QU,The University of Queensland. University of Queensland Library.,Magazines & Newsletters,magazine,24
 QU,The University of Queensland. University of Queensland Library.,"Music, Audio & Video",music,65430
-QU,The University of Queensland. University of Queensland Library.,Research & Reports,research,101447
+QU,The University of Queensland. University of Queensland Library.,Research & Reports,research,101446
 QU:IR,The University of Queensland. University of Queensland Library. University of Queensland: Institutional Repository.,Books & Libraries,book,141475
 QU:IR,The University of Queensland. University of Queensland Library. University of Queensland: Institutional Repository.,"Diaries, Letters & Archives",diary,1116
 QU:IR,The University of Queensland. University of Queensland Library. University of Queensland: Institutional Repository.,"Images, Maps & Artefacts",image,17642
@@ -13757,7 +13763,7 @@ NSSC,The University of Sydney. Sancta Sophia College Library.,Research & Reports
 ,The University of Sydney. The Koori Centre Research Library.,Magazines & Newsletters,magazine,0
 ,The University of Sydney. The Koori Centre Research Library.,"Music, Audio & Video",music,0
 ,The University of Sydney. The Koori Centre Research Library.,Research & Reports,research,0
-NU,The University of Sydney. University of Sydney Library.,Books & Libraries,book,1464585
+NU,The University of Sydney. University of Sydney Library.,Books & Libraries,book,1464586
 NU,The University of Sydney. University of Sydney Library.,"Diaries, Letters & Archives",diary,3006
 NU,The University of Sydney. University of Sydney Library.,"Images, Maps & Artefacts",image,4850
 NU,The University of Sydney. University of Sydney Library.,Magazines & Newsletters,magazine,29
@@ -14051,24 +14057,24 @@ QTCL,Townsville City Council. Townsville Citylibraries.,"Images, Maps & Artefact
 QTCL,Townsville City Council. Townsville Citylibraries.,Magazines & Newsletters,magazine,0
 QTCL,Townsville City Council. Townsville Citylibraries.,"Music, Audio & Video",music,37554
 QTCL,Townsville City Council. Townsville Citylibraries.,Research & Reports,research,2059
-,Townsville City Council. Townsville Citylibraries. CityLibraries Aitkenvale .,Books & Libraries,book,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Aitkenvale .,"Diaries, Letters & Archives",diary,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Aitkenvale .,"Images, Maps & Artefacts",image,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Aitkenvale .,Magazines & Newsletters,magazine,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Aitkenvale .,"Music, Audio & Video",music,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Aitkenvale .,Research & Reports,research,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Flinders Street.,Books & Libraries,book,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Flinders Street.,"Diaries, Letters & Archives",diary,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Flinders Street.,"Images, Maps & Artefacts",image,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Flinders Street.,Magazines & Newsletters,magazine,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Flinders Street.,"Music, Audio & Video",music,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Flinders Street.,Research & Reports,research,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Thuringowa.,Books & Libraries,book,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Thuringowa.,"Diaries, Letters & Archives",diary,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Thuringowa.,"Images, Maps & Artefacts",image,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Thuringowa.,Magazines & Newsletters,magazine,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Thuringowa.,"Music, Audio & Video",music,0
-,Townsville City Council. Townsville Citylibraries. CityLibraries Thuringowa.,Research & Reports,research,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Aitkenvale .,Books & Libraries,book,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Aitkenvale .,"Diaries, Letters & Archives",diary,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Aitkenvale .,"Images, Maps & Artefacts",image,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Aitkenvale .,Magazines & Newsletters,magazine,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Aitkenvale .,"Music, Audio & Video",music,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Aitkenvale .,Research & Reports,research,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Flinders Street.,Books & Libraries,book,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Flinders Street.,"Diaries, Letters & Archives",diary,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Flinders Street.,"Images, Maps & Artefacts",image,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Flinders Street.,Magazines & Newsletters,magazine,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Flinders Street.,"Music, Audio & Video",music,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Flinders Street.,Research & Reports,research,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Riverway.,Books & Libraries,book,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Riverway.,"Diaries, Letters & Archives",diary,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Riverway.,"Images, Maps & Artefacts",image,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Riverway.,Magazines & Newsletters,magazine,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Riverway.,"Music, Audio & Video",music,0
+,Townsville City Council. Townsville Citylibraries. Citylibraries Riverway.,Research & Reports,research,0
 QTGS,Townsville Grammar School. Library and Resource Centre.,Books & Libraries,book,0
 QTGS,Townsville Grammar School. Library and Resource Centre.,"Diaries, Letters & Archives",diary,0
 QTGS,Townsville Grammar School. Library and Resource Centre.,"Images, Maps & Artefacts",image,0
@@ -14183,7 +14189,7 @@ SUA:AC,University of Adelaide. Adelaide Connect.,"Images, Maps & Artefacts",imag
 SUA:AC,University of Adelaide. Adelaide Connect.,Magazines & Newsletters,magazine,0
 SUA:AC,University of Adelaide. Adelaide Connect.,"Music, Audio & Video",music,0
 SUA:AC,University of Adelaide. Adelaide Connect.,Research & Reports,research,0
-SUA,University of Adelaide. Barr Smith Library.,Books & Libraries,book,765747
+SUA,University of Adelaide. Barr Smith Library.,Books & Libraries,book,765748
 SUA,University of Adelaide. Barr Smith Library.,"Diaries, Letters & Archives",diary,2504
 SUA,University of Adelaide. Barr Smith Library.,"Images, Maps & Artefacts",image,4095
 SUA,University of Adelaide. Barr Smith Library.,Magazines & Newsletters,magazine,18
@@ -14309,7 +14315,7 @@ NNEA,University of New England and Regional Archives.,Research & Reports,researc
 ,University of New England.,Magazines & Newsletters,magazine,0
 ,University of New England.,"Music, Audio & Video",music,0
 ,University of New England.,Research & Reports,research,0
-NUNE,University of New England. Dixson Library.,Books & Libraries,book,185436
+NUNE,University of New England. Dixson Library.,Books & Libraries,book,185437
 NUNE,University of New England. Dixson Library.,"Diaries, Letters & Archives",diary,629
 NUNE,University of New England. Dixson Library.,"Images, Maps & Artefacts",image,656
 NUNE,University of New England. Dixson Library.,Magazines & Newsletters,magazine,5
@@ -14435,12 +14441,6 @@ WUND:IR,University of Notre Dame Australia. St Teresa's Library. University of N
 ,University of South Australia. City West Campus Library.,Magazines & Newsletters,magazine,0
 ,University of South Australia. City West Campus Library.,"Music, Audio & Video",music,0
 ,University of South Australia. City West Campus Library.,Research & Reports,research,0
-,University of South Australia. Magill Campus Library.,Books & Libraries,book,0
-,University of South Australia. Magill Campus Library.,"Diaries, Letters & Archives",diary,0
-,University of South Australia. Magill Campus Library.,"Images, Maps & Artefacts",image,0
-,University of South Australia. Magill Campus Library.,Magazines & Newsletters,magazine,0
-,University of South Australia. Magill Campus Library.,"Music, Audio & Video",music,0
-,University of South Australia. Magill Campus Library.,Research & Reports,research,0
 ,University of South Australia. Mawson Lakes Campus Library.,Books & Libraries,book,0
 ,University of South Australia. Mawson Lakes Campus Library.,"Diaries, Letters & Archives",diary,0
 ,University of South Australia. Mawson Lakes Campus Library.,"Images, Maps & Artefacts",image,0
@@ -14543,7 +14543,7 @@ TU:COLL,University of Tasmania Collections.,"Images, Maps & Artefacts",image,491
 TU:COLL,University of Tasmania Collections.,Magazines & Newsletters,magazine,0
 TU:COLL,University of Tasmania Collections.,"Music, Audio & Video",music,118
 TU:COLL,University of Tasmania Collections.,Research & Reports,research,1
-TU,University of Tasmania.,Books & Libraries,book,346009
+TU,University of Tasmania.,Books & Libraries,book,346010
 TU,University of Tasmania.,"Diaries, Letters & Archives",diary,1053
 TU,University of Tasmania.,"Images, Maps & Artefacts",image,1400
 TU,University of Tasmania.,Magazines & Newsletters,magazine,8
@@ -14639,7 +14639,7 @@ NTSM:E,University of Technology Sydney. UTS ePRESS.,"Images, Maps & Artefacts",i
 NTSM:E,University of Technology Sydney. UTS ePRESS.,Magazines & Newsletters,magazine,0
 NTSM:E,University of Technology Sydney. UTS ePRESS.,"Music, Audio & Video",music,2
 NTSM:E,University of Technology Sydney. UTS ePRESS.,Research & Reports,research,417
-NTSM,University of Technology Sydney. University Library.,Books & Libraries,book,464861
+NTSM,University of Technology Sydney. University Library.,Books & Libraries,book,464862
 NTSM,University of Technology Sydney. University Library.,"Diaries, Letters & Archives",diary,824
 NTSM,University of Technology Sydney. University Library.,"Images, Maps & Artefacts",image,1625
 NTSM,University of Technology Sydney. University Library.,Magazines & Newsletters,magazine,21
@@ -14782,7 +14782,7 @@ WU,University of Western Australia. University of Western Australia Library.,"Di
 WU,University of Western Australia. University of Western Australia Library.,"Images, Maps & Artefacts",image,3360
 WU,University of Western Australia. University of Western Australia Library.,Magazines & Newsletters,magazine,16
 WU,University of Western Australia. University of Western Australia Library.,"Music, Audio & Video",music,49458
-WU,University of Western Australia. University of Western Australia Library.,Research & Reports,research,80644
+WU,University of Western Australia. University of Western Australia Library.,Research & Reports,research,80645
 ,"University of Western Australia. University of Western Australia Library. Education, Fine Arts and Architecture Library.",Books & Libraries,book,0
 ,"University of Western Australia. University of Western Australia Library. Education, Fine Arts and Architecture Library.","Diaries, Letters & Archives",diary,0
 ,"University of Western Australia. University of Western Australia Library. Education, Fine Arts and Architecture Library.","Images, Maps & Artefacts",image,0
@@ -14843,7 +14843,7 @@ NWU:DC,University of Wollongong. University of Wollongong Archives .,"Images, Ma
 NWU:DC,University of Wollongong. University of Wollongong Archives .,Magazines & Newsletters,magazine,0
 NWU:DC,University of Wollongong. University of Wollongong Archives .,"Music, Audio & Video",music,4218
 NWU:DC,University of Wollongong. University of Wollongong Archives .,Research & Reports,research,8
-NWU,University of Wollongong. University of Wollongong Library.,Books & Libraries,book,191918
+NWU,University of Wollongong. University of Wollongong Library.,Books & Libraries,book,191919
 NWU,University of Wollongong. University of Wollongong Library.,"Diaries, Letters & Archives",diary,625
 NWU,University of Wollongong. University of Wollongong Library.,"Images, Maps & Artefacts",image,985
 NWU,University of Wollongong. University of Wollongong Library.,Magazines & Newsletters,magazine,21
@@ -14915,7 +14915,7 @@ NUN:ANDS,UNSW Sydney. Research Data via ANDS.,"Images, Maps & Artefacts",image,0
 NUN:ANDS,UNSW Sydney. Research Data via ANDS.,Magazines & Newsletters,magazine,0
 NUN:ANDS,UNSW Sydney. Research Data via ANDS.,"Music, Audio & Video",music,0
 NUN:ANDS,UNSW Sydney. Research Data via ANDS.,Research & Reports,research,303
-NUN,UNSW Sydney. UNSW Library.,Books & Libraries,book,428367
+NUN,UNSW Sydney. UNSW Library.,Books & Libraries,book,428368
 NUN,UNSW Sydney. UNSW Library.,"Diaries, Letters & Archives",diary,1161
 NUN,UNSW Sydney. UNSW Library.,"Images, Maps & Artefacts",image,4215
 NUN,UNSW Sydney. UNSW Library.,Magazines & Newsletters,magazine,12
@@ -15065,7 +15065,7 @@ VVBL,Victorian Bands' League.,"Images, Maps & Artefacts",image,21
 VVBL,Victorian Bands' League.,Magazines & Newsletters,magazine,0
 VVBL,Victorian Bands' League.,"Music, Audio & Video",music,0
 VVBL,Victorian Bands' League.,Research & Reports,research,0
-VGLS,Victorian Government Library Service.,Books & Libraries,book,34446
+VGLS,Victorian Government Library Service.,Books & Libraries,book,34447
 VGLS,Victorian Government Library Service.,"Diaries, Letters & Archives",diary,432
 VGLS,Victorian Government Library Service.,"Images, Maps & Artefacts",image,2397
 VGLS,Victorian Government Library Service.,Magazines & Newsletters,magazine,7
@@ -15245,7 +15245,7 @@ NWAVC,Waverley College.,Research & Reports,research,0
 ,Waverley College. Waverley College Library.,Magazines & Newsletters,magazine,0
 ,Waverley College. Waverley College Library.,"Music, Audio & Video",music,0
 ,Waverley College. Waverley College Library.,Research & Reports,research,0
-NWAV,Waverley Council. Waverley Library.,Books & Libraries,book,91503
+NWAV,Waverley Council. Waverley Library.,Books & Libraries,book,91501
 NWAV,Waverley Council. Waverley Library.,"Diaries, Letters & Archives",diary,405
 NWAV,Waverley Council. Waverley Library.,"Images, Maps & Artefacts",image,3938
 NWAV,Waverley Council. Waverley Library.,Magazines & Newsletters,magazine,0
@@ -15335,12 +15335,6 @@ QDWP,Western Downs Libraries. Dalby Library.,"Images, Maps & Artefacts",image,68
 QDWP,Western Downs Libraries. Dalby Library.,Magazines & Newsletters,magazine,0
 QDWP,Western Downs Libraries. Dalby Library.,"Music, Audio & Video",music,11810
 QDWP,Western Downs Libraries. Dalby Library.,Research & Reports,research,160
-QPQ:DWP,Western Downs Regional Libraries (Chinchilla).,Books & Libraries,book,0
-QPQ:DWP,Western Downs Regional Libraries (Chinchilla).,"Diaries, Letters & Archives",diary,0
-QPQ:DWP,Western Downs Regional Libraries (Chinchilla).,"Images, Maps & Artefacts",image,97
-QPQ:DWP,Western Downs Regional Libraries (Chinchilla).,Magazines & Newsletters,magazine,0
-QPQ:DWP,Western Downs Regional Libraries (Chinchilla).,"Music, Audio & Video",music,0
-QPQ:DWP,Western Downs Regional Libraries (Chinchilla).,Research & Reports,research,0
 VWEHE,Western Health.,Books & Libraries,book,0
 VWEHE,Western Health.,"Diaries, Letters & Archives",diary,0
 VWEHE,Western Health.,"Images, Maps & Artefacts",image,0
@@ -15359,7 +15353,7 @@ VWHS,Western Health. Sunshine Hospital Library.,"Images, Maps & Artefacts",image
 VWHS,Western Health. Sunshine Hospital Library.,Magazines & Newsletters,magazine,0
 VWHS,Western Health. Sunshine Hospital Library.,"Music, Audio & Video",music,75
 VWHS,Western Health. Sunshine Hospital Library.,Research & Reports,research,100
-NWES,Western Riverina Libraries. Griffith City Library.,Books & Libraries,book,76994
+NWES,Western Riverina Libraries. Griffith City Library.,Books & Libraries,book,76995
 NWES,Western Riverina Libraries. Griffith City Library.,"Diaries, Letters & Archives",diary,299
 NWES,Western Riverina Libraries. Griffith City Library.,"Images, Maps & Artefacts",image,575
 NWES,Western Riverina Libraries. Griffith City Library.,Magazines & Newsletters,magazine,0
@@ -15485,7 +15479,7 @@ NUWS:P,Western Sydney University. Parramatta South Campus Library.,"Images, Maps
 NUWS:P,Western Sydney University. Parramatta South Campus Library.,Magazines & Newsletters,magazine,1
 NUWS:P,Western Sydney University. Parramatta South Campus Library.,"Music, Audio & Video",music,4153
 NUWS:P,Western Sydney University. Parramatta South Campus Library.,Research & Reports,research,4708
-NUWS:W,Western Sydney University. Penrith Campus Library.,Books & Libraries,book,211277
+NUWS:W,Western Sydney University. Penrith Campus Library.,Books & Libraries,book,211278
 NUWS:W,Western Sydney University. Penrith Campus Library.,"Diaries, Letters & Archives",diary,660
 NUWS:W,Western Sydney University. Penrith Campus Library.,"Images, Maps & Artefacts",image,880
 NUWS:W,Western Sydney University. Penrith Campus Library.,Magazines & Newsletters,magazine,2
