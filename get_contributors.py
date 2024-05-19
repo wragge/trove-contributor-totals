@@ -23,13 +23,10 @@ def get_contrib_details(record, parent=None):
     details = {
         "id": record["id"],
         "name": record["name"],
+        "nuc": record.get("nuc"),
         "total": int(record["totalholdings"]),
         "parent": None,
     }
-    if "nuc" in record:
-        details["nuc"] = record["nuc"][0]
-    else:
-        details["nuc"] = None
     if parent:
         if not record["name"].startswith(parent["name"]):
             details["name"] = f"{parent['name']} {record['name']}"
@@ -43,20 +40,21 @@ def get_contrib_details(record, parent=None):
 
 def get_children(parent):
     children = []
-    for child in parent["children"]["contributor"]:
+    for child in parent["children"]:
         children += get_contrib_details(child, parent)
     return children
 
 
 def get_contributors():
     contributors = []
-    params = {"encoding": "json", "reclevel": "full", "key": API_KEY}
+    params = {"encoding": "json", "reclevel": "full"}
+    headers = {"X-API-KEY": API_KEY}
     response = s.get(
-        "https://api.trove.nla.gov.au/v2/contributor", params=params
+        "https://api.trove.nla.gov.au/v3/contributor", params=params, headers=headers
     )
     data = response.json()
     Path("data", "trove-contributors.json").write_text(json.dumps(data))
-    for contrib in data["response"]["contributor"]:
+    for contrib in data["contributor"]:
         contributors += get_contrib_details(contrib)
     return contributors
 

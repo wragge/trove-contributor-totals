@@ -24,7 +24,6 @@ jobs:
         TROVE_API_KEY: ${{ secrets.TROVE_API_KEY }}
       run: |-
         python get_contributors.py
-        python get_contributor_totals.py
         python get_contributor_totals_categories.py
     - name: Commit and push if it changed
       run: |-
